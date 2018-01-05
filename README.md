@@ -16,7 +16,8 @@ https://www.otexts.org/fpp/     -> R.J. Hyndman
 
 
 
-ML
-andrew NG coursera corse / stanford lectures
+ML:
+
+Andrew NG coursera course / stanford lectures
 
 http://scikit-learn.org/stable/user_guide.html     -> for links to different algos
