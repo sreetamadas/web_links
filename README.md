@@ -3,12 +3,17 @@ links to relevant websites
 
 
 statistics: 
+
 https://onlinecourses.science.psu.edu/stat510/
+
 
 
 time series:
+
 https://onlinecourses.science.psu.edu/stat510/
+
 https://www.otexts.org/fpp/     -> R.J. Hyndman
+
 
 
 ML
