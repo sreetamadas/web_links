@@ -6,6 +6,8 @@ links to relevant websites
 
 https://onlinecourses.science.psu.edu/stat510/
 
+http://blog.minitab.com/blog/adventures-in-statistics-2/regression-analysis-tutorial-and-examples
+
 
 
 * time series:
