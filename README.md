@@ -6,6 +6,18 @@ https://www.analyticsvidhya.com/blog/2017/12/15-data-science-repositories-github
 
 
 
+* theory
+
+https://www.nature.com/articles/nmeth.4370
+
+
+
+* R-links:
+
+https://kannan-kasthuri.github.io/pda.html
+
+
+
 * statistics: 
 
 https://onlinecourses.science.psu.edu/stat510/
@@ -27,7 +39,6 @@ https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-pytho
 https://machinelearningmastery.com/time-series-forecast-study-python-monthly-sales-french-champagne/
 
 wmbriggs.com/post/735/
-
 
 
 
