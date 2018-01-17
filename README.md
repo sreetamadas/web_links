@@ -24,6 +24,11 @@ https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-model
 
 https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/
 
+https://machinelearningmastery.com/time-series-forecast-study-python-monthly-sales-french-champagne/
+
+wmbriggs.com/post/735/
+
+
 
 
 * ML:
@@ -31,3 +36,5 @@ https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-pytho
 Andrew NG coursera course / stanford lectures
 
 http://scikit-learn.org/stable/user_guide.html     -> for links to different algos
+
+Machine learning mastery
