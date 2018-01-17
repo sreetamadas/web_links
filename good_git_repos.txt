@@ -1,0 +1,39 @@
+# repositories to follow
+
+https://www.analyticsvidhya.com/blog/2017/12/15-data-science-repositories-github-2017/
+
+?? Steps:
+1. Create your account on GitHub
+2. Choose a topic to learn (Ex: Machine Learning, Visual, etc..)
+3. Follow the specific user
+4. Clone the codes to your local machine
+5. Learn, Practice, and Have Fun!
+
+---
+?? Data Visualization
+1. Mike Bostock (D3, Data Visualisation)
+https://lnkd.in/gSvKV-6
+2. Randy Olson (Python – Matplotlib, Bokeh)
+https://github.com/rhiever
+
+?? Big Data & Spark 
+ Favio Vázquez
+https://lnkd.in/gxBU_DE
+
+?? Python Machine Learning
+Sebastian Raschka
+https://github.com/rasbt
+
+?? R
+1. Jeff Leek
+https://github.com/jtleek
+ 2. David Langer 
+https://github.com/EasyD
+
+?? AI & Deep Learning
+1. Michael Nielsen
+https://lnkd.in/gpyTUwu
+ 2. Matthew Blondel 
+https://lnkd.in/gYhHw9N
+ 3. Tarry Singh
+https://lnkd.in/gUcDTkZ
