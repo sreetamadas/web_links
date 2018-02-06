@@ -2,7 +2,8 @@ web_links
 
 *links to relevant websites
 
-https://www.analyticsvidhya.com/blog/2017/12/15-data-science-repositories-github-2017/ -> 15 Trending Data Science GitHub Repositories you can not miss in 2017
+https://www.analyticsvidhya.com/blog/2017/12/15-data-science-repositories-github-2017/ 
+-> 15 Trending Data Science GitHub Repositories you can not miss in 2017
 
 
 ## theory
