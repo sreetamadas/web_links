@@ -1,0 +1,52 @@
+types of error functions: MAE, MSE, MAPE
+
+clustering through gradient descent, markov clustering, cosine similarity, entropy calculation
+
+dimensionality reduction through auto-encoder, PCA, SVD
+
+feature importance through random forest  (how to handle class imbalance in RF?)
+
+linear regression (Is linear regression valid only for normally distributed data points?)
+logistic regression
+support vector regression
+SVM - gamma, cost, bias, variance
+
+neuralNet (cNN - Theano, Lasagne), 
+deep -learning,  (neural networks are ideally suited for detection & classification problems)
+ReLu, Loss function;
+
+
+association rule mining , 
+
+
+time series analysis using FFT/ DFT , STFT ; 
+(high-pass filter & FFT; high-pass filter removes low frequency component - similar to removing long-term trend )
+shannon sampling theorem - creating bucket size
+time serird pattern regression - autoregressive HMM
+HMM
+Nyquist frequency
+kalman filter
+butterWorth filter
+spike-shift algorithm & curve-fitting
+
+
+GAN
+GLM, GAM
+statistical process control , control charts
+
+
+bayesian, 
+matrix factorisation , auto-encoder ,
+kNN,
+
+
+linear sum assignment
+
+convex optimisation overview - andrew ng notes
+Linear optimisation (formulation, decision variables, objective function, constraints, non-negativity restriction), SIMPLEX, duality, (bound & branch, cutting plane)
+methods suitable for LP with 2 variables: 1. graphical, 2. algebraic, 3. simplex
+Dautzig Wolfe decomposition: reducing the no. of matrix operations required in the sIMPLEX technique  ******  (lec 6)
+
+lagrange multipliers
+genetic algo
+
