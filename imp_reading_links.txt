@@ -18,7 +18,7 @@ https://kannan-kasthuri.github.io/pda.html
    
 ## statistics:
 
-https://onlinecourses.science.psu.edu/stat510/
+https://onlinecourses.science.psu.edu/stat510/     <- (stat, penn state)
 
 http://blog.minitab.com/blog/adventures-in-statistics-2/regression-analysis-tutorial-and-examples
 
