@@ -1,6 +1,7 @@
 types of error functions: MAE, MSE, MAPE
 
 clustering through gradient descent, markov clustering, cosine similarity, entropy calculation
+distance correlation
 
 dimensionality reduction through auto-encoder, PCA, SVD
 
