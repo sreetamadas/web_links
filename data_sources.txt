@@ -1,4 +1,6 @@
 KAGGLE
+UC Irvine site
+
 
 https://clinicaltrials.gov/
 NIH
@@ -7,7 +9,7 @@ data.gov
 whitehouse.gov/USDS
 
 
-
+MNIST : handwritten digits db (http://yann.lecun.com/exdb/mnist/)
 
 
 
