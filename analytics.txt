@@ -2,12 +2,12 @@
 
 types of data: numeric, image, text (structured, un-structured)
 
-types of ML algo: unsupervised (clustering) vs supervised (classification, prediction)
+types of ML algo: unsupervised (clustering) vs supervised (classification, regression prediction)
 
 types of analysis:
 level 1: descriptive  -> find trends & statistics, calculate metrics, threshold notifications, real-time observation
 level 2: diagnostic   -> data mining & analysis, events diagnostics (both historical & real-time), feature importance selection,
-                        root cause analysis,
+                         root cause analysis,
 level 3: predictive   -> modeling & planning
 level 4: prescriptive -> advanced optimisation
 
