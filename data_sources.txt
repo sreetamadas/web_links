@@ -1,6 +1,7 @@
 KAGGLE
 UC Irvine site
 Coursera data science Capstone datasets
+dataquest.io
 
 https://clinicaltrials.gov/
 NIH
