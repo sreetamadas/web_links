@@ -2,12 +2,14 @@ KAGGLE
 UC Irvine site
 Coursera data science Capstone datasets
 dataquest.io
+Reddit/r/datasets
 
 https://clinicaltrials.gov/
 NIH
 
 data.gov
 whitehouse.gov/USDS
+census.gov
 
 
 MoleculeNet  (A Benchmark for Molecular Machine Learning)
