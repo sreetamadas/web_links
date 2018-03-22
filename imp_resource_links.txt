@@ -41,6 +41,7 @@ Machine learning mastery
 ## deep learning
 https://github.com/mbadry1/DeepLearning.ai-Summary    -> Summary of course notes for Deeplearning.ai
 https://hackernoon.com/uncovering-the-intuition-behind-capsule-networks-and-inverse-graphics-part-i-7412d121798d   (CapsNet)
+https://github.com/terryum/awesome-deep-learning-papers/blob/master/README.md?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B5nbQ5SOKTYyPMEfADH0Y1g%3D%3D
 
 
 NuPic - Hierarchical Temporal Memory:
