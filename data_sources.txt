@@ -3,6 +3,8 @@ UC Irvine site
 Coursera data science Capstone datasets
 dataquest.io
 Reddit/r/datasets
+https://data.world/
+
 
 https://clinicaltrials.gov/
 NIH
