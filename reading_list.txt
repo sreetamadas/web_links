@@ -49,6 +49,7 @@ Dautzig Wolfe decomposition: reducing the no. of matrix operations required in t
 
 lagrange multipliers
 genetic algo
+https://www.analyticsvidhya.com/blog/2017/07/introduction-to-genetic-algorithm/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29
 
 
 https://www.datasciencecentral.com/profiles/blogs/13-great-articles-about-k-nearest-neighbors-and-related-algorithm
