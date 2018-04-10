@@ -59,3 +59,4 @@ NuPic - Hierarchical Temporal Memory:
 3.	Biological proof behind Hierarchical Temporal Memory - https://numenta.com/assets/pdf/biological-and-machine-intelligence/BaMI-HTM-Overview.pdf
 
 
+http://www.oreilly.com/data/free/archive.html
