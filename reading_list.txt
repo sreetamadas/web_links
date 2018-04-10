@@ -1,6 +1,6 @@
 types of error functions: MAE, MSE, MAPE
 
-clustering through gradient descent, markov clustering, cosine similarity, entropy calculation
+clustering through gradient descent, markov clustering, cosine similarity, entropy calculation,
 distance correlation
 
 dimensionality reduction through auto-encoder, PCA, SVD
@@ -18,7 +18,6 @@ ReLu, Loss function;
 
 
 association rule mining , 
-
 
 time series analysis using FFT/ DFT , STFT ; 
 (high-pass filter & FFT; high-pass filter removes low frequency component - similar to removing long-term trend )
@@ -50,4 +49,59 @@ Dautzig Wolfe decomposition: reducing the no. of matrix operations required in t
 
 lagrange multipliers
 genetic algo
+
+
+https://www.datasciencecentral.com/profiles/blogs/13-great-articles-about-k-nearest-neighbors-and-related-algorithm
+https://syncedreview.com/2017/10/22/tree-boosting-with-xgboost-why-does-xgboost-win-every-machine-learning-competition/
+
+
+pattern recognition:
+https://github.com/dswah/pyGAM (Generalized Additive models)
+http://scikit-learn.org/stable/modules/outlier_detection.html (elliptic envelope)
+https://brilliant.org/wiki/gaussian-mixture-model/
+https://stats.stackexchange.com/questions/151791/machine-learning-for-pattern-recognition-in-realtime-sensor-data
+https://pdfs.semanticscholar.org/2f5a/4b8b158117928e9eee7ac6ce7da291ec9bd2.pdf (paper)
+
+
+http://blog.datadive.net/selecting-good-features-part-i-univariate-selection/
+http://blog.datadive.net/selecting-good-features-part-ii-linear-models-and-regularization/
+http://blog.datadive.net/selecting-good-features-part-iii-random-forests/
+http://blog.datadive.net/selecting-good-features-part-iv-stability-selection-rfe-and-everything-side-by-side/
+
+
+Others:
+https://www.analyticsvidhya.com/blog/2016/12/introduction-to-feature-selection-methods-with-an-example-or-how-to-select-the-right-variables/ 
+https://machinelearningmastery.com/an-introduction-to-feature-selection/
+http://scikit-learn.org/stable/modules/feature_selection.html
+
+
+
+###########################################################################################################################
+Suggestions on ML, AI , Deep learning and Data preprocessing/Exploratory Analysis courses
+
+
+? AI:
+1.	Berkley:
+http://ai.berkeley.edu/lecture_slides.html
+
+2.	Udacity:
+https://in.udacity.com/course/intro-to-artificial-intelligence--cs271  - Free
+https://in.udacity.com/course/artificial-intelligence-nanodegree--nd889 - Priced , created by IBM Watson and Amazon Alexa teams
+
+3.	Coursera - Advance machine learning specialization from Higher school of economics(Priced) – It has the all these courses under it:
+Bayesian methods of machine learning, Reinforcement learning, Deep learning in Computer Visions and Deep learning in NLP.
+
+
+? Deep Learning
+Coursera - –Deep learning specialization.(Priced). Andrew Ng. Covers all neural network basics and different types of neural networks like CNN, LSTM and their applications.
+
+
+? Machine Learning
+1.	Udacity - https://in.udacity.com/course/machine-learning-engineer-nanodegree--nd009  - Priced,Course from Kaggle. This covers deep learning and reinforcement learning too apart from supervised and unsupervised.
+2.	Coursera – Andrew Ng , Machine learning course. (free) 
+3.	Coursera - – Advance machine learning specialization – How to win Kaggle competitions?
+
+
+Data preprocessing/Exploratory Analysis/Statistical concepts
+Datacamp courses
 
