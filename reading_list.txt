@@ -1,4 +1,5 @@
 types of error functions: MAE, MSE, MAPE
+https://medium.com/making-sense-of-data/time-series-next-value-prediction-using-regression-over-a-rolling-window-228f0acae363
 
 clustering through gradient descent, markov clustering, cosine similarity, entropy calculation,
 distance correlation
