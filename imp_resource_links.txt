@@ -6,6 +6,33 @@ https://www.analyticsvidhya.com/blog/2017/12/15-data-science-repositories-github
 -> 15 Trending Data Science GitHub Repositories you can not miss in 2017
 
 
+## ML:
+wildml.com
+Andrew NG coursera course / stanford lectures
+www.holehouse.org/mlclass/
+GOOGLE: neural network andrew ng
+http://scikit-learn.org/stable/user_guide.html -> for links to different algos
+Machine learning mastery
+
+
+## deep learning
+https://github.com/mbadry1/DeepLearning.ai-Summary    -> Summary of course notes for Deeplearning.ai
+https://github.com/mbadry1/DeepLearning.ai-Summary/tree/master/4-%20Convolutional%20Neural%20Networks#foundations-of-cnns
+https://github.com/Kulbear/deep-learning-coursera 
+cs229.stanford.edu/materials/CS229-DeepLearning.pdf
+Fast.ai   http://wiki.fast.ai/index.php/Main_Page#Tools
+http://course.fast.ai/lessons/lesson1.html
+http://colah.github.io/posts/2014-07-Conv-Nets-Modular/    -> CNN
+
+https://hackernoon.com/uncovering-the-intuition-behind-capsule-networks-and-inverse-graphics-part-i-7412d121798d   (CapsNet)
+https://github.com/terryum/awesome-deep-learning-papers/blob/master/README.md?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B5nbQ5SOKTYyPMEfADH0Y1g%3D%3
+
+NuPic - Hierarchical Temporal Memory:
+1.	The organization behind this idea - https://www.numenta.org/
+2.	Video tutorials of how to apply it in Anomaly Detection - https://www.youtube.com/results?search_query=nupic+anomaly+detection
+3.	Biological proof behind Hierarchical Temporal Memory - https://numenta.com/assets/pdf/biological-and-machine-intelligence/BaMI-HTM-Overview.pdf
+
+
 ## theory
 https://www.nature.com/articles/nmeth.4370
 
@@ -23,7 +50,6 @@ https://onlinecourses.science.psu.edu/stat510/     <- (stat, penn state)
 http://blog.minitab.com/blog/adventures-in-statistics-2/regression-analysis-tutorial-and-examples
 
 
-
 ## time series:
 https://onlinecourses.science.psu.edu/stat510/
 https://www.otexts.org/fpp/ -> R.J. Hyndman
@@ -32,36 +58,6 @@ https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-model
 https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/
 
 https://machinelearningmastery.com/time-series-forecast-study-python-monthly-sales-french-champagne/wmbriggs.com/post/735/
-
-
-## ML:
-Andrew NG coursera course / stanford lectures
-www.holehouse.org/mlclass/
-GOOGLE: neural network andrew ng
-http://scikit-learn.org/stable/user_guide.html -> for links to different algos
-Machine learning mastery
-
-
-
-## deep learning
-https://github.com/mbadry1/DeepLearning.ai-Summary    -> Summary of course notes for Deeplearning.ai
-https://github.com/mbadry1/DeepLearning.ai-Summary/tree/master/4-%20Convolutional%20Neural%20Networks#foundations-of-cnns
-https://github.com/Kulbear/deep-learning-coursera 
-cs229.stanford.edu/materials/CS229-DeepLearning.pdf
-Fast.ai   http://wiki.fast.ai/index.php/Main_Page#Tools
-http://course.fast.ai/lessons/lesson1.html
-http://colah.github.io/posts/2014-07-Conv-Nets-Modular/    -> CNN
-
-
-https://hackernoon.com/uncovering-the-intuition-behind-capsule-networks-and-inverse-graphics-part-i-7412d121798d   (CapsNet)
-https://github.com/terryum/awesome-deep-learning-papers/blob/master/README.md?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B5nbQ5SOKTYyPMEfADH0Y1g%3D%3D
-
-
-
-NuPic - Hierarchical Temporal Memory:
-1.	The organization behind this idea - https://www.numenta.org/
-2.	Video tutorials of how to apply it in Anomaly Detection - https://www.youtube.com/results?search_query=nupic+anomaly+detection
-3.	Biological proof behind Hierarchical Temporal Memory - https://numenta.com/assets/pdf/biological-and-machine-intelligence/BaMI-HTM-Overview.pdf
 
 
 http://www.oreilly.com/data/free/archive.html
