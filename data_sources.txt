@@ -1,4 +1,4 @@
-KAGGLE
+KAGGLE  (see data from bookmarked competitions)
 UC Irvine site
 Coursera data science Capstone datasets
 dataquest.io
