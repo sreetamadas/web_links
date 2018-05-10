@@ -23,10 +23,12 @@ level 4: prescriptive -> advanced optimisation
 # analyse the data - build models - do predictions
 
 
-## parallels in crystallography
+## parallels with crystallography
 design experiment (cryst trials) to obtain crystals
 gather crystallographic data
 crystallographic statistics to assess data quality
 model building - try to understand if any ML steps are involved
 model validation
 application of the model to gain some understanding; development of mutation experiments as further validation & application of the model
+
+
