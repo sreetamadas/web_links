@@ -3,7 +3,8 @@
 types of data: numeric, image, text (structured, un-structured)
 
 types of ML algo: 
-unsupervised (clustering, association rule mining/ market basket analysis, anomaly detection in univariate/ multivariate data) vs supervised (classification, regression prediction)
+unsupervised (clustering, association rule mining/ market basket analysis, anomaly detection in univariate/ multivariate data) 
+vs supervised (classification, regression prediction)
 
 types of analysis:
 level 1: descriptive  -> find trends & statistics, calculate metrics, threshold notifications, real-time observation
@@ -12,3 +13,20 @@ level 2: diagnostic   -> data mining & analysis, events diagnostics (both histor
 level 3: predictive   -> modeling & planning
 level 4: prescriptive -> advanced optimisation
 
+
+###########################################################################################################
+## paralels between business use case & PhD research
+
+# framing of high level use case
+# formulating smaller questions/ sub-problem requirements to obtain solution to the high level use case
+# check if data is already available; if not, run a POC / design & run your own experiments to gather data
+# analyse the data - build models - do predictions
+
+
+## parallels in crystallography
+design experiment (cryst trials) to obtain crystals
+gather crystallographic data
+crystallographic statistics to assess data quality
+model building - try to understand if any ML steps are involved
+model validation
+application of the model to gain some understanding; development of mutation experiments as further validation & application of the model
