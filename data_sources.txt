@@ -5,11 +5,17 @@ dataquest.io
 Reddit/r/datasets
 https://data.world/   **
 https://www.analyticsvidhya.com/blog/2018/03/comprehensive-collection-deep-learning-datasets/
+https://datamarket.com/data/list/?q=provider:tsdl%20tag:temperature
+https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public
 
 
-https://clinicaltrials.gov/
-NIH
-
+AWS Public Datasets
+Yahoo Datasets
+Allen Institute Datasets  (http://allenai.org/data.html)
+Google Trends Dataset
+http://mldata.org/repository/data/
+https://www.google.com/publicdata/directory
+https://www.infoworld.com/article/3131515/artificial-intelligence/4-google-data-sets-to-kickstart-machine-learning.html
 
 https://energydata.info/dataset   **
 data.gov
@@ -18,7 +24,14 @@ whitehouse.gov/USDS
 census.gov
 
 
-MoleculeNet  (A Benchmark for Molecular Machine Learning)
+** Anomaly detection datasets
+https://www.kaggle.com/boltzmannbrain/nab
+https://github.com/numenta/NAB/tree/master/data/realKnownCause
+http://odds.cs.stonybrook.edu/
+https://www.quora.com/Where-can-I-find-open-to-the-public-data-sets-to-test-outliers-or-anomalies-detection
+bigml blog
+google : anomaly detection data
+https://www.kaggle.com/victorambonati/unsupervised-anomaly-detection/code
 
 
 ** IMAGE DATA SOURCES
@@ -35,12 +48,4 @@ DeepMind QA Corpus  (https://github.com/deepmind/rc-data)
 SimVerb  (verb similarity   https://arxiv.org/abs/1608.00869v4)
 Stanford Question Answering Dataset   (https://rajpurkar.github.io/SQuAD-explorer/)
 
-
-AWS Public Datasets
-Yahoo Datasets
-Allen Institute Datasets  (http://allenai.org/data.html)
-Google Trends Dataset
-http://mldata.org/repository/data/
-https://www.google.com/publicdata/directory
-https://www.infoworld.com/article/3131515/artificial-intelligence/4-google-data-sets-to-kickstart-machine-learning.html
 
