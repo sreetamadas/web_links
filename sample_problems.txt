@@ -12,7 +12,7 @@ https://www.kaggle.com/parasjindal96/basic-deep-learning-tutorial-using-keras/co
 
 
 ### regression ###
-
+http://scikit-learn.org/stable/auto_examples/linear_model/plot_ols.html
 
 
 ### time series prediction ###
