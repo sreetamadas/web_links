@@ -36,4 +36,4 @@ https://www.kaggle.com/boltzmannbrain/nab
 https://github.com/numenta/NAB
 
 
-### image analysis ###
+### image analysis (segmentation vs classification; use of crops, resizing, flipping; scaling intensities; inverting back/fore-ground) ###
