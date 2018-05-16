@@ -1,5 +1,10 @@
 ### kaggle kernels for sample problems ###
 
+### fixing missing data issues ###
+https://www.kaggle.com/juejuewang/handle-missing-values-in-time-series-for-beginners
+https://arxiv.org/ftp/arxiv/papers/1510/1510.03924.pdf  (comparison of different methods for univariate Time Series imputation in R)
+
+
 ### classification ###
 # https://www.kaggle.com/uciml/breast-cancer-wisconsin-data/discussion
     # 1. feature selection :   
@@ -26,7 +31,9 @@ https://www.kaggle.com/apapiu/regularized-linear-models
 
 
 ### anomaly detection ###
-
+https://www.kaggle.com/victorambonati/unsupervised-anomaly-detection/notebook
+https://www.kaggle.com/boltzmannbrain/nab
+https://github.com/numenta/NAB
 
 
 ### image analysis ###
