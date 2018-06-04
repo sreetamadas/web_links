@@ -18,6 +18,7 @@ http://blog.minitab.com/blog/adventures-in-statistics-2/regression-analysis-tuto
 
 ## ML:
 wildml.com
+https://github.com/fchollet **** 
 Andrew NG coursera course / stanford lectures
 www.holehouse.org/mlclass/
 GOOGLE: neural network andrew ng
