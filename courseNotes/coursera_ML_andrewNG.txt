@@ -44,7 +44,18 @@ for multiple theta, J(theta) can be visualized as surface plots, or as contour p
 
 gradient descent algo : used to minimise the cost function J(theta) 
            (useful for hypothesis with many parameters, instead of solving by hand with minimising derivative ?). 
-           We choose starting value of parameter - the partial derivative is used to update the value of the parameter. 
+           We choose starting value of parameter - the partial derivative is used to update the value of the parameter.
+     
+     
+repeat until convergence {
+  theta(j) := theta(j) - alpha. del/del_theta(j) J(theta0, theta1)  # [partial derivative with j = 0,1]
+}
+# update step - update simultaneously
+temp0 := theta0 - alpha. del/del_theta0 J(theta0, theta1)
+temp1 := theta1 - alpha. del/del_theta1 J(theta0, theta1)   # using previous value of theta0
+theta0 := temp0
+theta1 := temp1
+
 
 Learning rate or step size alpha.
 If alpha is small, convergence of algo is slow. For large alpha, it can overshoot the minimum & also fail to converge.
