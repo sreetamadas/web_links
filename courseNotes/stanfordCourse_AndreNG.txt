@@ -1,6 +1,4 @@
-
-
-Andrew NG stanford course:
+## Andrew NG stanford course:  www.holehouse.org/mlclass/
 (Abu mustafa, caltech, coursera
 Andrew ng course project: rna alignment using ml)
 
