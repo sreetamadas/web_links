@@ -2,6 +2,12 @@ Andrew NG coursera course
 
 
 ##Coursera 
+Lec 1.x:
+what is machine learning?
+e.g. Spam classification, regression
+types - supervised, unsupervised, re-inforcement learning
+
+
 Lec 2.x:
 Hypothesis, parameters (theta), minimising the cost function J(theta) using gradient descent algo. 
 We choose starting value of parameter -The partial derivative is used to update the value of the parameter. 
