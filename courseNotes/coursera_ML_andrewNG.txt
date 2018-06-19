@@ -37,7 +37,7 @@ size of house  -> hypothesis (h-theta(x)) -> estimated price
 7. alpha: Learning rate (controls the step size during gradient descent).
          If alpha is too small, convergence of algo is slow. 
          For large alpha, it can overshoot the minimum & also fail to converge (& may even diverge).
-         As we approach the minima, the rate of change of slope (ie the magnitude of derivative) decreases (derivative =0 at the minima),
+         As we approach the minima, the rate of change of slope (ie the magnitude of derivative) decreases (derivative=0 at the minima),
          so theta changes by smaller amounts in subsequent steps. Hence no need to reduce the value of alpha over time.
 
 
@@ -49,7 +49,8 @@ for multiple theta, J(theta) can be visualized as surface plots, or as contour p
 
 
 gradient descent algo : used to minimise the cost function J(theta) 
-           (useful for hypothesis with many parameters, instead of solving by hand with minimising derivative ?). 
+           (useful for hypothesis with many parameters, since gradient descent scales well instead of the normal equations method;
+           in normal equations method, we solve equations for theta explicitly with derivative=0 ?). 
            We choose starting value of parameter - the partial derivative is used to update the value of the parameter.
           
 repeat until convergence {
@@ -62,8 +63,11 @@ theta0 := temp0
 theta1 := temp1
 
 
+The cost function for linear regression is always going to be convex function (bowl-shaped) with 1 global minimum only.
 
-Batch gradient descent: each step of gradient descent uses all training egs (parameter update step involves sum over all training egs)
+The above form of the algo is called Batch gradient descent: each step of gradient descent uses all training egs (parameter update
+step involves sum over all m training egs).
+There are other algos which use a subset of the training examples. 
 
 
 ##########################################################################
