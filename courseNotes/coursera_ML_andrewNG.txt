@@ -33,10 +33,12 @@ size of house  -> hypothesis (h-theta(x)) -> estimated price
 3. Hypothesis function : h-theta(x) = theta0 + theta1 . x  => function of x for fixed values of theta(i)
 4. parameters : theta(i) 
 5. cost function : J(theta0, theta1)      => function of parameters theta(i)
-6. alpha: Learning rate (controls the step size during gradient descent).
-         If alpha is small, convergence of algo is slow. For large alpha, it can overshoot the minimum & also fail to converge.
-         As we approach the minima, the rate of change of slope (ie the magnitude of derivative) decreases (0 at the minima),
-         so theta changes by smaller amounts in subsequent steps. Hence no need to reduce the value of alpha.
+6. gradient descent algo: used to minimise the cost function, to get optimal values of parameters theta(i).
+7. alpha: Learning rate (controls the step size during gradient descent).
+         If alpha is too small, convergence of algo is slow. 
+         For large alpha, it can overshoot the minimum & also fail to converge (& may even diverge).
+         As we approach the minima, the rate of change of slope (ie the magnitude of derivative) decreases (derivative =0 at the minima),
+         so theta changes by smaller amounts in subsequent steps. Hence no need to reduce the value of alpha over time.
 
 
 Choose theta(i) such that h-theta(x) is close to y for training examples (x,y) => minimize (1/2m) sum (h-i - y-i)^2 over theta(i).
@@ -49,8 +51,7 @@ for multiple theta, J(theta) can be visualized as surface plots, or as contour p
 gradient descent algo : used to minimise the cost function J(theta) 
            (useful for hypothesis with many parameters, instead of solving by hand with minimising derivative ?). 
            We choose starting value of parameter - the partial derivative is used to update the value of the parameter.
-     
-     
+          
 repeat until convergence {
   theta(j) := theta(j) - alpha. del/del_theta(j) J(theta0, theta1)  # [partial derivative with j = 0,1]
 }
