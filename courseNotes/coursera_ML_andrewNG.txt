@@ -42,8 +42,9 @@ For a single theta, J(theta) is a parabolic function.
 for multiple theta, J(theta) can be visualized as surface plots, or as contour plots (concentric ellipses).
 
 
-The cost function J(theta) can be minimised using gradient descent algo (useful for hypothesis with many parameters, instead of solving by hand with minimising derivative ?). 
-We choose starting value of parameter - the partial derivative is used to update the value of the parameter. 
+gradient descent algo : used to minimise the cost function J(theta) 
+           (useful for hypothesis with many parameters, instead of solving by hand with minimising derivative ?). 
+           We choose starting value of parameter - the partial derivative is used to update the value of the parameter. 
 
 Learning rate or step size alpha.
 If alpha is small, convergence of algo is slow. For large alpha, it can overshoot the minimum & also fail to converge.
