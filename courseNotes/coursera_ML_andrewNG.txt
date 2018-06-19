@@ -1,26 +1,33 @@
 Andrew NG coursera course / stanford lectures
 www.holehouse.org/mlclass/
 
-# Coursera 
+
+##Coursera 
 Lec 2.x:
 Hypothesis, parameters (theta), minimising the cost function J(theta) using gradient descent algo. 
 We choose starting value of parameter -The partial derivative is used to update the value of the parameter. 
 
 Learning rate or step size alpha.
 If alpha is small, convergence of algo is slow. For large alpha, it can overshoot the minimum & also fail to converge.
-As we approach the minima, the rate of change of slope (ie the magnitude of derivative) decreases (0 at the minima), so theta changes by smaller amounts in subsequent steps. Hence no need to reduce the value of alpha.
+As we approach the minima, the rate of change of slope (ie the magnitude of derivative) decreases (0 at the minima),
+so theta changes by smaller amounts in subsequent steps. Hence no need to reduce the value of alpha.
 
 Batch gradient descent: each step of gradient descent uses all training egs (parameter update step involves sum over all training egs)
 
 
 Lec 3.x : linear algebra (skipped)
 
+
 Lec 4.x: multivariate linear regression, feature scaling,
-For features with different scales, the contours of theta space is skewed ovals, this will lead to longer time in the execution of the grad descent algo
+For features with different scales, the contours of theta space is skewed ovals, this will lead to longer time in the execution of 
+the grad descent algo
 
 
+###############   neural network   #################
 Lec 8.1:
-Classification problem with complex boundary (non linear hypothesis): one solution is to build logistic regression with the raw features & product terms (non-linear features) of the raw features ~ no.of features increases hugely as N increases. Also, the possibility of overfitting with such huge no of features.
+Classification problem with complex boundary (non linear hypothesis): one solution is to build logistic regression with the
+raw features & product terms (non-linear features) of the raw features ~ no.of features increases hugely as N increases. Also,
+the possibility of overfitting with such huge no of features.
 For image classification problem, the no of features N is especially large (N = n x n, n is the no of pixels in the image).
 Non-linear hypothesis is reqd 4 image classification.
 
@@ -36,7 +43,9 @@ The matrix of weights theta controls the function mapping from layer j to j+1.
 Forward propagation: computation of g(z) = 1/(1 + e^ -z)  using inputs & weights at each layer.
 
 Lec 8.4:
-Neural network is equivalent to logistic regression on (new features computed using the activation function) instead of (raw features). The new features were obtained by applying activation function with weights on the raw features. => the neural network gets to choose its own features to feed into logistic regression.
+Neural network is equivalent to logistic regression on (new features computed using the activation function) instead of (raw features).
+The new features were obtained by applying activation function with weights on the raw features. => the neural network gets to choose
+its own features to feed into logistic regression.
 NN uses hidden layer on input features to build more complex  (non-linear) features.
 Architecture of NN; shows how neurons in different layers are connected to each other.
 
@@ -49,12 +58,14 @@ Lec 8.6: another eg
 
 Lec 8.7: multiclass classification (pedestrian, car, bus, truck), representation of x(i) & y(i)
 
-Lec 9.1: neural network (NN) cost function, similar form to that for logistic regression. Cost function measures how well the neural network fits training data.
+Lec 9.1: neural network (NN) cost function, similar form to that for logistic regression. Cost function measures how well
+the neural network fits training data.
 
 Lec 9.2:  back propagation (bp) algorithm to minimise cost function for NN.
 Step 1. Compute outputs (activation function) using forward propagation.
 Step 2. Bp algo to compute derivatives. Compute the delta terms for each layer, starting from last layer
-Step 3. To minimise the cost function, partial derivatives wrt the parameters are reqd. It can be shown that the derivatives equal the product of activation function & delta term (computed in step 2).
+Step 3. To minimise the cost function, partial derivatives wrt the parameters are reqd. It can be shown that the
+derivatives equal the product of activation function & delta term (computed in step 2).
 This affects the intermediate weights such that the final output is optimised.
 
 Lec 9.3: computation steps of backprop (BP intuition)
@@ -65,7 +76,8 @@ Lec 9.5: gradient checking fix to ensure that Backprop is working correctly (?)
 One-sided difference vs 2-sided difference formula for computing derivatives.
 
 Lec 9.6: random initialisation.
-Initialising all the theta values to zero (as done in logistic regression) does not work for neural network, as parameters going into each of the hidden units in a layer would be equal.
+Initialising all the theta values to zero (as done in logistic regression) does not work for neural network,
+as parameters going into each of the hidden units in a layer would be equal.
 Hence use random initialisation in [-€,€] to break this symmetry.
 
 Lec 9.7: choice of architecture of the network.
@@ -78,9 +90,11 @@ Training a NN:
 2. Use forward propagation to compute h-theta-(x).
 3. Compute cost function.
 4. Compute partial derivatives of cost function J-theta using backProp algo.
-5. Use gradient checking to check numerical estimates of derivatives of cost function with the values from backProp. Then disable gradient checking.
+5. Use gradient checking to check numerical estimates of derivatives of cost function with the values from backProp.
+   Then disable gradient checking.
 6. Use gradient descent or advanced optimisation with backProp to minimise J-theta as a function of parameters theta.
-For NN, J-theta is non-convex & is theoretically susceptible to getting stuck in local minima. In practice, it is not usually a huge problem.
+   For NN, J-theta is non-convex & is theoretically susceptible to getting stuck in local minima.
+   In practice, it is not usually a huge problem.
 
 Lec 9.8: using NN for autonomous driving.
 Input: road image
