@@ -5,6 +5,9 @@ types of data: numeric, image, text (structured, un-structured)
 types of ML algo: 
 unsupervised (clustering, association rule mining/ market basket analysis, anomaly detection in univariate/ multivariate data) 
 vs supervised (classification, regression prediction)
+reinforcement learning (https://www.quora.com/Is-reinforcement-learning-considered-a-branch-of-semi-supervised-learning)
+recommender systems
+
 
 types of analysis:
 level 1: descriptive  -> find trends & statistics, calculate metrics, threshold notifications, real-time observation
