@@ -28,11 +28,15 @@ linear regression with one variable / univariate linear regression
 size of house  -> hypothesis (h-theta(x)) -> estimated price
 (test set x)                        (predicted Y)
 
-Training set: x,y
-total no. of training examples : m
-Hypothesis function : h-theta(x) = theta0 + theta1 . x  => function of x for fixed values of theta(i)
-parameters : theta(i) 
-cost function : J(theta0, theta1)      => function of parameters theta(i)
+1. Training set: x,y
+2. total no. of training examples : m
+3. Hypothesis function : h-theta(x) = theta0 + theta1 . x  => function of x for fixed values of theta(i)
+4. parameters : theta(i) 
+5. cost function : J(theta0, theta1)      => function of parameters theta(i)
+6. alpha: Learning rate (controls the step size during gradient descent).
+         If alpha is small, convergence of algo is slow. For large alpha, it can overshoot the minimum & also fail to converge.
+         As we approach the minima, the rate of change of slope (ie the magnitude of derivative) decreases (0 at the minima),
+         so theta changes by smaller amounts in subsequent steps. Hence no need to reduce the value of alpha.
 
 
 Choose theta(i) such that h-theta(x) is close to y for training examples (x,y) => minimize (1/2m) sum (h-i - y-i)^2 over theta(i).
@@ -57,10 +61,6 @@ theta0 := temp0
 theta1 := temp1
 
 
-Learning rate or step size alpha.
-If alpha is small, convergence of algo is slow. For large alpha, it can overshoot the minimum & also fail to converge.
-As we approach the minima, the rate of change of slope (ie the magnitude of derivative) decreases (0 at the minima),
-so theta changes by smaller amounts in subsequent steps. Hence no need to reduce the value of alpha.
 
 Batch gradient descent: each step of gradient descent uses all training egs (parameter update step involves sum over all training egs)
 
