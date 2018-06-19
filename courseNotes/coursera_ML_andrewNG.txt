@@ -176,8 +176,8 @@ Lec 9.2:  back propagation (bp) algorithm to minimise cost function for NN.
               Compute the delta terms for each layer, starting from last layer. So, for last/ final layer (say, layer 4):
               d(j)(4) = a(j)(4) - y(j) 
                       = h-theta(x)(j) - y(j)   ; where h-theta(x)(j) is the jth output
-      Step 3. To minimise the cost function, partial derivatives wrt the parameters are reqd. It can be shown that the
-              derivatives equal the product of activation function & delta term (computed in step 2).
+      Step 3. To minimise the cost function, partial derivatives wrt the parameters are reqd. 
+              It can be shown that the derivatives equal the product of activation function & delta term (computed in step 2).
               This affects the intermediate weights such that the final output is optimised.
 
 
