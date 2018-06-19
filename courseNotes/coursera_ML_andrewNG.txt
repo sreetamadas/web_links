@@ -122,23 +122,31 @@ Lec 8.2: one learning hypothesis
 
 
 Lec 8.3:
-Inputs x(i) , x(0) <- bias unit
-Output : h-theta(x) = 1/(1 + e^-thetaT.x)  
-This form is the sigmoid/ logistic activation function.
+Inputs: x(i) , x(0) = 1 <- bias unit
+Output : h-theta(x) = 1/(1 + e^-thetaT.x)  - This form is the sigmoid/ logistic activation function.
 Theta are the parameters or weights of the neural network
 
-Input layer -> hidden layer -> output layer.
+Input layer -> hidden layer -> output layer: h-theta(x)
+Architecture of NN; shows how neurons in different layers are connected to each other.
 
-The matrix of weights theta controls the function mapping from layer j to j+1.
+Each node in the input layer contributes to all nodes a(i)(j) [ith node in hidden layer j] in the hidden layer.
+a(i)(j) is the activation of unit i in layer j.
+THETA(j) : The matrix of weights that controls the function mapping from layer j to j+1.
+
+formula for activation term in layer 2 (the hidden layer):
+a(1)(2) = g( theta(10)(1).x(0) + theta(11)(1).x(1) + theta(12)(1).x(2) + theta(13)(1). x(3) ) = g( z(1)(2) )
+
+Similarly,
+h-theta(x) = g( theta(10)(2).a(0)(2) + theta(11)(2).a(1)(2) + theta(12)(2).a(2)(2) + theta(13)(2). a(3)(2) ) 
+
 Forward propagation: computation of g(z) = 1/(1 + e^ -z)  using inputs & weights at each layer.
 
 
 Lec 8.4:
 Neural network is equivalent to logistic regression on (new features computed using the activation function) instead of (raw features).
-The new features were obtained by applying activation function with weights on the raw features. => the neural network gets to choose
+The new features were obtained by applying activation function with weights on the raw features => the neural network gets to choose
 its own features to feed into logistic regression.
-NN uses hidden layer on input features to build more complex  (non-linear) features.
-Architecture of NN; shows how neurons in different layers are connected to each other.
+NN uses hidden layer on input features to build more complex (non-linear) features.
 
 Q. How to avoid overfitting with NN ?
 
@@ -158,9 +166,9 @@ Cost function measures how well the neural network fits training data.
 
 
 Lec 9.2:  back propagation (bp) algorithm to minimise cost function for NN.
-Step 1. Compute outputs (activation function) using forward propagation.
-Step 2. Bp algo to compute derivatives. Compute the delta terms for each layer, starting from last layer
-Step 3. To minimise the cost function, partial derivatives wrt the parameters are reqd. It can be shown that the
+      Step 1. Compute outputs (activation function) using forward propagation.
+      Step 2. BP algo to compute derivatives. Compute the delta terms for each layer, starting from last layer
+      Step 3. To minimise the cost function, partial derivatives wrt the parameters are reqd. It can be shown that the
 derivatives equal the product of activation function & delta term (computed in step 2).
 This affects the intermediate weights such that the final output is optimised.
 
