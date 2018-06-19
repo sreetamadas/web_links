@@ -21,7 +21,11 @@ In OLS, we minimise MSE or residuals? What do we minimise in Gradient Descent?
 Linear regression:
 X : attributes/ features
 a, b: parameters
-We find parameters such that mse is minimised - minimisation using search algo gradient descent (depends on initial values of parameters, and the stepsize alpha). Is this the only way to find the parameters? For ordinary least sq, the function to be minimised is quadratic bowl-shaped.
+We find parameters such that mse is minimised - minimisation using search algo gradient descent
+(depends on initial values of parameters, and the stepsize alpha).
+Is this the only way to find the parameters? 
+For ordinary least sq, the function to be minimised is quadratic bowl-shaped.
+
 MSE vs residual; what exactly is minimised in OLS?
 Wikipedia pg: mse, bias & variance
 
@@ -33,7 +37,7 @@ Batch gradient descent (small training set) vs stochastic gradient descent (larg
 Lec 3:
 Non-parametric learning algos: eg, locally weighted regression LOESS; here the no of parameters grows with the size of the training set
 Parametric algo: has fixed no. of parameters fit to the data
-Parameter  tau- bandwidth (controls how fast weights fall off with distance)
+Parameter tau - bandwidth (controls how fast weights fall off with distance)
 
 Errors are gaussian, central limit theorem, definition of random variable
 CLT: sum of many random variables will tend toward a Gaussian
