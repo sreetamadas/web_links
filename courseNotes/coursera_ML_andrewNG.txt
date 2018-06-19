@@ -1,7 +1,6 @@
 Andrew NG coursera course
 
 
-##Coursera 
 Lec 1.x: what is machine learning? 
 - A computer program is said to LEARN from experience E wrt some task T and some performance measure P,
 if its performance on T, as measured by P, improves with experience E.
@@ -18,9 +17,31 @@ Introduction to unsupervised learning: working with unlabeled data,  e.g. cluste
                                        separating overlapping audio sources- 2 speakers at different distances from 2 microphones (SVD)
 
 
-Lec 2.x:
-Hypothesis, parameters (theta), minimising the cost function J(theta) using gradient descent algo. 
-We choose starting value of parameter -The partial derivative is used to update the value of the parameter. 
+Lec 2.x: Linear regression
+linear regression with one variable / univariate linear regression
+                training data
+                     |
+                learning algo
+                     |
+size of house  -> hypothesis (h-theta(x)) -> estimated price
+(test set x)                        (predicted Y)
+
+Training set: x,y
+total no. of training examples : m
+Hypothesis function : h-theta(x) = theta0 + theta1 . x  => function of x for fixed values of theta(i)
+parameters : theta(i) 
+cost function : J(theta0, theta1)      => function of parameters theta(i)
+
+
+Choose theta(i) such that h-theta(x) is close to y for training examples (x,y) => minimize (1/2m) sum (h-i - y-i)^2 over theta(i).
+definition of cost function/ squared error cost function (to be minimised wrt theta0 & theta1) : 
+                J(theta0, theta1) = (1/2m) sum(i) (h-i - y-i)^2 
+For a single theta, J(theta) is a parabolic function.
+for multiple theta, J(theta) can be visualized as surface plots, or as contour plots (concentric ellipses).
+
+For many parameters, minimise the cost function J(theta) using gradient descent algo
+(instead of solving by hand with minimising derivative ?). 
+We choose starting value of parameter - the partial derivative is used to update the value of the parameter. 
 
 Learning rate or step size alpha.
 If alpha is small, convergence of algo is slow. For large alpha, it can overshoot the minimum & also fail to converge.
