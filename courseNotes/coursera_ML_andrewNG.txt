@@ -170,6 +170,8 @@ J(theta) = -1/m sum [ y(i) log h-theta(x(i)) + ( 1 -y(i)) log ( 1 - h-theta(x(i)
 
 
 Lec 9.2:  back propagation (bp) algorithm to minimise cost function for NN.
+we are back-propagating the errors from the output layer to the input layer.
+
       Step 1. Compute outputs (activation function & h-theta(x) ) using forward propagation.
       Step 2. use BP algo to compute derivatives. 
               delta(j)(L) = error of node j in layer L
@@ -177,7 +179,8 @@ Lec 9.2:  back propagation (bp) algorithm to minimise cost function for NN.
               d(j)(4) = a(j)(4) - y(j) 
                       = h-theta(x)(j) - y(j)   ; where h-theta(x)(j) is the jth output
       Step 3. To minimise the cost function, partial derivatives wrt the parameters are reqd. 
-              It can be shown that the derivatives equal the product of activation function & delta term (computed in step 2).
+              It can be shown that the derivatives equal the product of activation function & delta term (computed in step 2),
+              (ignoring the regularization term for the moment).
               This affects the intermediate weights such that the final output is optimised.
 
 
@@ -203,15 +206,15 @@ Lec 9.7: choice of architecture of the network.
 No of hidden layers (default: 1) & no of hidden units in a layer (the more, the better).
 Same no of hidden units in every hidden layer.
 Training a NN:
-1. randomly initialise weights.
-2. Use forward propagation to compute h-theta-(x).
-3. Compute cost function.
-4. Compute partial derivatives of cost function J-theta using backProp algo.
-5. Use gradient checking to check numerical estimates of derivatives of cost function with the values from backProp.
-   Then disable gradient checking.
-6. Use gradient descent or advanced optimisation with backProp to minimise J-theta as a function of parameters theta.
-   For NN, J-theta is non-convex & is theoretically susceptible to getting stuck in local minima.
-   In practice, it is not usually a huge problem.
+  1. randomly initialise weights.
+  2. Use forward propagation to compute h-theta(x).
+  3. Compute cost function J-theta.
+  4. Compute partial derivatives of cost function J-theta using backProp algo.
+  5. Use gradient checking to check numerical estimates of derivatives of cost function with the values from backProp.
+     Then disable gradient checking.
+  6. Use gradient descent or advanced optimisation with backProp to minimise J-theta as a function of parameters theta.
+     For NN, J-theta is non-convex & is theoretically susceptible to getting stuck in local minima.
+     In practice, it is not usually a huge problem.
 
 
 Lec 9.8: using NN for autonomous driving.
