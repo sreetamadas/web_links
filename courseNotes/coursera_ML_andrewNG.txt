@@ -111,8 +111,8 @@ the grad descent algo
 Lec 8.1:
 Classification problem with complex boundary (non linear hypothesis): one solution is to build logistic regression with the
 raw features & product terms (non-linear features) of the raw features 
-    ~ no.of features increases hugely as N increases.
-    Also, the possibility of overfitting with such huge no of features.
+    ~ no. of features/parameters increases hugely as N increases.
+    Also, the possibility of overfitting with such huge no of features (overfitting occurs for low data-to-parameter ratio).
 
 For image classification problem, the no of features N is especially large (N = n x n, n is the no of pixels in the image).
 Non-linear hypothesis is reqd 4 image classification.
@@ -153,8 +153,8 @@ Lec 8.6: another eg
 Lec 8.7: multiclass classification (pedestrian, car, bus, truck), representation of x(i) & y(i)
 
 
-Lec 9.1: neural network (NN) cost function, similar form to that for logistic regression. Cost function measures how well
-the neural network fits training data.
+Lec 9.1: neural network (NN) cost function, similar form to that for logistic regression. 
+Cost function measures how well the neural network fits training data.
 
 
 Lec 9.2:  back propagation (bp) algorithm to minimise cost function for NN.
