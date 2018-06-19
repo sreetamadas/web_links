@@ -75,8 +75,31 @@ There are other algos which use a subset of the training examples.
 
 use of linear algebra to handle training data with multiple features.
 
+
 ##########################################################################
-Lec 3.x : linear algebra (skipped)
+Lec 3.x : linear algebra (addition, subtraction & multiplication with matrices & vectors; matrix inverse & transpose)
+
+dim of matrix = no. of rows x no. of cols
+
+matrix multiplication: [m x n] x [n x p] = [m x p]
+
+h-theta(x) = theta0 + theta1 . x
+in matrix notation, this can be written as: [prediction vector] = [data matrix] x [parameter matrix as vector]
+
+properties:
+1. matrix multiplication is not commutative:   A x B != B x A
+2. matrix multiplication is associative :      A x (B x C) = (A x B) x C
+3. identity matrix I : diagonal elements are 1, off-diagonals are 0
+    A.I = I.A = A  -> these 2 I matrices have diferent dimensions
+    A[m x n] . I[n x n] = I[m x m] . A[m x n] = A[m x n]
+    
+4. if A is an [m x m] square matrix, & if it has an inverse: A . A^-1 = A^-1 . A = I
+   The matrix of all zeroes does not have an inverse.
+   singular/ degenerate matrices - matrices which dont have inverse
+
+5. matrix transpose: A = [m x n]
+                     A^T = [n x m]
+
 
 ############################################################################
 Lec 4.x: multivariate linear regression, feature scaling,
