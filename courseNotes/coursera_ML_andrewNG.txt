@@ -139,11 +139,12 @@ a(1)(2) = g( theta(10)(1).x(0) + theta(11)(1).x(1) + theta(12)(1).x(2) + theta(1
 Similarly,
 h-theta(x) = g( theta(10)(2).a(0)(2) + theta(11)(2).a(1)(2) + theta(12)(2).a(2)(2) + theta(13)(2). a(3)(2) ) 
 
-Forward propagation: computation of g(z) = 1/(1 + e^ -z)  using inputs & weights at each layer.
+Forward propagation: computation of activation function or g(z) = 1/(1 + e^ -z)  using inputs & weights at each layer.
 
 
 Lec 8.4:
-Neural network is equivalent to logistic regression on (new features computed using the activation function) instead of (raw features).
+Neural network is equivalent to logistic regression on (new features computed using the activation function)
+instead of (raw features x(i)).
 The new features were obtained by applying activation function with weights on the raw features => the neural network gets to choose
 its own features to feed into logistic regression.
 NN uses hidden layer on input features to build more complex (non-linear) features.
@@ -152,10 +153,10 @@ Q. How to avoid overfitting with NN ?
 
 
 Lec 8.5:
-Non linear classification (non-linear decision boundary to separate positive & negative samples) example.
+Non linear classification (non-linear decision boundary is required to separate positive & negative/ binary samples) example - XOR, XNOR.
 
 
-Lec 8.6: another eg
+Lec 8.6: another eg : hand-written digit classification
 
 
 Lec 8.7: multiclass classification (pedestrian, car, bus, truck), representation of x(i) & y(i)
@@ -163,14 +164,21 @@ Lec 8.7: multiclass classification (pedestrian, car, bus, truck), representation
 
 Lec 9.1: neural network (NN) cost function, similar form to that for logistic regression. 
 Cost function measures how well the neural network fits training data.
+J(theta) = -1/m sum [ y(i) log h-theta(x(i)) + ( 1 -y(i)) log ( 1 - h-theta(x(i)) )]  + lambda/2m . sum theta(j)^2
+                                                                                                |
+                                                                          regularization term, sum is from 1 to n (leave out bias term)
 
 
 Lec 9.2:  back propagation (bp) algorithm to minimise cost function for NN.
-      Step 1. Compute outputs (activation function) using forward propagation.
-      Step 2. BP algo to compute derivatives. Compute the delta terms for each layer, starting from last layer
+      Step 1. Compute outputs (activation function & h-theta(x) ) using forward propagation.
+      Step 2. use BP algo to compute derivatives. 
+              delta(j)(L) = error of node j in layer L
+              Compute the delta terms for each layer, starting from last layer. So, for last/ final layer (say, layer 4):
+              d(j)(4) = a(j)(4) - y(j) 
+                      = h-theta(x)(j) - y(j)   ; where h-theta(x)(j) is the jth output
       Step 3. To minimise the cost function, partial derivatives wrt the parameters are reqd. It can be shown that the
-derivatives equal the product of activation function & delta term (computed in step 2).
-This affects the intermediate weights such that the final output is optimised.
+              derivatives equal the product of activation function & delta term (computed in step 2).
+              This affects the intermediate weights such that the final output is optimised.
 
 
 Lec 9.3: computation steps of backprop (BP intuition)
