@@ -110,21 +110,28 @@ the grad descent algo
 ###############   neural network   #################
 Lec 8.1:
 Classification problem with complex boundary (non linear hypothesis): one solution is to build logistic regression with the
-raw features & product terms (non-linear features) of the raw features ~ no.of features increases hugely as N increases. Also,
-the possibility of overfitting with such huge no of features.
+raw features & product terms (non-linear features) of the raw features 
+    ~ no.of features increases hugely as N increases.
+    Also, the possibility of overfitting with such huge no of features.
+
 For image classification problem, the no of features N is especially large (N = n x n, n is the no of pixels in the image).
 Non-linear hypothesis is reqd 4 image classification.
 
+
 Lec 8.2: one learning hypothesis
+
 
 Lec 8.3:
 Inputs x(i) , x(0) <- bias unit
 Output : h-theta(x) = 1/(1 + e^-thetaT.x)  
 This form is the sigmoid/ logistic activation function.
 Theta are the parameters or weights of the neural network
+
 Input layer -> hidden layer -> output layer.
+
 The matrix of weights theta controls the function mapping from layer j to j+1.
 Forward propagation: computation of g(z) = 1/(1 + e^ -z)  using inputs & weights at each layer.
+
 
 Lec 8.4:
 Neural network is equivalent to logistic regression on (new features computed using the activation function) instead of (raw features).
@@ -135,15 +142,20 @@ Architecture of NN; shows how neurons in different layers are connected to each 
 
 Q. How to avoid overfitting with NN ?
 
+
 Lec 8.5:
 Non linear classification (non-linear decision boundary to separate positive & negative samples) example.
 
+
 Lec 8.6: another eg
+
 
 Lec 8.7: multiclass classification (pedestrian, car, bus, truck), representation of x(i) & y(i)
 
+
 Lec 9.1: neural network (NN) cost function, similar form to that for logistic regression. Cost function measures how well
 the neural network fits training data.
+
 
 Lec 9.2:  back propagation (bp) algorithm to minimise cost function for NN.
 Step 1. Compute outputs (activation function) using forward propagation.
@@ -152,17 +164,22 @@ Step 3. To minimise the cost function, partial derivatives wrt the parameters ar
 derivatives equal the product of activation function & delta term (computed in step 2).
 This affects the intermediate weights such that the final output is optimised.
 
+
 Lec 9.3: computation steps of backprop (BP intuition)
+
 
 Lec 9.4: unrolling matrices to vectors (useful for optimisation)
 
+
 Lec 9.5: gradient checking fix to ensure that Backprop is working correctly (?)
 One-sided difference vs 2-sided difference formula for computing derivatives.
+
 
 Lec 9.6: random initialisation.
 Initialising all the theta values to zero (as done in logistic regression) does not work for neural network,
 as parameters going into each of the hidden units in a layer would be equal.
 Hence use random initialisation in [-€,€] to break this symmetry.
+
 
 Lec 9.7: choice of architecture of the network.
 # units in layer 1 =  dimension of input features
@@ -180,6 +197,8 @@ Training a NN:
    For NN, J-theta is non-convex & is theoretically susceptible to getting stuck in local minima.
    In practice, it is not usually a huge problem.
 
+
 Lec 9.8: using NN for autonomous driving.
 Input: road image
 Output: steering direction with a confidence value.
+
