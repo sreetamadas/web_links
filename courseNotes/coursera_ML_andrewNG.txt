@@ -2,11 +2,20 @@ Andrew NG coursera course
 
 
 ##Coursera 
-Lec 1.x:
-what is machine learning? - A computer program is said to LEARN from experience E wrt some task T and some performance measure P,
+Lec 1.x: what is machine learning? 
+- A computer program is said to LEARN from experience E wrt some task T and some performance measure P,
 if its performance on T, as measured by P, improves with experience E.
 e.g. Spam classification, regression
 types - supervised, unsupervised, re-inforcement learning
+
+Introduction to supervised learning: housing price prediction (regression), malignant vs benign tumor (classification) - labeled data
+Introduction to unsupervised learning: working with unlabeled data,  e.g. clustering 
+                              use case: google news, clustering same story/topic from different links,
+                                        clustering individuals by extent og gene expression,
+                                        organise computing clusters for efficient working,
+                                        social network analysis: find cohesive groups
+                                        market segmentation: group customers for efficient targeting,
+                                       separating overlapping audio sources- 2 speakers at different distances from 2 microphones (SVD)
 
 
 Lec 2.x:
