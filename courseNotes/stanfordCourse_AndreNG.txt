@@ -1,0 +1,64 @@
+
+
+Andrew NG stanford course:
+(Abu mustafa, caltech, coursera
+Andrew ng course project: rna alignment using ml)
+
+
+Lec 1:
+Hmm: ml algo for time series
+Data structure, link list
+
+Svm parameters, cost function & gamma, overfitting, RBF kernel
+Google: svm cost and gamma
+Nearest neighbor 
+
+Gnu octave
+Independent component analysis ICA, SVD ***
+
+
+Lec 2:
+In OLS, we minimise MSE or residuals? What do we minimise in Gradient Descent?
+
+Linear regression:
+X : attributes/ features
+a, b: parameters
+We find parameters such that mse is minimised - minimisation using search algo gradient descent (depends on initial values of parameters, and the stepsize alpha). Is this the only way to find the parameters? For ordinary least sq, the function to be minimised is quadratic bowl-shaped.
+MSE vs residual; what exactly is minimised in OLS?
+Wikipedia pg: mse, bias & variance
+
+Protein potential function - why not a single min?
+
+Batch gradient descent (small training set) vs stochastic gradient descent (large training set : millions of samples)
+
+
+Lec 3:
+Non-parametric learning algos: eg, locally weighted regression LOESS; here the no of parameters grows with the size of the training set
+Parametric algo: has fixed no. of parameters fit to the data
+Parameter  tau- bandwidth (controls how fast weights fall off with distance)
+
+Errors are gaussian, central limit theorem, definition of random variable
+CLT: sum of many random variables will tend toward a Gaussian
+Likelihood of paramter ~ same as probability of data; choose parameters to maximise the likelihood L(theta)
+
+Logistic/ sigmoid function
+Maximise log likelihood using gradient ascent. Newton methods- minimise function
+
+Perceptron ~ can be represented by step function
+
+
+Lec 4:
+Newton's method: fast convergence, is faster than gradient descent.
+Newton's method: find theta such that f(theta) = 0. This is useful to maximise the likelihood function in logistic regression
+(f will be 1st derivative of function to be maximised). Can initialize all theta values to zero. Find f(theta) & draw slope.
+Update rule in terms of Hessian matrix of 2nd derivatives, when theta is a vector instead of a single number.
+
+Y is gaussian - fit OLS.
+Y is Bernoulli distr (0,1) - fit logistic regression.
+Parameters of gaussian & bernoulli distributions. 
+Natural parameter & sufficient statistic.
+Exponential family distributions.
+Multivariate gaussian & multinomial distr (distr over k possible outcomes).
+Generalized linear model& canonical link function.
+Softmax regression: generalization of logistic regression to multiple classes
+
