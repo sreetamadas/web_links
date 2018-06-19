@@ -1,0 +1,31 @@
+Forum.fast.ai
+Wiki.fast.ai
+Deep learning: fast.ai
+https://hackernoon.com/fast-ai-what-i-learned-from-lessons-1-3-b10f9958e3ff
+
+Lec 1: 
+Use of pre-trained models (eg, VGG16) on new image data - faster, but this is affected by the biases in the previous data.
+Always look at the data using which the model was built.
+
+In deep learning, we dont look at either a single image or all images at a time. Generally we look at small groups of images,
+called a batch or a mini-batch.
+
+
+Lec 2:
+Resources in wiki & slack.
+Submitting results using kaggle CLI.
+Save model weights.
+Changing learning rate after a few steps.
+Evaluation function: Accuracy, log loss.
+5 steps to check how well the image recognition algorithm is working - see some egs of correct classification,
+                                                  wrong classification, uncertainty in classification, etc.
+As the no of epoch increases, network becomes more confident.
+Main steps-
+1. Create validation & sample set
+2. Create sep directories
+3. Finetune & train
+4. Submit
+5. Visualize
+
+
+Sahana -> image classification vs segmentation.
