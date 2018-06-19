@@ -23,10 +23,13 @@ Lec 2.x: Linear regression
 linear regression with one variable / univariate linear regression
                 training data
                      |
+                     v
                 learning algo
                      |
+                     v
 size of house  -> hypothesis (h-theta(x)) -> estimated price
 (test set x)                        (predicted Y)
+
 
 1. Training set: x,y
 2. total no. of training examples : m
@@ -49,8 +52,9 @@ for multiple theta, J(theta) can be visualized as surface plots, or as contour p
 
 
 gradient descent algo : used to minimise the cost function J(theta) 
-           (useful for hypothesis with many parameters, since gradient descent scales well instead of the normal equations method;
-           in normal equations method, we solve equations for theta explicitly with derivative=0 ?). 
+           (gradient descent solves for theta(i) iteratively.
+           In normal equations method, we can solve equations (with derivative=0 ?) for theta to get exact values. 
+           However, gradient descent scales well (for hypothesis with many parameters) instead of the normal equations method.
            We choose starting value of parameter - the partial derivative is used to update the value of the parameter.
           
 repeat until convergence {
@@ -69,6 +73,7 @@ The above form of the algo is called Batch gradient descent: each step of gradie
 step involves sum over all m training egs).
 There are other algos which use a subset of the training examples. 
 
+use of linear algebra to handle training data with multiple features.
 
 ##########################################################################
 Lec 3.x : linear algebra (skipped)
