@@ -3,7 +3,8 @@ Andrew NG coursera course
 
 ##Coursera 
 Lec 1.x:
-what is machine learning?
+what is machine learning? - A computer program is said to LEARN from experience E wrt some task T and some performance measure P,
+if its performance on T, as measured by P, improves with experience E.
 e.g. Spam classification, regression
 types - supervised, unsupervised, re-inforcement learning
 
