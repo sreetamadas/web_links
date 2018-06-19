@@ -17,7 +17,9 @@ Introduction to unsupervised learning: working with unlabeled data,  e.g. cluste
                                        separating overlapping audio sources- 2 speakers at different distances from 2 microphones (SVD)
 
 
-Lec 2.x: Linear regression
+##############################################################  
+Lec 2.x: Linear regression 
+
 linear regression with one variable / univariate linear regression
                 training data
                      |
@@ -39,6 +41,7 @@ definition of cost function/ squared error cost function (to be minimised wrt th
 For a single theta, J(theta) is a parabolic function.
 for multiple theta, J(theta) can be visualized as surface plots, or as contour plots (concentric ellipses).
 
+
 For many parameters, minimise the cost function J(theta) using gradient descent algo
 (instead of solving by hand with minimising derivative ?). 
 We choose starting value of parameter - the partial derivative is used to update the value of the parameter. 
@@ -51,9 +54,10 @@ so theta changes by smaller amounts in subsequent steps. Hence no need to reduce
 Batch gradient descent: each step of gradient descent uses all training egs (parameter update step involves sum over all training egs)
 
 
+##########################################################################
 Lec 3.x : linear algebra (skipped)
 
-
+############################################################################
 Lec 4.x: multivariate linear regression, feature scaling,
 For features with different scales, the contours of theta space is skewed ovals, this will lead to longer time in the execution of 
 the grad descent algo
