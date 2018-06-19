@@ -1,5 +1,4 @@
-Andrew NG coursera course / stanford lectures
-www.holehouse.org/mlclass/
+Andrew NG coursera course
 
 
 ##Coursera 
