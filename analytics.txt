@@ -1,15 +1,15 @@
 ##### OVERVIEW #####
 
-types of data: numeric, image, text (structured, un-structured)
+* types of data: numeric, image, text (structured, un-structured)
 
-types of ML algo: 
+* types of ML algo: 
 unsupervised (clustering, association rule mining/ market basket analysis, anomaly detection in univariate/ multivariate data) 
-vs supervised (classification, regression prediction)
+vs supervised (classification- binary/ multi-class, regression prediction)
 reinforcement learning (https://www.quora.com/Is-reinforcement-learning-considered-a-branch-of-semi-supervised-learning)
 recommender systems
 
 
-types of analysis:
+* types of analysis:
 level 1: descriptive  -> find trends & statistics, calculate metrics, threshold notifications, real-time observation
 level 2: diagnostic   -> data mining & analysis, events diagnostics (both historical & real-time), feature importance selection,
                          root cause analysis,
@@ -18,7 +18,7 @@ level 4: prescriptive -> advanced optimisation
 
 
 ###########################################################################################################
-## paralels between business use case & PhD research
+## parallels between business use case & PhD research
 
 # framing of high level use case
 # formulating smaller questions/ sub-problem requirements to obtain solution to the high level use case
