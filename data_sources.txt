@@ -9,13 +9,17 @@ https://datamarket.com/data/list/?q=provider:tsdl%20tag:temperature
 https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public
 
 
+https://msropendata.com/
 AWS Public Datasets
 Yahoo Datasets
 Allen Institute Datasets  (http://allenai.org/data.html)
 Google Trends Dataset
+https://research.google.com/ava/
 http://mldata.org/repository/data/
 https://www.google.com/publicdata/directory
 https://www.infoworld.com/article/3131515/artificial-intelligence/4-google-data-sets-to-kickstart-machine-learning.html
+https://siliconangle.com/blog/2017/10/20/googles-new-ava-dataset-aims-help-ai-better-understand-humans/
+
 
 https://energydata.info/dataset   **
 data.gov
