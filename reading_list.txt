@@ -1,3 +1,11 @@
+ AI fundamentals: 
+ algebraic concepts 
+ basic optimization methods and numerical algorithms, 
+ ML-project routine (vectorization of data, feature engineering, handling missing data and outliers, train/validation/test, metrics). 
+ 
+ "classical" algorithms: decision trees, linear and logistic regression, basics of neural networks, ensembling, clustering and topic modeling. For any particular algorithm details as well as pointers to other algorithms, use Google and Google Scholar
+
+####################################################################################
 types of error functions: MAE, MSE, MAPE
 https://medium.com/making-sense-of-data/time-series-next-value-prediction-using-regression-over-a-rolling-window-228f0acae363
 
