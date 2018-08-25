@@ -27,7 +27,7 @@ https://www.kaggle.com/apapiu/regularized-linear-models
 
 
 ### time series prediction ###
-
+forecasting
 
 
 ### anomaly detection ###
@@ -36,4 +36,16 @@ https://www.kaggle.com/boltzmannbrain/nab
 https://github.com/numenta/NAB
 
 
-### image analysis (segmentation vs classification; use of crops, resizing, flipping; scaling intensities; inverting back/fore-ground) ###
+### image analysis ###
+(segmentation vs classification; 
+use of crops, resizing, flipping; scaling intensities; inverting back/fore-ground) 
+
+
+
+###  NLP  ####
+sentiment analysis / classification
+text summarization
+
+
+
+
