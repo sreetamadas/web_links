@@ -1,0 +1,19 @@
+### upsample data :  SMOTE vs ADASYN
+
+GOOGLE: smote in R
+https://stats.stackexchange.com/questions/55302/how-to-set-smote-parameters-in-r-package-dmwr
+https://www.analyticsvidhya.com/blog/2016/03/practical-guide-deal-imbalanced-classification-problems/   *****
+
+GOOGLE: rose vs smote in r
+https://stats.stackexchange.com/questions/166458/rose-and-smote-oversampling-methods
+
+
+
+###  FINETUNE A CLASSIFIER:
+GOOGLE : how to increase sensitivity & specificity of a binary random forest classification model
+https://towardsdatascience.com/fine-tuning-a-classifier-in-scikit-learn-66e048c21e65    (1. grid sarch  2. adjust decision threshold) ****
+
+
+
+https://www.kaggle.com/nikitaivanov/getting-high-sensitivity-for-imbalanced-data#    -> shows use of SMOTE
+
