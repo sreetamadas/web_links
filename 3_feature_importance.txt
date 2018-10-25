@@ -5,3 +5,5 @@ how to get feature importance with adaboost regressor and 5-fold crossvalidation
 https://www.ritchieng.com/machine-learning-cross-validation/
 
 
+https://stackoverflow.com/questions/44101458/random-forest-feature-importance-chart-using-python
+https://machinelearningmastery.com/feature-importance-and-feature-selection-with-xgboost-in-python/
