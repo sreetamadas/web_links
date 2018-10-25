@@ -1,0 +1,130 @@
+Areas		Topics		
+
+Learning Python				
+		"Variables and Types, Handling datetime datatypes"		
+		Lists		
+		Functions and Packages		
+		Numpy Arrays		
+		Dictionaries and Tuples		
+		Pandas Dataframes		
+		Matplotlib		
+		Loops		
+		User Defined Functions		
+		Lambda Functions		
+		Classes		
+		File Input and Output		
+
+Probability and Statistics				
+		"Mean, Median and Mode"		
+		Variance and Standard Deviation		
+		Covariance and Pearson correlation coeffiecient		
+		"Gaussian Distribution, Poisson and Binomial Distribution"		
+		Random number generation		
+		Probability Distribution - Marginal/Conditional		
+		Bayes Theorem		
+		"Modality of Distrbutions- Unimodal, Bimodal etc , Skewed distributions"		
+		Probability Density Function		
+		Hypothesis Testing		
+
+Exploratory Plots				
+		Line Plots		
+		Scatter Plots		
+		Box Plots		
+		Histograms		
+		Heat Maps		
+		Barcharts and Faceting		
+
+Data Preprocessing				
+		"Importing data from files/databases(filtering, ordering and grouping)"		
+		"Handling Nas, missing values"		
+		Data summarization		
+		Parsing and Regular Expressions		
+		Joining/Merging Dataframes		
+		Encoding		
+		Centering and Scaling data(Normalization)		
+
+Supervised Learning with Scikit Learn				
+		Decision Trees 		
+		KNN		
+		SVM		
+		Naïve Bayes		
+		Logistic Regression		
+		Linear Regression		
+		Ridge Regression		
+		Lasso Regression (Feature selection)		
+		Bagging and Boosting(Ensemble Methods)		
+		"Train/Test split ,  Cross Validation, Grid Search Techniques"		
+		"Evalauation Metrics: Accuracy, Precision , Recall, F-Measure"		
+		"Bias, Varinace / Underfitting and Overfitting"		
+		Regularization		
+		ROC curve		
+		Gradient Descent		
+
+Unsupervised Learning				
+		Clustering  Methods (with different distance measures)		"(euclidean, minkowski, mahalanobis distance), cosine similarity"
+		Association Mining		
+		Dimensionality Reductions/PCA		
+
+Forecasting				
+		ARIMA model		
+		Holt Winters		
+				
+NLP Tasks				
+		"Stemming , Lemmatisation , Word Embeddings , Part-of-Speech Tagging , Named Entity Disambiguation , Named Entity Recognition , 
+     Sentiment Analysis , Semantic Text Similarity , Language Identification , Text Summarisation , Text Classification , 
+     Text matching , "		
+		"Bag of words(Tokenization,Vectorization)"		
+		"Word embeddings(Word2Vec, TF/IDF normalization)"		
+		N-grams		
+		"Topic Modeling - LDA(Latent Dirichlet Allocation), LSA(Latent Semantic Analysis)"		
+		Cosine Similarity		
+		"Parts of speech tagging, Named Entity Recognition"		
+		https://www.analyticsvidhya.com/blog/2017/01/ultimate-guide-to-understand-implement-natural-language-processing-codes-in-python/ 		
+		https://www.analyticsvidhya.com/blog/2017/10/essential-nlp-guide-data-scientists-top-10-nlp-tasks/		
+		https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/		
+
+Anomaly Detection				
+		"Gaussian Distribution, Multivariate Gaussian Distribution based models"		
+		https://github.com/aqibsaeed/Anomaly-Detection		
+		Moving Average based anomaly detection		
+		https://www.datascience.com/blog/python-anomaly-detection		
+		SVM based anomaly detection		
+		http://dsdeepdive.blogspot.com/2016/01/anomaly-detection-with-python.html 		
+		Hierarachical Temporal Models		
+
+Recommender Systems				
+		Content based recommendations		
+		Colloborative filtering(user based/item based)		
+		Popularity based model		
+		https://www.analyticsvidhya.com/blog/2016/06/quick-guide-build-recommendation-engine-python/ 		
+		https://blog.statsbot.co/recommendation-system-algorithms-ba67f39ac9a3 		
+		https://medium.com/ai-society/a-concise-recommender-systems-tutorial-fa40d5a9c0fa  		
+
+Deep Learning 				
+		Derivatives and gradient descent		
+		"Vectorization concepts - Inputs for deep learnning - input,output,weight and bias vectors/matrices and dimensions"		
+		Forward and backward propagation		
+		Classification(Softmax) and regression models with deep learning		
+		Implementing shallow and deep neural networks		
+		Activation functions and the need for non-linear activation		
+		Weight initialization		
+
+Regularization Techniques
+		L2 Regularization		
+		Drop-out Regularization		
+		Vanishing gradients problem		
+		Gradient Checking		
+
+Optimization Techniques - Deep Learning
+		"Batch Gradient Descent , Minibatch gradient descent"		
+		"Exponentially weighted averages, Bias correction"		
+		Gradient descent with momentum(using exponential weighted averages)		
+		RMS Prop		
+		Adam optimization (Approach combining RMS prod and Gradiebt descent with momentum)		
+		Learning rate decay		
+		Problems of local optima and saddle points		
+		Hyperparameter tuning		
+		Batch Normalization		
+				
+Specialized DNN
+		"CNN, RNN, LSTM"		
