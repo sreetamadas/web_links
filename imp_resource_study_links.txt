@@ -65,10 +65,45 @@ https://kannan-kasthuri.github.io/pda.html
 
 ## time series:
 https://onlinecourses.science.psu.edu/stat510/
-https://www.otexts.org/fpp/ -> R.J. Hyndman
+https://www.otexts.org/fpp/ -> R.J. Hyndman     (https://www.otexts.org/fpp/6/5   -> STL decomposition)
+http://robjhyndman.com/uwafiles/fpp-notes.pdf
+http://robjhyndman.com/seminars/melbournerug/  (Forecasting time series using R)
+
 https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/
 https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/
 https://machinelearningmastery.com/time-series-forecast-study-python-monthly-sales-french-champagne/wmbriggs.com/post/735/
 
+http://econweb.ucsd.edu/~jhamilto/2142_syllabus.pdf
+http://www.wiwi.uni-muenster.de/05/download/studium/timeseries/ws1314/slides_a13_14.pdf
+http://d-nb.info/949251941/04
 
 http://www.oreilly.com/data/free/archive.html
+
+j b hamilton timeseries
+time series analysis forecasting and control 4th edition pdf
+brockwell time series theory and methods pdf download
+
+
+Time series data can be used for forecasting only if they have predictive power - see correlation & auto-correlation.
+1.  forecasting by R.J. hyndman (book)
+2.  machine learning on time series data
+3.  j p box & time series (book)
+4.  brockwell davis & time series (book)
+5.  holt winters forecasting
+6.  time series stl decomposition
+7.  ewma (exponentially weighted moving average)
+8.  Statistical Process control
+9.  statistical quality control
+10. sax pattern mining
+http://www.cs.ucr.edu/~eamonn/SAX.htm
+11.  http://dl.acm.org/citation.cfm?id=2768536  "bugs in the freezer"
+journal websites:
+12.  ieee
+13.  acma
+
+
+
+
+
+
+
