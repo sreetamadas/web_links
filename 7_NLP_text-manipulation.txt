@@ -1,0 +1,7 @@
+
+https://www.kaggle.com/hj5992/nlp-topic-modelling-basics/data
+https://www.kaggle.com/kanav0183/very-detailed-basics-of-nlp/data
+https://towardsdatascience.com/machine-learning-nlp-text-classification-using-scikit-learn-python-and-nltk-c52b92a7c73a
+https://www.hackerearth.com/practice/machine-learning/advanced-techniques/regular-expressions-string-manipulation-r/tutorial/
+
+
