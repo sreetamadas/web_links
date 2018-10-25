@@ -1,4 +1,4 @@
-## METHODS TO IMPROVE PERFORMANCE / handle imbalanced data
+### METHODS TO IMPROVE PERFORMANCE / handle imbalanced data ###
 1. grid sarch  
 2. adjust decision threshold
 3. use combination of models ? (bagging, boosting,stacking)  ****
@@ -18,6 +18,11 @@ https://stats.stackexchange.com/questions/166458/rose-and-smote-oversampling-met
 ###  FINETUNE A CLASSIFIER:
 GOOGLE : how to increase sensitivity & specificity of a binary random forest classification model
 https://towardsdatascience.com/fine-tuning-a-classifier-in-scikit-learn-66e048c21e65   ******
+
+how to select optimal model parameters for random forest:
+https://www.analyticsvidhya.com/blog/2015/06/tuning-random-forest-model/
+https://www.hackerearth.com/practice/machine-learning/machine-learning-algorithms/tutorial-random-forest-parameter-tuning-r/tutorial/
+https://www.kaggle.com/general/4092
 
 
 
