@@ -1,5 +1,5 @@
 ### METHODS TO IMPROVE PERFORMANCE / handle imbalanced data ###
-1. grid sarch  
+1. grid search  
 2. adjust decision threshold
 3. use combination of models ? (bagging, boosting,stacking)  ****
 
