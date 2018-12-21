@@ -9,5 +9,5 @@ https://www.kdnuggets.com/2017/02/stacking-models-imropved-predictions.html
 GOOGLE:
 how to build a weighted voting classifier
 how to build a voting classifier in python
-
-
+gradient boosting
+https://machinelearningmastery.com/gentle-introduction-gradient-boosting-algorithm-machine-learning/
