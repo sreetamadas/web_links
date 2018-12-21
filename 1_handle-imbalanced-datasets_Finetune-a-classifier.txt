@@ -43,4 +43,4 @@ augmenting train and test sets for unbalanced classes
 stacked regressor data imbalance
 how to handle data imbalance for regression problems
 https://machinelearningmastery.com/tactics-to-combat-imbalanced-classes-in-your-machine-learning-dataset/
-
+https://www.kdnuggets.com/2018/06/three-techniques-improve-machine-learning-model-performance-imbalanced-datasets.html
