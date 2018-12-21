@@ -1,10 +1,10 @@
 
 https://machinelearningmastery.com/ensemble-machine-learning-algorithms-python-scikit-learn/
 
-
 https://www.kdnuggets.com/2017/02/stacking-models-imropved-predictions.html
 (bagging, boosting, stacking)
 
+https://blog.statsbot.co/ensemble-learning-d1dcd548e936
 
 GOOGLE:
 how to build a weighted voting classifier
