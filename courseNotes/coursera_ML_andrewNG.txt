@@ -140,6 +140,7 @@ Similarly,
 h-theta(x) = g( theta(10)(2).a(0)(2) + theta(11)(2).a(1)(2) + theta(12)(2).a(2)(2) + theta(13)(2). a(3)(2) ) 
 
 Forward propagation: computation of activation function or g(z) = 1/(1 + e^ -z)  using inputs & weights at each layer.
+g applies the sigmoid function on each z.
 
 
 Lec 8.4:
