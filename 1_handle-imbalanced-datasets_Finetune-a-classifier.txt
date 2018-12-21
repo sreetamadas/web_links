@@ -9,6 +9,7 @@
 GOOGLE : how to increase sensitivity & specificity of a binary random forest classification model
 https://towardsdatascience.com/fine-tuning-a-classifier-in-scikit-learn-66e048c21e65   ******
 .decision_function()  , .predict_proba()   <- check how these work
+https://stackoverflow.com/questions/30814231/using-the-predict-proba-function-of-randomforestclassifier-in-the-safe-and-rig
 https://stackoverflow.com/questions/20113206/scikit-learn-svc-decision-function-and-predict
 https://stats.stackexchange.com/questions/329857/what-is-the-difference-between-decision-function-predict-proba-and-predict-fun
 
