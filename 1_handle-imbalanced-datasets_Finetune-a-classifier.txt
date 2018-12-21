@@ -18,9 +18,15 @@ https://www.analyticsvidhya.com/blog/2015/06/tuning-random-forest-model/
 https://www.hackerearth.com/practice/machine-learning/machine-learning-algorithms/tutorial-random-forest-parameter-tuning-r/tutorial/
 https://www.kaggle.com/general/4092
 
+
+https://www.quora.com/What-are-some-methods-to-stack-predictions-from-different-models?no_redirect=1
+https://www.quora.com/How-can-I-improve-Precision-Recall-AUC-under-Imbalanced-Classification
+https://www.quora.com/In-classification-how-do-you-handle-an-unbalanced-training-set
+https://www.quora.com/How-can-I-improve-the-results-of-my-predictive-model
+
+
+
 https://www.kaggle.com/nikitaivanov/getting-high-sensitivity-for-imbalanced-data#    -> shows use of SMOTE
-
-
 
 ### upsample data :  SMOTE vs ADASYN
 GOOGLE: smote in R
