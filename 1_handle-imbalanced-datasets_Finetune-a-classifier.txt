@@ -5,16 +5,6 @@
 
 
 
-### upsample data :  SMOTE vs ADASYN
-GOOGLE: smote in R
-https://stats.stackexchange.com/questions/55302/how-to-set-smote-parameters-in-r-package-dmwr
-https://www.analyticsvidhya.com/blog/2016/03/practical-guide-deal-imbalanced-classification-problems/   *****
-
-GOOGLE: rose vs smote in r
-https://stats.stackexchange.com/questions/166458/rose-and-smote-oversampling-methods
-
-
-
 ###  FINETUNE A CLASSIFIER:
 GOOGLE : how to increase sensitivity & specificity of a binary random forest classification model
 https://towardsdatascience.com/fine-tuning-a-classifier-in-scikit-learn-66e048c21e65   ******
@@ -24,7 +14,23 @@ https://www.analyticsvidhya.com/blog/2015/06/tuning-random-forest-model/
 https://www.hackerearth.com/practice/machine-learning/machine-learning-algorithms/tutorial-random-forest-parameter-tuning-r/tutorial/
 https://www.kaggle.com/general/4092
 
-
-
 https://www.kaggle.com/nikitaivanov/getting-high-sensitivity-for-imbalanced-data#    -> shows use of SMOTE
+
+
+
+### upsample data :  SMOTE vs ADASYN
+GOOGLE: smote in R
+https://stats.stackexchange.com/questions/55302/how-to-set-smote-parameters-in-r-package-dmwr
+https://www.analyticsvidhya.com/blog/2016/03/practical-guide-deal-imbalanced-classification-problems/   *****
+
+GOOGLE: rose vs smote in r
+https://stats.stackexchange.com/questions/166458/rose-and-smote-oversampling-methods
+
+
+## data augmentation:
+google: 
+augmenting train and test sets for unbalanced classes
+stacked regressor data imbalance
+how to handle data imbalance for regression problems
+https://machinelearningmastery.com/tactics-to-combat-imbalanced-classes-in-your-machine-learning-dataset/
 
