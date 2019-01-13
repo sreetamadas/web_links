@@ -1,5 +1,7 @@
 ### kaggle kernels for sample problems ###
 
+https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/
+
 ### fixing missing data issues ###
 https://www.kaggle.com/juejuewang/handle-missing-values-in-time-series-for-beginners
 https://arxiv.org/ftp/arxiv/papers/1510/1510.03924.pdf  (comparison of different methods for univariate Time Series imputation in R)
