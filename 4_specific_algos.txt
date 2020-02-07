@@ -19,3 +19,20 @@ https://stackoverflow.com/questions/35513798/how-to-get-support-vector-number-af
 
 ### knn
 # understand how this works
+
+
+https://machinelearningmastery.com/ensemble-machine-learning-algorithms-python-scikit-learn/
+
+
+### adaboost
+# understand how this varies from bagging methods; learning rate; sources of overfitting
+google: possible base estimators for adaboost
+https://stackoverflow.com/questions/37095246/how-to-use-adaboost-with-different-base-estimator-in-scikit-learn
+https://scikit-learn.org/stable/modules/ensemble.html#adaboost
+https://machinelearningmastery.com/boosting-and-adaboost-for-machine-learning/
+
+
+
+https://medium.com/all-things-ai/in-depth-parameter-tuning-for-gradient-boosting-3363992e9bae
+
+
