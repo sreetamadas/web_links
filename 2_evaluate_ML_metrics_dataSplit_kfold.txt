@@ -34,7 +34,10 @@ https://medium.com/datadriveninvestor/k-fold-cross-validation-6b8518070833
 https://www.analyticsvidhya.com/blog/2016/02/7-important-model-evaluation-error-metrics/
 https://datascience.stackexchange.com/questions/28426/train-accuracy-vs-test-accuracy-vs-confusion-matrix
 https://dziganto.github.io/cross-validation/data%20science/machine%20learning/model%20tuning/python/Model-Tuning-with-Validation-and-Cross-Validation/
-
+https://heartbeat.fritz.ai/5-regression-loss-functions-all-machine-learners-should-know-4fb140e9d4b0
+https://algorithmia.com/blog/introduction-to-loss-functions  
+(regression: MSE, MAE, MAPE, R2, adjusted R2  ;
+classification: log-loss (cross-entropy loss); likelihood loss
 
 
 
