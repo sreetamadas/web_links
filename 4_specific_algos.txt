@@ -37,6 +37,11 @@ https://stackoverflow.com/questions/37095246/how-to-use-adaboost-with-different-
 https://scikit-learn.org/stable/modules/ensemble.html#adaboost
 https://machinelearningmastery.com/boosting-and-adaboost-for-machine-learning/
 
+google: 
+adaboostregressor grid search  python
+adaboostregressor cross validation  python
+avoiding overfitting with adaboost regressor
+avoiding overfitting with adaboost regressor in python
 https://stackoverflow.com/questions/32210569/using-gridsearchcv-with-adaboost-and-decisiontreeclassifier
 https://medium.com/all-things-ai/in-depth-parameter-tuning-for-gradient-boosting-3363992e9bae
 
