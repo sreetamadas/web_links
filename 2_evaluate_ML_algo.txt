@@ -9,4 +9,11 @@ https://www.ritchieng.com/machine-learning-cross-validation/
 
 
 https://www.analyticsvidhya.com/blog/2016/02/7-important-model-evaluation-error-metrics/
+https://datascience.stackexchange.com/questions/28426/train-accuracy-vs-test-accuracy-vs-confusion-matrix
+https://machinelearningmastery.com/k-fold-cross-validation/
+
+GOOGLE:
+accuracy of regression algorithm
+how to calculate training set accuracy
+when is cross validation done
 
