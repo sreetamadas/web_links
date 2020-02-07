@@ -16,6 +16,7 @@ https://datascience.stackexchange.com/questions/32818/train-test-split-of-unbala
 https://discuss.pytorch.org/t/how-to-split-test-and-train-data-keeping-equal-proportions-of-each-class/21063
 
 
+https://scikit-learn.org/stable/modules/cross_validation.html
 how to get feature importance with adaboost regressor and 5-fold crossvalidation
 https://machinelearningmastery.com/k-fold-cross-validation/    "a gentle introduction to k-fold cross validation"
 https://towardsdatascience.com/why-and-how-to-cross-validate-a-model-d6424b45261f
