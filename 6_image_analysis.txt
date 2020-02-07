@@ -1,1 +1,15 @@
 see links in data science bowl 2018 folder
+
+
+google:
+metric learning
+similarity learning
+triplet loss
+pairwise loss
+triplet loss & siamese network   (# siamese network is to find similar images)
+
+https://www.quora.com/What-is-an-intuitive-explanation-of-the-triplet-loss-in-Machine-Learning
+https://arxiv.org/abs/1301.5332
+
+
+
