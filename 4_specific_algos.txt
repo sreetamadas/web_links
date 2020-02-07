@@ -1,4 +1,18 @@
 ### SVM
-google: how to calculate probability from decision function in SVM
+google: 
+how to calculate probability from decision function in SVM
+how to get the number of support vectors in python   (we can check how this varies with parameter tuning - cost, gamma, etc.)
+
 https://stackoverflow.com/questions/26478000/converting-linearsvcs-decision-function-to-probabilities-scikit-learn-python
 https://scikit-learn.org/stable/modules/svm.html
+
+https://stats.stackexchange.com/questions/278904/how-can-i-know-number-of-support-vectors-in-svm
+https://chrisalbon.com/machine_learning/support_vector_machines/find_support_vectors/
+
+
+### logistic
+# understand how this works. can we select important features?
+
+
+### knn
+# understand how this works
