@@ -21,6 +21,12 @@ https://stackoverflow.com/questions/35513798/how-to-get-support-vector-number-af
 # understand how this works
 
 
+### ridge & lasso regression
+avoid overfitting in lasso
+https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-ridge-lasso-regression-python/
+
+
+
 ## ensemble algos
 google: gradientboost vs xgboost
 https://machinelearningmastery.com/ensemble-machine-learning-algorithms-python-scikit-learn/
@@ -44,5 +50,6 @@ avoiding overfitting with adaboost regressor
 avoiding overfitting with adaboost regressor in python
 https://stackoverflow.com/questions/32210569/using-gridsearchcv-with-adaboost-and-decisiontreeclassifier
 https://medium.com/all-things-ai/in-depth-parameter-tuning-for-gradient-boosting-3363992e9bae
+https://subscription.packtpub.com/book/big_data_and_business_intelligence/9781787286382/9/ch09lvl1sec95/tuning-an-adaboost-regressor
 
 
