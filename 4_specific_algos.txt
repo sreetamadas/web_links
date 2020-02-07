@@ -58,3 +58,10 @@ https://medium.com/all-things-ai/in-depth-parameter-tuning-for-gradient-boosting
 https://subscription.packtpub.com/book/big_data_and_business_intelligence/9781787286382/9/ch09lvl1sec95/tuning-an-adaboost-regressor
 
 
+### random forest
+randomforestregressor cost function
+https://stats.stackexchange.com/questions/19639/which-is-a-better-cost-function-for-a-random-forest-tree-gini-index-or-entropy  (slides) 
+
+
+
+
