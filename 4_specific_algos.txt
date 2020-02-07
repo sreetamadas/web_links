@@ -1,0 +1,4 @@
+### SVM
+google: how to calculate probability from decision function in SVM
+https://stackoverflow.com/questions/26478000/converting-linearsvcs-decision-function-to-probabilities-scikit-learn-python
+https://scikit-learn.org/stable/modules/svm.html
