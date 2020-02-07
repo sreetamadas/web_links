@@ -3,10 +3,15 @@ google:
 how to calculate probability from decision function in SVM
 how to get the number of support vectors in python   (we can check how this varies with parameter tuning - cost, gamma, etc. 
 & if the model gets better or worse)
+how to decide on the number of support vectors
+number of support vectors vs cost function
 
 https://stackoverflow.com/questions/26478000/converting-linearsvcs-decision-function-to-probabilities-scikit-learn-python
 https://scikit-learn.org/stable/modules/svm.html
 
+https://stats.stackexchange.com/questions/169515/is-a-high-number-of-support-vectors-a-sign-of-overfitting  ***  (more SV -> overfitting)
+https://stats.stackexchange.com/questions/270187/svm-why-does-the-number-of-support-vectors-decrease-when-c-is-increased  ***
+https://stackoverflow.com/questions/9480605/what-is-the-relation-between-the-number-of-support-vectors-and-training-data-and   ***
 https://stats.stackexchange.com/questions/278904/how-can-i-know-number-of-support-vectors-in-svm
 https://chrisalbon.com/machine_learning/support_vector_machines/find_support_vectors/
 https://stackoverflow.com/questions/26261151/scikit-learn-linearsvc-how-to-get-support-vectors-from-the-trained-svm
