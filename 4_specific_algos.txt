@@ -21,7 +21,13 @@ https://stackoverflow.com/questions/35513798/how-to-get-support-vector-number-af
 # understand how this works
 
 
+## ensemble algos
+google: gradientboost vs xgboost
 https://machinelearningmastery.com/ensemble-machine-learning-algorithms-python-scikit-learn/
+https://www.analyticsvidhya.com/blog/2017/06/which-algorithm-takes-the-crown-light-gbm-vs-xgboost/
+https://www.kaggle.com/gayathrydasika/xgb-regressor-basic
+https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostRegressor.html
+
 
 
 ### adaboost
@@ -31,8 +37,7 @@ https://stackoverflow.com/questions/37095246/how-to-use-adaboost-with-different-
 https://scikit-learn.org/stable/modules/ensemble.html#adaboost
 https://machinelearningmastery.com/boosting-and-adaboost-for-machine-learning/
 
-
-
+https://stackoverflow.com/questions/32210569/using-gridsearchcv-with-adaboost-and-decisiontreeclassifier
 https://medium.com/all-things-ai/in-depth-parameter-tuning-for-gradient-boosting-3363992e9bae
 
 
