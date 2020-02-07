@@ -61,7 +61,7 @@ https://subscription.packtpub.com/book/big_data_and_business_intelligence/978178
 ### random forest
 randomforestregressor cost function
 https://stats.stackexchange.com/questions/19639/which-is-a-better-cost-function-for-a-random-forest-tree-gini-index-or-entropy  (slides) 
-
+random forest classification loss function
 
 
 
