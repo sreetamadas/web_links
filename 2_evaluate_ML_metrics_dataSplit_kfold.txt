@@ -34,15 +34,26 @@ https://medium.com/datadriveninvestor/k-fold-cross-validation-6b8518070833
 https://www.analyticsvidhya.com/blog/2016/02/7-important-model-evaluation-error-metrics/
 https://datascience.stackexchange.com/questions/28426/train-accuracy-vs-test-accuracy-vs-confusion-matrix
 https://dziganto.github.io/cross-validation/data%20science/machine%20learning/model%20tuning/python/Model-Tuning-with-Validation-and-Cross-Validation/
+
+(regression: MSE, MAE, MAPE, R2, adjusted R2  ;
+classification: log-loss (cross-entropy loss); likelihood loss; hinge loss, etc )
+https://datascience.stackexchange.com/questions/15989/micro-average-vs-macro-average-performance-in-a-multiclass-classification-settin **
+
+google: 
+cost function vs loss function (vs error function vs objective function)
+random forest loss function (entropy & Gini for classification, MSE for regression, see slides)
+https://towardsdatascience.com/custom-loss-functions-for-gradient-boosting-f79c1b40466d  ***
+
+https://stats.stackexchange.com/questions/179026/objective-function-cost-function-loss-function-are-they-the-same-thing
+https://machinelearningmastery.com/how-to-choose-loss-functions-when-training-deep-learning-neural-networks/
+https://machinelearningmastery.com/loss-and-loss-functions-for-training-deep-learning-neural-networks/
+
 https://heartbeat.fritz.ai/5-regression-loss-functions-all-machine-learners-should-know-4fb140e9d4b0
 https://algorithmia.com/blog/introduction-to-loss-functions  
 https://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html   ***
 https://towardsdatascience.com/understanding-binary-cross-entropy-log-loss-a-visual-explanation-a3ac6025181a
 https://machinelearningmastery.com/cross-entropy-for-machine-learning/
 
-(regression: MSE, MAE, MAPE, R2, adjusted R2  ;
-classification: log-loss (cross-entropy loss); likelihood loss
-https://datascience.stackexchange.com/questions/15989/micro-average-vs-macro-average-performance-in-a-multiclass-classification-settin **
 
 
 
