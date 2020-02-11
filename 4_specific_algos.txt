@@ -68,3 +68,14 @@ random forest classification loss function
 
 
 
+
+### neural net ####
+google: different types of neural net architecture
+https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464
+
+
+
+
+
+
+
