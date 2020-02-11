@@ -73,6 +73,7 @@ random forest classification loss function
 google: different types of neural net architecture
 https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464  ***
 https://medium.com/cracking-the-data-science-interview/a-gentle-introduction-to-neural-networks-for-machine-learning-d5f3f8987786  ***
+https://www.kdnuggets.com/2018/02/8-neural-network-architectures-machine-learning-researchers-need-learn.html
 https://towardsdatascience.com/diy-ai-an-old-school-matrix-nn-401a00021a55
 
 
