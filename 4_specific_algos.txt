@@ -4,6 +4,8 @@ https://discuss.datasciencedojo.com/t/101-machine-learning-algorithms-for-data-s
 
 ### clustering ###
 https://towardsdatascience.com/a-modified-artificial-bee-colony-algorithm-to-solve-clustering-problems-fc0b69bd0788
+https://towardsdatascience.com/pca-and-svd-explained-with-numpy-5d13b0d2a4d8
+
 
 
 ### SVM
