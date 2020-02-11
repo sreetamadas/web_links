@@ -1,0 +1,22 @@
+https://towardsdatascience.com/tensorflow-2-0-create-and-train-a-vanilla-cnn-on-google-colab-c7a0ac86d61b
+https://github.com/cs230-stanford/cs230-code-examples
+https://github.com/cs230-stanford/cs230-code-examples/tree/master/tensorflow
+https://github.com/cs230-stanford/cs230-code-examples/tree/master/tensorflow/vision
+
+
+google: using keras vs tensorflow
+https://www.tensorflow.org/tutorials/
+https://www.tensorflow.org/guide/keras
+
+
+google:
+how to create train test sets for deep learning on images
+
+
+
+### handling image data 
+https://www.youtube.com/watch?v=wQ8BIBpya2k&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN   (Deep Learning with Python, TensorFlow, and Keras tutorial: sentdex)
+https://www.pyimagesearch.com/2018/09/10/keras-tutorial-how-to-get-started-with-keras-deep-learning-and-python/  ***
+https://www.pyimagesearch.com/2018/04/16/keras-and-convolutional-neural-networks-cnns/
+https://www.pyimagesearch.com/2018/04/09/how-to-quickly-build-a-deep-learning-image-dataset/  ***
+https://www.pyimagesearch.com/2018/10/08/keras-vs-tensorflow-which-one-is-better-and-which-one-should-i-learn/   (using custom function)
