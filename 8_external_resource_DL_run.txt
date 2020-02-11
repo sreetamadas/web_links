@@ -1,0 +1,6 @@
+google: how to copy data to run deep learning on colab
+https://colab.research.google.com/notebooks/io.ipynb
+https://colab.research.google.com/drive/1eufc8aNCdjHbrBhuy7M7X6BGyzAyRbrF
+
+google: using kaggle for your data science work  (medium article)
+https://www.kaggle.com/getting-started/47096
