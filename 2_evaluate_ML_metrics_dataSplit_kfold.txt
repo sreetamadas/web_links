@@ -3,6 +3,7 @@ classification algos in r
 https://machinelearningmastery.com/evaluate-machine-learning-algorithms-with-r/
 
 
+### scaling ###
 https://stats.stackexchange.com/questions/77350/perform-feature-normalization-before-or-within-model-validation
 https://sebastianraschka.com/Articles/2014_about_feature_scaling.html    ****
 https://stats.stackexchange.com/questions/27627/normalization-prior-to-cross-validation
@@ -14,7 +15,6 @@ https://stackoverflow.com/questions/29082001/how-to-split-a-dataset-into-trainin
 https://stats.stackexchange.com/questions/394056/splitting-into-train-and-test-sets-keeping-class-proportions
 https://datascience.stackexchange.com/questions/32818/train-test-split-of-unbalanced-dataset-classification
 https://discuss.pytorch.org/t/how-to-split-test-and-train-data-keeping-equal-proportions-of-each-class/21063
-
 
 https://scikit-learn.org/stable/modules/cross_validation.html
 how to get feature importance with adaboost regressor and 5-fold crossvalidation
@@ -30,7 +30,7 @@ https://datascience.stackexchange.com/questions/18339/why-use-both-validation-se
 https://medium.com/datadriveninvestor/k-fold-cross-validation-6b8518070833
 
 
-
+### metrics ###
 https://www.analyticsvidhya.com/blog/2016/02/7-important-model-evaluation-error-metrics/
 https://datascience.stackexchange.com/questions/28426/train-accuracy-vs-test-accuracy-vs-confusion-matrix
 https://dziganto.github.io/cross-validation/data%20science/machine%20learning/model%20tuning/python/Model-Tuning-with-Validation-and-Cross-Validation/
@@ -42,7 +42,7 @@ https://machinelearningmastery.com/cross-entropy-for-machine-learning/
 
 (regression: MSE, MAE, MAPE, R2, adjusted R2  ;
 classification: log-loss (cross-entropy loss); likelihood loss
-
+https://datascience.stackexchange.com/questions/15989/micro-average-vs-macro-average-performance-in-a-multiclass-classification-settin **
 
 
 
