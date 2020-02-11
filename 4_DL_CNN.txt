@@ -20,3 +20,10 @@ https://www.pyimagesearch.com/2018/09/10/keras-tutorial-how-to-get-started-with-
 https://www.pyimagesearch.com/2018/04/16/keras-and-convolutional-neural-networks-cnns/
 https://www.pyimagesearch.com/2018/04/09/how-to-quickly-build-a-deep-learning-image-dataset/  ***
 https://www.pyimagesearch.com/2018/10/08/keras-vs-tensorflow-which-one-is-better-and-which-one-should-i-learn/   (using custom function)
+
+
+
+evaluate_generator
+how to check performance on vaidation set when using datagen
+how to see performance on vaidation set when using datagen
+
