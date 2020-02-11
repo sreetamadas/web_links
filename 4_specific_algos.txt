@@ -1,4 +1,5 @@
 https://blog.datasciencedojo.com/machine-learning-algorithms/   (101 ML algos)
+https://discuss.datasciencedojo.com/t/101-machine-learning-algorithms-for-data-science-data-science-blog/702
 
 ### SVM
 google: 
