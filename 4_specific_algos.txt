@@ -1,3 +1,5 @@
+https://blog.datasciencedojo.com/machine-learning-algorithms/   (101 ML algos)
+
 ### SVM
 google: 
 how to calculate probability from decision function in SVM
