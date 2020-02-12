@@ -5,6 +5,9 @@ https://discuss.datasciencedojo.com/t/101-machine-learning-algorithms-for-data-s
 ### clustering ###
 https://towardsdatascience.com/a-modified-artificial-bee-colony-algorithm-to-solve-clustering-problems-fc0b69bd0788
 https://towardsdatascience.com/pca-and-svd-explained-with-numpy-5d13b0d2a4d8
+google: k-means clustering in python ; checking convergence in k-means
+https://stats.stackexchange.com/questions/26364/variability-in-k-means-clusters-results-setting-set-seed-before
+check these topics: how to set up clustering till convergence? setting seeds for reproducibility; any hyperparameters?
 
 
 
