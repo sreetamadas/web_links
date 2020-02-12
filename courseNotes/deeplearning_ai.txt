@@ -1,3 +1,5 @@
 https://github.com/Kulbear/deep-learning-coursera
 https://github.com/mbadry1/DeepLearning.ai-Summary
 https://github.com/mbadry1/DeepLearning.ai-Summary/tree/master/4-%20Convolutional%20Neural%20Networks#foundations-of-cnns
+
+https://www.youtube.com/results?search_query=deeplearning.ai+andrew+ng
