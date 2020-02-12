@@ -1,9 +1,26 @@
 ###  CNN 
-https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-to-classify-photos-of-dogs-and-cats/?unapproved=517012&moderation-hash=1120c391e2c76030c775c97d83714d17#comment-517012
+google:
+cnn for greyscale images
+pre trained cnn grey scale images
+
+https://stackoverflow.com/questions/51995977/how-can-i-use-a-pre-trained-neural-network-with-grayscale-images
+https://towardsdatascience.com/the-4-convolutional-neural-network-models-that-can-classify-your-fashion-images-9fe7f3e5399d  ***
+
+http://users.eecs.northwestern.edu/~zli/new_home/MyPublications/conf/allerton14-cdnn.pdf  (Compact Deep Convolutional Neural Networks for Image Classification)
+https://ieeexplore.ieee.org/document/7562656   (Using grayscale images for object recognition with convolutional-recursive neural network)
+
+
+https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-to-classify-photos-of-dogs-and-cats/?unapproved=517012&moderation-hash=1120c391e2c76030c775c97d83714d17#comment-517012   ***
 https://machinelearningmastery.com/start-here/#better
 https://keras.io/preprocessing/image/
 https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
 https://towardsdatascience.com/image-detection-from-scratch-in-keras-f314872006c9   *** (interesting commands)
+
+https://github.com/09rohanchopra/cifar10/blob/master/cifar10-simple-cnn.ipynb
+https://towardsdatascience.com/a-simple-2d-cnn-for-mnist-digit-recognition-a998dbc1e79a
+https://www.kaggle.com/cdeotte/how-to-choose-cnn-architecture-mnist   ***
+https://www.analyticsvidhya.com/blog/2018/12/guide-convolutional-neural-network-cnn/
+
 
 ## colab set up
 https://www.analyticsvidhya.com/blog/2019/01/build-image-classification-model-10-minutes/     (setting up on colab)
@@ -22,6 +39,17 @@ can I resize rectangular images to square
 https://stackoverflow.com/questions/1507084/how-to-check-dimensions-of-all-images-in-a-directory-using-python
 https://stackoverflow.com/questions/273946/how-do-i-resize-an-image-using-pil-and-maintain-its-aspect-ratio
 
+
+google:
+how to create train test sets for deep learning on images
+evaluate_generator
+how to check performance on vaidation set when using datagen
+how to see performance on vaidation set when using datagen
+
+batch normalization
+
+
+
 https://www.youtube.com/watch?v=wQ8BIBpya2k&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN   (Deep Learning with Python, TensorFlow, and Keras tutorial: sentdex)
 https://www.pyimagesearch.com/2018/09/10/keras-tutorial-how-to-get-started-with-keras-deep-learning-and-python/  ***
 https://www.pyimagesearch.com/2018/04/16/keras-and-convolutional-neural-networks-cnns/
@@ -30,17 +58,10 @@ https://www.pyimagesearch.com/2018/10/08/keras-vs-tensorflow-which-one-is-better
 
 
 
+
 google: using keras vs tensorflow
 https://www.tensorflow.org/tutorials/
 https://www.tensorflow.org/guide/keras
-
-
-google:
-how to create train test sets for deep learning on images
-evaluate_generator
-how to check performance on vaidation set when using datagen
-how to see performance on vaidation set when using datagen
-
 
 
 
@@ -50,3 +71,4 @@ https://github.com/cs230-stanford/cs230-code-examples/tree/master/tensorflow
 https://github.com/cs230-stanford/cs230-code-examples/tree/master/tensorflow/vision
 
 https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/issues/735
+
