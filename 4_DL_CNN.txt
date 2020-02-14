@@ -22,11 +22,29 @@ https://www.kaggle.com/cdeotte/how-to-choose-cnn-architecture-mnist   ***
 https://www.analyticsvidhya.com/blog/2018/12/guide-convolutional-neural-network-cnn/
 
 
+### transfer learning & pre-processing
+https://github.com/keras-team/keras/issues/9624
+https://stackoverflow.com/questions/47555829/preprocess-input-method-in-keras   
+https://machinelearningmastery.com/use-pre-trained-vgg-model-classify-objects-photographs/
+google: using preprocess_input with datagen; preprocess_input keras vgg16
+https://nbviewer.jupyter.org/github/tirthajyoti/Deep-learning-with-Python/blob/master/Notebooks/Transfer_learning_CIFAR.ipynb
+
+
+
+### check performance on validation set, since no separate test set at the moment
+https://gist.github.com/RyanAkilos/3808c17f79e77c4117de35aa68447045#gistcomment-3176016
+https://github.com/keras-team/keras/issues/6499
+https://github.com/keras-team/keras/issues/5162
+https://stackoverflow.com/questions/37981913/keras-how-to-predict-classes-in-order
+https://gist.github.com/RyanAkilos/3808c17f79e77c4117de35aa68447045
+https://stackoverflow.com/questions/45413712/keras-get-true-labels-y-test-from-imagedatagenerator-or-predict-generator
+
+
+## predicting on new test data, without labels
+https://datascience.stackexchange.com/questions/13894/how-to-get-predictions-with-predict-generator-on-streaming-test-data-in-keras
+
 ## colab set up
 https://www.analyticsvidhya.com/blog/2019/01/build-image-classification-model-10-minutes/     (setting up on colab)
-
-### transfer learning
-https://nbviewer.jupyter.org/github/tirthajyoti/Deep-learning-with-Python/blob/master/Notebooks/Transfer_learning_CIFAR.ipynb
 
 
 
