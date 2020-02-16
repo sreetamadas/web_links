@@ -8,8 +8,16 @@ https://towardsdatascience.com/pca-and-svd-explained-with-numpy-5d13b0d2a4d8
 https://stats.stackexchange.com/questions/26364/variability-in-k-means-clusters-results-setting-set-seed-before
 
 check these topics: how to set up clustering till convergence? setting seeds for reproducibility; any hyperparameters?
-google: k-means clustering in python ; checking convergence in k-means
+google: k-means clustering in python ; checking convergence in k-means ; k-means clustering in R with random seeds
 
+
+#### pca ###
+google : normal mode vs principal component  ;  how to decide how many principal components to use
+https://stackoverflow.com/questions/12067446/how-many-principal-components-to-take
+https://towardsdatascience.com/an-approach-to-choosing-the-number-of-components-in-a-principal-component-analysis-pca-3b9f3d6e73fe
+
+
+##########################################################################################
 
 ### SVM
 google: 
