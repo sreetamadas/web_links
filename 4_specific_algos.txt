@@ -86,6 +86,8 @@ https://stats.stackexchange.com/questions/19639/which-is-a-better-cost-function-
 
 does r randomforest regression work with negative values of y
 https://medium.com/turo-engineering/how-not-to-use-random-forest-265a19a68576
+does random forest model reduce bias
+https://towardsdatascience.com/random-forests-and-the-bias-variance-tradeoff-3b77fee339b4
 
 
 
