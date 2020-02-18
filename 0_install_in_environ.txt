@@ -1,0 +1,72 @@
+# create new environment for fastai  (add matplotlib, pathlib, imageio, PIL, openCV? or use requirements file)
+> conda create --name fast_ai python=3.7 numpy pandas
+
+
+# verify the new environment is installed correctly
+> conda env list
+
+
+# change to the new environment 
+> conda activate myenv
+
+
+# to deactivate an environment
+> conda deactivate
+
+
+########################################################
+# install pytorch (#this is without cuda support)
+# https://pytorch.org/get-started/locally/#mac-installation
+> conda install pytorch torchvision -c pytorch
+
+
+# install fastai
+> pip install fastai
+
+######   or   
+# install tensorflow
+> pip install --upgrade tensorflow
+
+
+# install keras
+> pip install keras
+#######################################################
+
+verify the installation
+Please check that the software are installed correctly.
+Install jupyter notebook for the corresponding environment using Anaconda, or through command line
+
+
+Refer following links:
+https://www.tensorflow.org/install/pip
+https://pytorch.org/get-started/locally/#mac-installation
+https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
+
+
+### contents of requirements
+numpy==1.16.4
+pandas==0.25.0
+pandas-profiling==2.3.0
+pyod==0.7.4
+pymfe==0.1.0
+jupyter-nbextensions-configurator==0.4.1
+jupyter-contrib-core==0.3.3
+jupyter-contrib-nbextensions==0.5.1
+imbalanced-learn==0.5.0
+imblearn==0.0
+hyperopt==0.1.2
+category-encoders==2.0.0
+jupyter==1.0.0
+jupyter-client==5.3.1
+jupyter-console==6.0.0
+jupyter-contrib-core==0.3.3
+jupyter-contrib-nbextensions==0.5.1
+jupyter-core==4.5.0
+jupyter-highlight-selected-word==0.2.0
+jupyter-latex-envs==1.4.6
+jupyter-nbextensions-configurator==0.4.1
+jupyterlab==1.0.2
+jupyterlab-server==1.0.0 
+
+
+
