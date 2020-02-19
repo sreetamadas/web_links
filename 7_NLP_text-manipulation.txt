@@ -4,4 +4,4 @@ https://www.kaggle.com/kanav0183/very-detailed-basics-of-nlp/data
 https://towardsdatascience.com/machine-learning-nlp-text-classification-using-scikit-learn-python-and-nltk-c52b92a7c73a
 https://www.hackerearth.com/practice/machine-learning/advanced-techniques/regular-expressions-string-manipulation-r/tutorial/
 
-
+https://towardsdatascience.com/a-list-of-beginner-friendly-nlp-projects-using-pre-trained-models-dc4768b4bec0?source=user_profile---------5-----------------------
