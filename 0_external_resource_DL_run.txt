@@ -6,13 +6,12 @@ The below link explains how to upload data to colab:
 https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/io.ipynb&scrollTo=7taylj9wpsA2
 
 
+## colab instructions on fastai   *****
+https://course.fast.ai/start_colab.html
+
 
 google: using kaggle for your data science work  (medium article)
 https://www.kaggle.com/getting-started/47096
-
-
-## colab instructions on fastai
-https://course.fast.ai/start_colab.html
 
 
 ###################################
