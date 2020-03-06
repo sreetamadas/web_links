@@ -1,0 +1,110 @@
+##################################################
+### CUDA installation  (skip, if no GPU)
+Follow the link: https://towardsdatascience.com/installing-tensorflow-with-cuda-cudnn-and-gpu-support-on-windows-10-60693e46e781
+
+1.	Install visual studio community 2017 
+https://visualstudio.microsoft.com/vs/older-downloads/
+Note: If you use different versions uninstall that and download 2017 version
+
+2.	Restart your system.
+
+3.	CUDA v 10.1
+https://developer.nvidia.com/cuda-downloads?target_os=Windows&target_arch=x86_64
+Use legacy releases to download 10.1 or any earlier versions.
+
+4.	Download cuDNN
+https://developer.nvidia.com/rdp/form/cudnn-download-survey
+Login (free)
+Check for the corresponding version of CUDA v10.1 and install.
+Unzip the file. And place the .dll, .h and .lib in the corresponding CUDA folder mentioned. 
+
+5.	Set environmental variables. Mostly done by itself.
+6.	Python version 3.7.4 (If required upgrade)
+7.	In the anaconda prompt, pip install –upgrade tensorflow-gpu 
+8.	Install tensorflow as tf
+9.	tf.test.is_built_with_cuda() (True)
+10.	tf.test.is_gpu_available(cuda_only=False, min_cuda_compute_capability=None) (True)
+
+
+
+#####################################################
+requirements for fastai:
+fastai==1.0.60
+numpy==1.16.4
+pandas==0.25.0
+scikit-learn==0.22.1
+scipy==1.4.1
+torch==1.4.0
+torchvision==0.5.0
+
+###############################################################
+#####  INSTALLATION ####
+create new environment for fastai  (add matplotlib, pathlib, imageio, PIL, openCV, etc?)
+> conda create --name fastai_py37 python=3.7 numpy==1.16.4 pandas==0.25.0 scikit-learn==0.22.1 scipy==1.4.1
+
+# verify the new environment is installed correctly
+> conda env list
+
+
+# change to the new environment 
+> conda activate myenv
+
+
+# to deactivate an environment
+> conda deactivate
+
+
+# to remove an environment, deactivate it & run following
+conda remove --name myenv --all
+conda info --envs
+
+
+########################################################
+# install microsoft visual studio (visual studio community 2017)
+
+# install pytorch (#this is without cuda support) ; how to install with cuda support?
+# https://pytorch.org/get-started/locally/#mac-installation
+> conda install pytorch torchvision -c pytorch
+  conda install pytorch torchvision cpuonly -c pytorch   -> skips installing torch, torchvision & cpuonly
+
+>  pip install torch==1.4.0+cpu torchvision==0.5.0+cpu -f https://download.pytorch.org/whl/torch_stable.html      <- this works, but gives error with pip install fastai
+
+# the above commands did not work; install using wheel file for torch & torchvision directly (these are for GPU)
+> pip install C:/User/Software/torch-1.4.0-cp37-cp37m-win_amd64.whl
+> pip install C:/User/Software/torchvision-0.5.0-cp37-cp37m-win_amd64.whl
+
+#https://download.pytorch.org/whl/torch_stable.html  <- download wheel files from here & do pip install, CPU version
+pip install torch-1.4.0+cpu-cp37-cp37m-win_amd64.whl
+pip install torchvision-0.5.0+cpu-cp37-cp37m-win_amd64.whl  
+
+# install fastai
+> pip install fastai
+
+## verify the installation
+# Please check that the software are installed correctly. (https://pytorch.org/get-started/locally/)
+# Install jupyter notebook for the corresponding environment using Anaconda, or through command line
+
+
+#######################################################################
+# tensorflow installation, CPU version
+
+# install tensorflow
+> pip install --upgrade tensorflow
+
+# install keras
+> pip install keras
+
+#########################################################################
+
+Refer following links:
+https://www.tensorflow.org/install/pip
+
+https://pytorch.org/get-started/locally/#mac-installation
+https://conda.anaconda.org/pytorch/noarch
+https://conda.anaconda.org/pytorch/win-64
+
+https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
+
+
+https://medium.com/@pierre_guillou/how-to-install-fastai-v1-on-windows-10-ca1bc370dce4
+https://medium.com/@jacky_ttt/day060-fix-error-microsoft-visual-c-14-0-is-required-629413e798cd
