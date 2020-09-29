@@ -65,12 +65,18 @@ https://medium.com/@yanfengliux/the-confusing-metrics-of-ap-and-map-for-object-d
 average precision vs AP50
 
 
+
 https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/
 https://medium.com/ai-world/how-to-train-yolov4-for-custom-objects-detection-in-google-colab-1e934b8ef685
 https://medium.com/analytics-vidhya/implementing-yolov4-to-detect-custom-objects-using-google-colab-6691c98b15ff
 
 efficientdet object detection
+object detection with efficientdet pytorch code
+https://www.kaggle.com/shonenkov/training-efficientdet
+https://www.kaggle.com/diegojohnson/efficientdet-d1
+https://github.com/toandaominh1997/EfficientDet.Pytorch
 efficientdet object detection custom data
+https://github.com/signatrix/efficientdet/issues/4     (How to train with a custom dataset)
 https://medium.com/towards-artificial-intelligence/custom-object-detection-using-efficientdet-the-simplest-way-32749fb93359
 https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/training.html
 https://github.com/tensorflow/models/issues/8887
@@ -79,9 +85,26 @@ https://mc.ai/a-thorough-breakdown-of-efficientdet-for-object-detection/
 
 https://github.com/jamesjackson/tl_detection
 
+https://www.dlology.com/blog/how-to-train-an-object-detection-model-easy-for-free/
 train custom data with ssd in pytorch
 object detectors that train fast and accurate on small objects
 
 
-how to augment data for object detection in pytorch
+object detection with fastai
+https://medium.com/@ronak.k.bhatia/building-an-object-detection-model-with-fast-ai-c1694c7a521e
+http://francescopochetti.com/fast-ai-dl2-lesson-9-single-shot-detection-detailed-walkthrough/
+https://medium.com/@haohe_90388/fastai-v1-object-detection-with-ssd-ec6e9286c92c
+https://forums.fast.ai/t/working-notebook-for-object-detection/36168
+https://stackoverflow.com/questions/61556536/fastai-ssd-object-detection-on-pascal-2007-dataset-improving-detection-accuracy
 
+
+
+
+how to augment data for object detection in pytorch
+https://github.com/anhtuan85/Data-Augmentation-for-Object-Detection
+https://blog.paperspace.com/data-augmentation-for-object-detection-building-input-pipelines/
+https://towardsdatascience.com/bbaug-a-package-for-bounding-box-augmentation-in-pytorch-e9b9fbf1504b
+https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html
+https://towardsdatascience.com/data-augmentation-for-deep-learning-4fe21d1a4eb9
+https://www.kaggle.com/aleksandradeis/data-augmentation-packages-overview
+https://www.curiousily.com/posts/image-data-augmentation-for-tensorflow-2-keras-and-pytorch-with-albumentations-in-python/
