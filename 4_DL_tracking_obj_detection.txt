@@ -47,3 +47,15 @@ PETS dataset
 DUKE MTMC
 cityscape
 Kitty
+
+
+
+
+######  OBJECT DETECTION  ######
+metrics for performance test on object localization
+https://medium.com/swlh/on-object-detection-metrics-ae1e2090bd65
+https://manalelaidouni.github.io/manalelaidouni.github.io/Evaluating-Object-Detection-Models-Guide-to-Performance-Metrics.html
+
+
+
+
