@@ -1,0 +1,22 @@
+DATA AUGMENTATION
+google:
+fastai how to augment and save images to disk
+fastai vision.transform get_transform
+https://machinelearningmastery.com/image-augmentation-deep-learning-keras/
+https://github.com/facebookresearch/detectron2/issues/791
+http://blog.stratospark.com/generating-synthetic-data-image-segmentation-unity-pytorch-fastai.html
+
+
+IMBALANCED DATA, DATA SAMPLING & WEIGHTED LOSS FUNCTIONS:
+https://forums.fast.ai/t/how-to-use-class-weights-in-loss-function-for-imbalanced-dataset/19589/8
+https://pytorch.org/docs/stable/_modules/torch/utils/data/sampler.html#WeightedRandomSampler
+https://github.com/ufoym/imbalanced-dataset-sampler
+https://github.com/pytorch/pytorch/blob/master/torch/nn/modules/loss.py
+
+
+
+DATASET SOURCES:
+http://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm
+
+
+
