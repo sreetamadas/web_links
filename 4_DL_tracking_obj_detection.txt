@@ -52,6 +52,11 @@ Kitty
 
 
 ######  OBJECT DETECTION  ######
+
+install tensorflow object detection apion windows
+https://medium.com/@marklabinski/installing-tensorflow-object-detection-api-on-windows-10-7a4eb83e1e7b
+
+
 metrics for performance test on object localization
 https://medium.com/swlh/on-object-detection-metrics-ae1e2090bd65
 https://manalelaidouni.github.io/manalelaidouni.github.io/Evaluating-Object-Detection-Models-Guide-to-Performance-Metrics.html
@@ -65,10 +70,13 @@ https://medium.com/@yanfengliux/the-confusing-metrics-of-ap-and-map-for-object-d
 average precision vs AP50
 
 
+https://datascience.stackexchange.com/questions/65839/macro-average-and-weighted-average-meaning-in-classification-report
+
 
 https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/
 https://medium.com/ai-world/how-to-train-yolov4-for-custom-objects-detection-in-google-colab-1e934b8ef685
 https://medium.com/analytics-vidhya/implementing-yolov4-to-detect-custom-objects-using-google-colab-6691c98b15ff
+https://towardsdatascience.com/custom-object-detection-using-tensorflow-from-scratch-e61da2e10087
 
 efficientdet object detection
 object detection with efficientdet pytorch code
@@ -88,6 +96,11 @@ https://github.com/jamesjackson/tl_detection
 https://www.dlology.com/blog/how-to-train-an-object-detection-model-easy-for-free/
 train custom data with ssd in pytorch
 object detectors that train fast and accurate on small objects
+faster rcnn in pytorch train custom dataset
+fast rcnn in pytorch
+https://www.kaggle.com/maherdeebcv/pytorch-faster-r-cnn-with-resnet152-backbone
+fast rcnn in tensorflow
+
 
 
 object detection with fastai
@@ -108,3 +121,27 @@ https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html
 https://towardsdatascience.com/data-augmentation-for-deep-learning-4fe21d1a4eb9
 https://www.kaggle.com/aleksandradeis/data-augmentation-packages-overview
 https://www.curiousily.com/posts/image-data-augmentation-for-tensorflow-2-keras-and-pytorch-with-albumentations-in-python/
+
+how to augment data for object detection in tensorflow
+
+
+
+### CHECK TRAINING PROGRESS
+https://www.dlology.com/blog/how-to-train-an-object-detection-model-easy-for-free/
+how to check training progress tensorboard colab
+https://colab.research.google.com/github/tensorflow/tensorboard/blob/master/docs/tensorboard_in_notebooks.ipynb
+tensorboard not opening in colab
+https://stackoverflow.com/questions/47818822/can-i-use-tensorboard-with-google-colab
+
+how to check loss for object detection model from checkpoint
+https://stackoverflow.com/questions/44707302/how-to-evaluate-a-pretrained-model-in-tensorflow-object-detection-api
+how to check training and validation loss for object detection from checkpoint files in tensorflow 2
+how to check how many steps were run in tensorflow 2 object detection if training stopped in between
+how  to restart object detection training in tensorflow 2
+
+
+
+https://github.com/Deepika-Sharma08/Object-detection-MRCNN-Yolo
+
+
+
