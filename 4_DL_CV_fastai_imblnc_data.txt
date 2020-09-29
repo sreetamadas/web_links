@@ -8,11 +8,24 @@ http://blog.stratospark.com/generating-synthetic-data-image-segmentation-unity-p
 
 
 IMBALANCED DATA, DATA SAMPLING & WEIGHTED LOSS FUNCTIONS:
+class weightage in loss function
+https://forums.fast.ai/t/how-to-use-class-weights-in-loss-function-for-imbalanced-dataset/19589
+https://towardsdatascience.com/handling-class-imbalanced-data-using-a-loss-specifically-made-for-it-6e58fd65ffab
 https://forums.fast.ai/t/how-to-use-class-weights-in-loss-function-for-imbalanced-dataset/19589/8
 https://pytorch.org/docs/stable/_modules/torch/utils/data/sampler.html#WeightedRandomSampler
 https://github.com/ufoym/imbalanced-dataset-sampler
 https://github.com/pytorch/pytorch/blob/master/torch/nn/modules/loss.py
 
+SVM class weight balanced
+https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html
+
+can we use different penalties for different classes in image classification
+https://machinelearningmastery.com/tactics-to-combat-imbalanced-classes-in-your-machine-learning-dataset/
+https://www.pyimagesearch.com/2016/09/19/understanding-regularization-for-image-classification-and-machine-learning/
+
+class penalties in image classification
+class penalties in deep learning image classification
+https://link.springer.com/article/10.1186/s40537-019-0192-5   (survey on deep learning with class imbalance)
 
 
 DATASET SOURCES:
