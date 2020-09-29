@@ -56,6 +56,13 @@ metrics for performance test on object localization
 https://medium.com/swlh/on-object-detection-metrics-ae1e2090bd65
 https://manalelaidouni.github.io/manalelaidouni.github.io/Evaluating-Object-Detection-Models-Guide-to-Performance-Metrics.html
 
+what is the best map for object localization models
+what is the best map for localization models
+https://towardsdatascience.com/what-is-map-understanding-the-statistic-of-choice-for-comparing-object-detection-models-1ea4f67a9dbd
+https://www.datacamp.com/community/tutorials/object-detection-guide
+https://tarangshah.com/blog/2018-01-27/what-is-map-understanding-the-statistic-of-choice-for-comparing-object-detection-models/
+
+
 
 https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/
 efficientdet object detection
@@ -64,7 +71,7 @@ https://medium.com/towards-artificial-intelligence/custom-object-detection-using
 https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/training.html
 https://github.com/tensorflow/models/issues/8887
 https://towardsdatascience.com/how-to-train-a-tensorflow-2-object-detection-model-25d4da64b817
-
+https://mc.ai/a-thorough-breakdown-of-efficientdet-for-object-detection/
 
 
 
