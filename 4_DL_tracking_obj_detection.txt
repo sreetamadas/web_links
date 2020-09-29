@@ -61,7 +61,8 @@ what is the best map for localization models
 https://towardsdatascience.com/what-is-map-understanding-the-statistic-of-choice-for-comparing-object-detection-models-1ea4f67a9dbd
 https://www.datacamp.com/community/tutorials/object-detection-guide
 https://tarangshah.com/blog/2018-01-27/what-is-map-understanding-the-statistic-of-choice-for-comparing-object-detection-models/
-
+https://medium.com/@yanfengliux/the-confusing-metrics-of-ap-and-map-for-object-detection-3113ba0386ef
+average precision vs AP50
 
 
 https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/
@@ -82,5 +83,5 @@ train custom data with ssd in pytorch
 object detectors that train fast and accurate on small objects
 
 
-
+how to augment data for object detection in pytorch
 
