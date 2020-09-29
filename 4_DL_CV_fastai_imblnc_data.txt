@@ -7,6 +7,7 @@ https://github.com/facebookresearch/detectron2/issues/791
 http://blog.stratospark.com/generating-synthetic-data-image-segmentation-unity-pytorch-fastai.html
 
 
+
 IMBALANCED DATA, DATA SAMPLING & WEIGHTED LOSS FUNCTIONS:
 class weightage in loss function
 https://forums.fast.ai/t/how-to-use-class-weights-in-loss-function-for-imbalanced-dataset/19589
@@ -26,6 +27,24 @@ https://www.pyimagesearch.com/2016/09/19/understanding-regularization-for-image-
 class penalties in image classification
 class penalties in deep learning image classification
 https://link.springer.com/article/10.1186/s40537-019-0192-5   (survey on deep learning with class imbalance)
+
+how to upsample imbalanced classes in imagedatabunch in fastai
+https://forums.fast.ai/t/is-there-any-built-in-method-to-oversample-minority-classes/46838
+
+
+
+Fastai progressive resizing; progressive resizing fastai
+https://forums.fast.ai/t/progressive-resizing-in-fastai-v1/25004
+https://www.kaggle.com/prajwalprashanth/progressive-resizing-code-explained-93-2epochs
+https://towardsdatascience.com/boost-your-cnn-image-classifier-performance-with-progressive-resizing-in-keras-a7d96da06e20
+
+
+https://forums.fast.ai/t/making-metrics-work-for-nans/40098
+
+
+https://forums.fast.ai/t/reproducing-how-to-train-your-resnet-using-fastai/54694/7
+Fastai resnet
+https://www.kaggle.com/tcapelle/resnet-18-with-fastai
 
 
 DATASET SOURCES:
