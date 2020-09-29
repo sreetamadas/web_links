@@ -1,0 +1,49 @@
+GOOGLE:
+pixel correspondence multi camera tracking python
+pixel correspondence multi camera tracking real time python
+person re-identification tutorial
+AlignedReID
+
+multi camera calibration
+https://docs.opencv.org/master/d2/d1c/tutorial_multi_camera_main.html
+
+
+cv2.matchtemplate
+https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_template_matching/py_template_matching.html
+
+
+feature matching homography opencv python
+https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_feature2d/py_feature_homography/py_feature_homography.html
+https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_video/py_table_of_contents_video/py_table_of_contents_video.html
+feature_homography
+
+
+perspective transform see full image instead of region of interest
+https://stackoverflow.com/questions/13063201/how-to-show-the-whole-image-when-using-opencv-warpperspective
+https://stackoverflow.com/questions/25164899/opencv-warp-perspective-whole-image
+https://stackoverflow.com/questions/16415056/opencv-rotate-distort-and-translate-roi-in-new-image
+https://towardsdatascience.com/image-panorama-stitching-with-opencv-2402bde6b46c
+
+perspective transform bird eye view full image
+https://stackoverflow.com/questions/48576087/birds-eye-view-perspective-transformation-from-camera-calibration-opencv-python
+https://gist.github.com/anujonthemove/7b35b7c1e05f01dd11d74d94784c1e58
+
+
+iimage background subtraction
+https://docs.opencv.org/master/d1/dc5/tutorial_background_subtraction.html
+
+
+
+# tracking
+DEEPSORT, SORT
+motpy
+FairMOT
+NCA-NET
+
+
+# DATASETS
+EPFL dataset (wilderperson)
+PETS dataset
+DUKE MTMC
+cityscape
+Kitty
