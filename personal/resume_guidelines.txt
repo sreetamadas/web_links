@@ -1,0 +1,15 @@
+
+1.	Order in which to write: Summary, Work Experience, Skills and Techniques, Education, Publications (complete list, no doi etc.).
+2.	Pay attention to summary: 
+a.	Keep it crisp. No more than 3-4 lines (bullet points).
+b.	Talk about collaborations, communication skills etc.
+c.	Highlight your phd and post doc experience as relevant to position applied for.
+3.	Work experience: 
+a.	Describe your work experience and significance of each publication.
+b.	Separate reviews, book chapters and research articles
+c.	Put your name in bold in the author list
+d.	Journal names do not matter
+e.	Any landmark achievements? E.g from drug discovery to development..
+f.	Make sub points of technical experience, rather than listing them altogether.
+4.	Use multi color highlighting to grab attention
+5.	Emphasize about team building, mentoring etc., instead of just listing poster/oral presentations (If you are second author on a paper, did you mentor the first author? Or collaborate with the first author/ their lab?)
