@@ -1,0 +1,45 @@
+Recall or TPR or sensitivity = TP / (TP + FN) => proportion of actual positives/ sick people who are correctly identified as having the condition
+
+TNR or specificity = TN / (TN + FP) => proportion of actual negatives/ healthy people who are correctly identified as not having the condition
+= 1 - FPR
+
+
+accuracy = ( TP + TN ) / (TP + TN + FP + FN)
+
+
+positive predictive value or precision = TP / (TP + FP) => proportion of actual positives/ sick people among those which the test predicts as sick
+
+Negative predictive value = TN / (TN + FN)
+
+
+
+
+===================================================================
+Sensitivity = recall  (term [1] in p in the code below), which is correct.
+But why is specificity = precision ?
+Specificity = TN / (TN + FP)
+Precision = TP / (TP + FP)
+        for m in cut_off:
+            array=np.zeros(len(median_prob))
+            array_ind=[i for i in range(len(median_prob)) if median_prob[i]>=m]
+            array[array_ind]=1
+            p=precision_recall_fscore_support(y_test,array) 
+            sensitivity.append(p[1][1]) #change first index to 1 for sensitivity and specificity
+            specificity.append(p[1][0])
+
+First row is precision and second row is recall. Second row first element is specificity p[1][0] and second row second element is sensitivity p[1 ][1](if labels are 0 and 1 and class 1 is considered as positive)
+
+precision_recall_fscore_support(y_test,y_pred3)
+
+# layout of results
+# precision: class 0, class 1 
+# recall: class 0, class 1
+# f1 score: class 0, class 1
+# support: class 0, class 1
+
+Normalizing a confusion matrix:
+https://stackoverflow.com/questions/20927368/python-how-to-normalize-a-confusion-matrix
+https://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/   (see prevalence)
+
+
+
