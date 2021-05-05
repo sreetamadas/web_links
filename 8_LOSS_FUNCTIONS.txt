@@ -1,0 +1,23 @@
+https://heartbeat.fritz.ai/5-regression-loss-functions-all-machine-learners-should-know-...
+
+CLASSIFICATION
+1. log loss
+2. focal loss
+3. KL divergence / relative entropy
+4. exponential loss
+5. hinge loss
+
+
+
+REGRESSION
+1. mean square loss / quadratic loss  (MSE)
+2. mean absolute error  (MAE)
+3. Huber loss / smooth mean absolute error
+4. Log cosh loss
+5. quantile loss
+
+
+It is possible to design the loss function such that the penalty is more for one kind of error (say pred < actual) than the 
+other (pred > actual), depending on the use case
+
+
