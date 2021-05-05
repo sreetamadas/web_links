@@ -1,0 +1,12 @@
+Gradient descent (https://en.wikipedia.org/wiki/Gradient_descent   
+https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf ): 
+
+first-order iterative optimization algorithm for finding the minimum of a function. 
+
+To find a local minimum of a function using gradient descent, one takes steps proportional to the negative of the
+gradient (or of the approximate gradient) of the function at the current point. 
+
+
+Gradient descent is also known as steepest descent.
+
+Gradient descent is a popular method in the field of machine learning because part of the process of machine learning is to find the highest accuracy, or to minimize the error rate, given a set of training data.[1] Gradient descent is used to find the minimum error by minimizing a "cost" function.
