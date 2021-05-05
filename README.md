@@ -1,6 +1,8 @@
 list of important links
 
 
+https://makecode.com/
+
 https://www.coursera.org/learn/machine-learning
 
 Some useful online resources and software tools to further your knowledge in ML for image processing, and get into deep learning:
