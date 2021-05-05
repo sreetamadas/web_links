@@ -1,0 +1,54 @@
+Solution Architect (Deep Learning) – NVIDIA
+
+# Job Description:
+What you’ll be doing:
+•	Work with the most exciting high-performance computing hardware, software and impactful projects
+•	Help enable compelling customer productivity and develop lasting relationships with NVIDIA?s Technology Partners by making NVIDIA technology an integral part of end-user solutions
+•	You will work with the latest Deep Learning architectures (DLA) coupled with Big Data Analytics application providers and customers to create improved workflows and develop new, differentiated solutions
+•	In addition you will evangelize and influence the NVIDIA GPU Computing experience
+•	Assist field business development in guiding the customer through the sales process for GPU Computing products, owning the technical relationship and assisting customer in building innovative solutions based on NVIDIA technology.
+•	Be an industry thought leader on integrating NVIDIA technology into DLA architectures to support Artificial Intelligence applications.
+•	Be an internal champion for Deep Learning among the NVIDIA technical community
+What we need to see:
+•	2+ years of Deep Learning and machine learning experience with BS in Engineering, Mathematics, Physics, or Computer Science
+•	Experience working with modern Deep Learning techniques, framework and applications
+•	Customer facing skill-set and background
+•	Python, DL framework (e.g Caffe, Tourch, Tensorflow), C, C++ programming experience
+•	Deep Learning expertise
+•	Exposure to GPU technology and CUDA programming
+•	Experience with big data
+•	Experience working with Deep Learning customers
+•	Ability to communicate effectively with customers
+•	Strong teamwork and interpersonal skills
+•	Ability to multitask effectively in a fast paced environment
+•	Action oriented with strong analytical and problem solving skills
+•	Ability to successfully manage multiple accounts during implementation of new technology and products into very complex projects
+# Interview 1 (Managing Director, Sales): 
+1. How do compensate for the experience this role expects you to have?
+2. Tell me about your interactions with customers/clients?
+3. Basic questions about my background and ambitions.
+
+# Interview 2 (Department Head, Deep Learning): 
+1. Difference between Pascal and Volta architecture?
+2. Explain tensor cores, NVlink, Warp Schedulers?
+3. Which framework (tensorflow, torch, caffe, mxnet) to use in which case?
+4. Tell me about different Nvidia products?
+5. How will you convince Bosch to upgrade their GPUs?
+6. What are docker containers, Kubernetes, Cloud orchestration. How to deploy model using these?
+7. What makes you think AI-Saturdays has helped you the most in?
+8. If you’re not selected for this, what will you do?
+
+# Interview 3 (Solution Architect, Deep Learning): 
+1. Tell me about your Bosch’s project, end to end?
+2. Some basic programming in Pytorch and C.
+
+# Interview 4 (Director, AI): 
+1. In depth questioning on GPU – cuda cores, instruction buffers, streaming multiprocessor, matrix multiplication
+2. Difference between CPU and GPU? Why can’t we make a single SoC for them?
+3. Explain backpropagation to a 5 year old?
+4. A case study on a client who wants to maximise his sales by providing assistance to customers visiting his store for buying products – Had to build a roadmap for that customer, beginning from data collection to improving the model.
+5. Explain reinforcement learning. Discuss its use cases?
+
+
+
+
