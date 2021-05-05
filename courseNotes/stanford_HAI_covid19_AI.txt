@@ -1,0 +1,98 @@
+https://hai.stanford.edu/events/covid-19-and-ai-virtual-conference/livestream
+https://hai.stanford.edu/events/covid-19-and-ai-virtual-conference/resources
+
+
+Session III: Tracking the Epidemic
+
+1. jason Wang 
+Taiwan’s Use of Data Analytics to Control COVID-19
+JAMA paper - 124 action items to handle pandemics
+(guidelines for tracking, settng up infra, command centre, 
+checks on flights, 
+linking customs data with travel history to medical data, 
+analysis of medicalstocks, 
+tracking ppl having come into contact with infected ppl using cellular data, etc)
+
+2. Lucy Li (Chan Zuckerberg biohub):
+Tools for Estimating Unreported Infections of COVID-19
+- asymptomatic, less testing, 
+- mutation in the virus as it transmits among individuals
+- identify co-infecting pathogens
+
+3. John Brownstein
+Methods for Real Time Mapping of COVID-19 Cases Worldwide
+- (see screen shots)
+
+4. Epidemiological Forecasting Tools for COVID-19
+Ryan Tibshirani
+-CDC seasonal flu forecasting challenge
+
+5. A Mobile App Intervention to Slow COVID-19 Using Crowdsourced Data
+Tina White
+- contact tracing with GPS data (data privacy & security issues) 
+- bluetooth protocol for identifying contacts using local communication b/w phones (identifying info abt. ppl is not collected)
+
+6. AI for COVID-19: An Online Virtual Care Approach
+Xavier Amatriain
+- personalized diagnostic assesment
+- follow-ups of patients
+
+7. Knowledge Technology to Accelerate Open Science in Addressing the COVID-19 Pandemic
+Mark Musen,
+-FAIR data, issue with metadata
+
+8. What We Can Learn From Twitter Analysis About COVID-19
+Johannes Eichstaedt
+- draw inferences about mental health
+- political, social, economic, information crisis
+
+
+q/A
+identify asymptomatic ppl
+helping asymptomatic ppl through telehealth
+predict cases based on symptoms
+developing solutions for the elderly, who are less tech-savvy (use passive data from wearables instead of active data like reporting through apps)
+
+
+
+Session IV: Treatments & Vaccines
+
+1. Rapid Analysis of SARS-CoV-2 Genomic Content Using the Functional Genomics Platform
+Kristen Beck, bioinformatician, IBM
+- virus mutating twice/month
+
+2. COVID-19 Machine Learning Challenges
+Anthony Goldbloom, Founder and CEO, Kaggle
+i) NLP challenge- create an automatd Lit. review based on the frequently incoming articles
+ii) forecast fatalities by city - variable importance plots
+iii) dataset curating challenge - creating large merged datasets
+
+3. Machine Learning Enabled Systems for Delivering Care to Critically Ill Patients 
+Ron Li
+- identify / predict patients who would require critical care
+- validating/ enabling model workflows
+- these would help to design response
+
+4. AI-Assisted Elderly Care for Acute Infection and Chronic Disease
+Fei-Fei Li
+- high infection rate & fatality rate in elderly
+- AI powered smart sensor technology for collecting data at homes
+- thermal sensor, camera, wearables
+
+5. Identifying COVID-19 Vaccine Candidates with ML
+Binbin Chen,
+- tools to find where pathogen binds
+
+6. Repurposing Existing Drugs to Fight COVID-19
+Stefano Rensi
+- NLP - chemical -> disease -> gene links
+- biophysical model : homology model the target protein + docking (calculate binding energy - box-plot of distribution of binding energy scores)
+- 
+
+Q/A
+few shot learning
+long tailed events
+account for mutations when designing vaccine
+check mutation profiles from samples of patients
+apps to monitor PPE shortage
+any benefits from BCG vaccine? may depend on where it is manufactured. inconclusive evidence as of now
