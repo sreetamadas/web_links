@@ -1,0 +1,10 @@
+Davies-Bouldin Index
+Dunn Index
+Silhouette Coefficient
+RAND index
+Mutual information
+
+
+BLEU score (for NLP)
+
+
