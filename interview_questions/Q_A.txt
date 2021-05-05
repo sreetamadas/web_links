@@ -1,0 +1,146 @@
+1.	Bias & Variance: Can you describe situations wherein there is: (i) high bias or (ii) high variance occur during training? Which one leads to overfitting? How to overcome them? Can you draw the error versus training set size graph for both scenarios? 
+Answer: (i) Bias: Both Training & testing error are high (ii) Variance: Training error will be much lower than test error.
+Bias:             Variance:  
+To fix high variance (overfitting), (i) get more training data, (ii) try smaller set of features. 
+To fix high bias, try larger set of features.
+
+2.	How to deal with imbalanced classes, what the metrics used to measure performance?
+Answer: Do oversampling of the lower class, or data augmentation. Metrics: Precision & Recall.
+
+3.	How does k-means work? What are the approaches to arrive at global minima in k-Means clustering? 
+Answer for k-means: K is the number of clusters we want to find; and the cluster centroids μj represent our current guesses for the positions of the centers of the clusters. We initialize K cluster centroids randomly. The inner-loop of the algorithm repeatedly carries out two steps: (i) Assigning each training example x(i) to the closest cluster centroid μj , and (ii) Moving each cluster centroid μj to the mean of the points assigned to it.
+
+Answer for global minima: (i) Run it for several different centroid initializations, (ii) Adjust number of iterations (iii) Find out the optimal number of clusters using elbow method. 
+
+4.	What is SVM and its loss function? what is the effect of C parameter. Loss function and how to derive it?
+Answer: SVM builds an optimal margin classifier, by finding a decision boundary that maximizes the (geometric) margin, since this would reflect a very confident set of predictions. 
+ Solid line is maximum margin separating hyperplane.
+
+Hinge loss:  
+Optimize the function:  
+The C parameter trades off misclassification of training examples against simplicity of the decision surface. A low C makes the decision surface smooth, while a high C aims at classifying all training examples correctly by giving the model freedom to select more samples as support vectors.
+5.	Logistic regression basics and objective function. 
+
+Answer: For classification hypothesis representation we do hθ(x) = g((θ^T x)) where we define g(z), where z is a real number. Sigmoid or logistic function: g(z) = 1/(1 + e^-z)
+If we combine these equations we can write out the hypothesis as : 
+& cost function as cost(hθ, (x),y) = -ylog( hθ(x) ) - (1-y)log( 1- hθ(x) ) 
+
+Full Link: http://www.holehouse.org/mlclass/06_Logistic_Regression.html 
+
+6.	PCA – how it works? Is it used for linear or non-linear data? 
+Answer: It is used for linear data, and steps:
+(i) Standardize the data. 
+(ii) Obtain the Eigenvectors and Eigenvalues from the covariance matrix or correlation matrix, or perform Singular Vector Decomposition. 
+(iii) Sort eigenvalues in descending order and choose the k eigenvectors that correspond to the k largest eigenvalues where k is the number of dimensions of the new feature subspace (k≤d ). 
+(iv) Construct the projection matrix W from the selected k eigenvectors. 
+(v) Transform the original dataset X via W to obtain a k-dimensional feature subspace Y.
+7.	Neural networks – overfitting problem, regularization. If loss doesn’t decrease in first few epochs, what are the possible reasons? 
+Answer: In case of overfitting, the error on the training set is driven to a very small value, but when new data is presented to the network the error is large.
+Loss not decreasing due to: (i) learning rate is low, (ii) regularization is high, (iii) stuck in local minima.
+
+How to treat categorical data?
+Different distance metrics? When to use cosine similarity vs Euclidean distance?
+  Round 2:
+About 15-20 minutes ask them to speak about their best ml project. And questions related to that.
+Then 1-2 probability questions. Followed by 1-2 programming and coding skills questions. Following questions are just for reference. You are free to ask other questions as well.
+1.	Probability that the patient has liver disease is 0.1. Probability that a patient is alcoholic is 0.05. The probability that a patient is alcoholic, given that they have liver disease, is 0.07. Find Patient’s probability of having liver disease if they are an alcoholic.
+                                               
+        Answer:
+ You might be interested in finding out a patient’s probability of having liver disease if they are an alcoholic. “Being an alcoholic” is the test (kind of like a litmus test) for liver disease.
+•	A could mean the event “Patient has liver disease.” Past data tells you that 10% of patients entering your clinic have liver disease. P(A) = 0.10.
+•	B could mean the litmus test that “Patient is an alcoholic.” Five percent of the clinic’s patients are alcoholics. P(B) = 0.05.
+•	You might also know that among those patients diagnosed with liver disease, 7% are alcoholics. This is your B|A: the probability that a patient is alcoholic, given that they have liver disease, is 7%.
+Bayes’ theorem tells you: 
+P(A|B) = (0.07 * 0.1)/0.05 = 0.14
+In other words, if the patient is an alcoholic, their chances of having liver disease is 0.14 (14%).
+
+2.	
+ 
+Answer:
+Number of ways to pick any 2 socks from 24 socks = 24C2 
+Number of ways to pick 2 BLACK socks from 12 BLACK socks = 12C2 
+
+Probability of picking 2 BLACK socks = 12C2 / 24C2 = 66/276 
+Probability of picking 2 WHITE socks = 12C2 / 24C2 = 66/276 
+
+Probability of picking any 2 same color socks = 66/276 + 66/276 = 11/23
+    3.
+                  
+Answer 
+Probability of taking a white ball from black container = 1/5 
+Then putting in black container and probability of taking a white ball from it = 1 
+Therefore probability for this case is = 1/5 
+Probability of taking a black ball from black container = 4/5 Then putting in black container and probability of taking a white ball from it = 3/4 
+Therefore probability for this case is = 3/5 
+Hence probability of white ball is = 3/5 + 1/5 = 4/5
+3.	Number of ways to distribute the n different things among 3 persons, one receiving p things other two receiving q, r things respectively is n=p+q+r? (Answer: nCp*n-pCq  very simple question)
+4.	The number of calls coming per minute into a hotels reservation center is 3 on an average. Find the probability that no calls come in a given 1 minute period.
+ 
+5.	A die marked 1 to 6 is rolled 50 times. Find the probability of getting a “5” exactly 5 times.
+Answer:
+gg 
+         Formula is not clear so writing again                                                          
+Coding/Programming
+1.	You are given in an Array/List, containing all number from 1 to N. For Example, 1,2,3,4,5. However, one of the numbers is repeated twice. That is, in the form 2,1,4,3,2,5. Find the duplicate number. And write a code in language of preference. (Difficulty Easy)
+
+ 
+2.	If first question is too simple this question should be extension to it (Difficulty HARD) (http://www.geeksforgeeks.org/find-duplicates-in-on-time-and-constant-extra-space/).
+3.	Merge two sorted arrays and code it. (Difficulty Easy)
+(http://www.geeksforgeeks.org/merge-two-sorted-arrays/ )
+Input :  arr1[] = { 1, 3, 4, 5}  
+         arr2[] = {2, 4, 6, 8}
+Output : arr3[] = {1, 2, 3, 4, 5, 6, 7, 8}
+Method 1 (O(n1 * n2) Time and O(1) Extra Space) 
+(i)	Create an array arr3[] of size n1 + n2. 
+(ii)	Copy all n1 elements of arr1[] to arr3[] 
+(iii)	Traverse arr2[] and one by one insert elements (like insertion sort) of arr3[] to arr1[]. This step take O(n1 * n2) time.
+
+Method 2 (O(n1 + n2) Time and O(n1 + n2) Extra Space)
+The idea is to use Merge function of Merge sort. 
+(i)	Create an array arr3[] of size n1 + n2. 
+(ii)	Simultaneously traverse arr1[] and arr2[]. 
+Pick smaller of current elements in arr1[] and arr2[], copy this smaller element to next position in arr3[] and move ahead in arr3[] and the array whose element is picked.
+(iii)	If there are are remaining elements in arr1[] or arr2[], copy them also in arr3[].
+
+4.	Print all permutations of a given string (all characters are unique). Code it. (Difficulty hard)
+(http://www.geeksforgeeks.org/write-a-c-program-to-print-all-permutations-of-a-given-string/ )
+5.	Reverse a list/array? (Difficulty: Easy)
+(http://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/ )
+(i) Initialize start and end indexes. 
+start = 0, end = n-1
+(ii) In a loop, swap arr[start] with arr[end] and change start and end as follows.
+start = start +1; end = end – 1
+(iii) swap the 2nd and (n-1)th elements and so on. 
+
+6.	Rearrange positive and negative numbers in O(n) time and O(1) extra space (Difficulty: Easy)
+(http://www.geeksforgeeks.org/rearrange-positive-and-negative-numbers-publish/ )
+
+Round 3: USE CASE Solving / Approach. Please add more to the list.
+1.	Smart city: Bus expected time of arrival
+2.	Recommendation system: YouTube, Netflix??
+3.	Text related: closest document search, sentiment analysis, question answering system etc.
+4.	Predictive maintenance approach for industrial machinery
+5.	 Image related: Given a dataset of medical images which may have small-sized tumors, with healthy>> diseased cases, do diagnosis. Can solve either by classification or segmentation. What features and data augmentations to use?  
+
+
+
+
+F2F
+Please find the Feedback Below:
+1.	Technical: 3.3/5. Observations: Not Sure about the Work mentioned in CV. Algorithms could explain to some Extent.
+2.	Practical Exp: 3/5. Explanation: OK, Coding Exposure: Doubt
+3.	Communication: 3.8/5
+4.	Attitude: 4/5
+
+Problem Solving: Two Scenarios given:
+1.	Event Detection from Signals: Approach and Concept- Not SatisFactory
+2.	NLP: Approach and Concept: 3.5/5
+
+
+
+feedback for the telephonic interview of Mr. Aditya Prakash:
+1.	Machine Learning Concepts: 4.5/5
+2.	Communication: 4.5/5
+3.	Understanding the work: 4.5/5
+4.	Algorithms: 4/5
+
