@@ -1,0 +1,990 @@
+https://www.analyticsvidhya.com/blog/2017/01/the-most-comprehensive-data-science-learning-plan-for-2017/ 
+https://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/learning-path-r-data-science/
+machine learning mind map
+https://www.quora.com/How-does-a-total-beginner-start-to-learn-machine-learning/answer/Rohit-Malshe
+https://www.quora.com/Machine-Learning/What-are-some-Machine-Learning-algorithms-that-you-should-always-have-a-strong-understanding-of-and-why
+
+
+blogs on machine learning use cases
+https://www.quora.com/How-do-I-prepare-for-analytics-data-science-case-study-interview 
+
+
+https://github.com/terryum/awesome-deep-learning-papers/blob/master/README.md?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B5nbQ5SOKTYyPMEfADH0Y1g%3D%3D 
+https://machinelearningmastery.com/regression-tutorial-keras-deep-learning-library-python/ 
+https://syncedreview.com/2017/10/22/tree-boosting-with-xgboost-why-does-xgboost-win-every-machine-learning-competition/
+http://neuralnetworksanddeeplearning.com/chap4.html 
+LSTM deep learning time series
+################################################################
+Data handling:
+data discretization approaches: relative frequency kNN 
+‘discretise’ package in R (for continuous to categorical variable conversion)
+Data discretization packages in dplyr
+
+standardizing data (different kinds of normalization) https://stackoverflow.com/questions/15215457/standardize-data-columns-in-r 
+
+https://www.datasciencecentral.com/profiles/blogs/how-to-clean-your-data-quickly-in-5-steps?utm_content=buffer97651&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer 
+https://www.kdnuggets.com/2017/12/general-approach-preprocessing-text-data.html 
+
+###########################################################
+links on machine learning:
+
+google: machine learning algorithms
+machine learning mind map
+Analytics vidya: essentials of machine learning algos
+how to understand what machine learning algorithm to use
+https://docs.microsoft.com/en.../machine-learning/machine-learning-algorithm-choice
+https://medium.com/towards-data-science/collecting-data-science-cheat-sheets-d2cdff092855 
+https://www.youtube.com/watch?v=iFkRt3BCctg&feature=youtu.be  (advanced machine learning with scikit-learn)
+http://scikit-learn.org/stable/user_guide.html
+http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/
+
+
+https://www.youtube.com/results?search_query=stanford+machine+learning
+http://www.holehouse.org/mlclass/
+http://cs229.stanford.edu/materials.html   # ML: Andrew NG course
+https://www.youtube.com/playlist?list=PL82A0F00F6B3DEDBC    (mathematicalmonk)
+https://www.slideshare.net/ColleenFarrelly/machine-learning-by-analogy-59094152?trk=v-feed&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BYclmzwKaQL2pn4Iul%2BRR5g%3D%3D 
+
+evaluating machine learning algorithms
+http://machinelearningmastery.com/why-you-should-be-spot-checking-algorithms-on-your-machine-learning-problems/
+how to calculate baseline
+how to calculate baseline in data in R
+https://flowingdata.com/2013/11/26/the-baseline/
+http://machinelearningmastery.com/how-to-get-baseline-results-and-why-they-matter/ 
+https://machinelearningmastery.com/tune-machine-learning-algorithms-in-r/
+https://www.analyticsvidhya.com/blog/2016/02/7-important-model-evaluation-error-metrics/ 
+cross validation in python
+types of errors: MAE, MSE, MAPE
+
+
+machinelearning mastery class imbalance
+https://machinelearningmastery.com/tactics-to-combat-imbalanced-classes-in-your-machine-learning-dataset/ 
+https://machinelearningmastery.com/classification-accuracy-is-not-enough-more-performance-measures-you-can-use/
+http://scikit-learn.org/stable/auto_examples/plot_missing_values.html#sphx-glr-auto-examples-plot-missing-values-py
+
+association rule mining
+http://r-statistics.co/Association-Mining-With-R.html
+http://www.rdatamining.com/examples/association-rules
+http://blog.hackerearth.com/beginners-tutorial-apriori-algorithm-data-mining-r-implementation
+http://michael.hahsler.net/research/arules_RUG_2015/demo/
+https://www.kdnuggets.com/2016/04/association-rules-apriori-algorithm-tutorial.html
+http://www.salemmarafi.com/code/market-basket-analysis-with-r/
+https://datascienceplus.com/implementing-apriori-algorithm-in-r/
+arules in R   (apriori algorithm for association rule mining)
+eclat vs apriori
+
+
+SVM: http://www.gatsby.ucl.ac.uk/~gretton/coursefiles/Slides5A.pdf
+http://cs.adelaide.edu.au/~chhshen/teaching/ML_SVR.pdf
+http://www.svms.org/regression/SmSc98.pdf
+Support Vector Machines - CS 229
+(understand parameters – cost function, gamma, what is Kernel in SVM)
+https://www.quora.com/What-are-C-and-gamma-with-regards-to-a-support-vector-machine
+https://www.quora.com/What-is-the-intuition-behind-the-Cost-and-Gamma-parameters-in-SVM 
+https://www.quora.com/What-are-kernels-in-machine-learning-and-SVM-and-why-do-we-need-them
+http://www.simafore.com/blog/bid/113227/How-support-vector-machines-use-kernel-functions-to-classify-data 
+
+neural network for regression
+
+http://www.di.fc.ul.pt/~jpn/r/tree/tree.html
+Classification and regression trees
+https://www.nature.com/nmeth/journal/v14/n8/full/nmeth.4370.html (points of significance: classification & regression trees)
+
+k nearest neighbours
+Distance correlation, Generalized correlation
+matrix factorisation , non-negative matrix factorization
+
+Switching auto-regressive HMM
+auto-encoder , control chart
+logistic regression, neural network, Bayesian
+
+LDA vs LSA
+linear sum assignment in R
+https://docs.scipy.org/doc/scipy-0.18.1/reference/generated/scipy.optimize.linear_sum_assignment.html
+
+data filtering: Kalman filter
+http://www.i-programmer.info/programming/hardware/10350-iot-anomaly-detection-using-a-kalman-filter.html
+kalman filter in R
+kalman filter anomaly detection
+google: how to apply high pass filter in R
+http://stackoverflow.com/questions/7105962/how-do-i-run-a-high-pass-or-low-pass-filter-on-data-points-in-r
+https://business-science.github.io/anomalize/
+http://www.business-science.io/code-tools/2018/04/08/introducing-anomalize.html
+google: anomaly detection R
+
+http://scikit-learn.org/stable/modules/outlier_detection.html
+developing and evaluating an anomaly detection system
+Andrew NG coursera video anomaly detection   https://www.youtube.com/watch?v=h5iVXB9mczo
+
+how to calculate signal-to-noise ratio in R
+https://arxiv.org/pdf/1109.0442.pdf
+filtering a signal
+how to estimate the noise in a signal
+http://www.gao.ece.ufl.edu/my_paper/jinghu_04.pdf  (estimating measurement noise in a time series by exploiting nonstationarity)
+how to calculate noise in a sensor signal
+noise power spectral density.
+
+Granger causality
+signal correlation
+nyquist frequency
+http://www.fon.hum.uva.nl/praat/manual/Nyquist_frequency.html
+
+Data transformations   https://onlinecourses.science.psu.edu/stat501/node/318 
+Wavelet transform, wavelet transform in R
+spectral analysis in R
+discrete fourier transform in R, dft in R
+fft in R
+tsa in R
+interpretation of frequency values in a periodogram in R
+http://www.di.fc.ul.pt/~jpn/r/fourier/fourier.html
+http://www.di.fc.ul.pt/~jpn/r/fourier/fourier.html
+discrete fourier transform in R
+stft  (see images) (short-time Fourier transform (STFT), or alternatively short-term Fourier transform, is a Fourier-related transform used to determine the sinusoidal frequency and phase content of local sections of a signal as it changes over time)
+
+
+correlation vs mutual information
+how to calculate mutual information between two variables in R
+
+
+
+Regularization & overfitting
+https://www.quora.com/What-is-the-difference-between-L1-and-L2-regularization-How-does-it-solve-the-problem-of-overfitting-Which-regularizer-to-use-and-when 
+https://stats.stackexchange.com/questions/168622/why-is-multicollinearity-not-checked-in-modern-statistics-machine-learning/168631 
+https://www.analyticsvidhya.com/blog/2017/06/a-comprehensive-guide-for-linear-ridge-and-lasso-regression/
+https://www.analyticsvidhya.com/blog/2015/02/avoid-over-fitting-regularization/ 
+
+
+## how to find knee of a curve
+https://stackoverflow.com/questions/41518870/finding-the-elbow-knee-in-a-curve 
+https://communities.sas.com/t5/General-SAS-Programming/Looking-for-a-way-to-programmatically-identify-quot-the-knee-of/td-p/120744 
+how to find point of inflection
+find elbow of curve python  , how to find knee of a curve
+http://mathworld.wolfram.com/FirstDerivativeTest.html 
+
+#####################################################################
+Theory:
+Stat: stat course pennstate  (https://onlinecourses.science.psu.edu/stat500/)
+Chi-square test, goodness of fit, ANOVA
+
+Regression Analysis & heteroscedasticity
+minitab linear regression
+how to check efficiency of a regression algorithm
+http://blog.minitab.com/blog/adventures-in-statistics-2/regression-analysis-tutorial-and-examples
+
+http://blog.minitab.com/blog/adventures-in-statistics-2/a-tribute-to-regression-analysis
+http://blog.minitab.com/blog/adventures-in-statistics-2/what-are-the-effects-of-multicollinearity-and-when-can-i-ignore-them
+http://blog.minitab.com/blog/adventures-in-statistics-2/multiple-regession-analysis-use-adjusted-r-squared-and-predicted-r-squared-to-include-the-correct-number-of-variables
+http://blog.minitab.com/blog/adventures-in-statistics-2/how-to-identify-the-most-important-predictor-variables-in-regression-models
+http://blog.minitab.com/blog/adventures-in-statistics-2/how-to-choose-the-best-regression-model
+http://blog.minitab.com/blog/adventures-in-statistics-2/four-tips-on-how-to-perform-a-regression-analysis-that-avoids-common-problems
+http://blog.minitab.com/blog/adventures-in-statistics-2/applied-regression-analysis-how-to-present-and-use-the-results-to-avoid-costly-mistakes-part-1
+http://blog.minitab.com/blog/adventures-in-statistics-2/applied-regression-analysis-how-to-present-and-use-the-results-to-avoid-costly-mistakes-part-2
+
+http://blog.minitab.com/blog/adventures-in-statistics-2/regression-analysis-how-do-i-interpret-r-squared-and-assess-the-goodness-of-fit
+http://blog.minitab.com/blog/adventures-in-statistics-2/when-should-i-use-confidence-intervals-prediction-intervals-and-tolerance-intervals
+http://blog.minitab.com/blog/adventures-in-statistics-2/what-is-the-f-test-of-overall-significance-in-regression-analysis
+
+regression with categorical variables in r
+https://onlinecourses.science.psu.edu/stat501/node/301  (categorical predictors)
+one hot encoding
+https://machinelearningmastery.com/why-one-hot-encode-data-in-machine-learning/ 
+https://machinelearningmastery.com/how-to-one-hot-encode-sequence-data-in-python/
+
+
+
+how to predict y for a new x value in regression in R
+https://stackoverflow.com/questions/30441433/predict-y-value-for-a-given-x-in-r 
+
+diagnostics:
+https://stats.stackexchange.com/questions/5135/interpretation-of-rs-lm-output 
+what is t in the summary of linear model in R
+http://www.statmethods.net/stats/regression.html
+http://www.statmethods.net/stats/rdiagnostics.html 
+estimate error in linear regression / regression
+mallow’s cp   ;   mse in R;     rsquare is negative
+how to calculate predcted r squared
+mse mae and other error measure
+is mse affected by outlier
+how to interpret VIF  ;   how to calculate VIF in R
+
+# return coefficients:
+https://stackoverflow.com/questions/20907583/how-to-return-predicted-values-residuals-r-square-from-lm-fit-in-r 
+how to calculate predicted R2 in R
+how to get predicted r squared in R 
+how to calculate predicted r squared
+https://stats.stackexchange.com/questions/146799/is-predicted-r-squared-a-valid-method-for-rejecting-additional-explanatory-varia 
+# show prediction & confidence intervals
+https://rstudio-pubs-static.s3.amazonaws.com/71339_d0b8346f41314979bc394448c5d60d86.html 
+https://stackoverflow.com/questions/15211384/any-simple-way-to-get-regression-prediction-intervals-in-r 
+
+linear regression analytics vidhya multi collinearity
+https://www.analyticsvidhya.com/blog/2016/07/deeper-regression-analysis-assumptions-plots-solutions/ 
+
+how to show regression equation plot in R
+http://stackoverflow.com/questions/37109341/how-to-write-equation-of-line-with-r2-value-on-two-plots
+http://stackoverflow.com/questions/24173468/r-print-equation-of-linear-regression-on-the-plot-itself 
+linear regression, (robust linear regression, generalized linear regression)
+how to solve regression equation in R
+https://stats.stackexchange.com/questions/63600/how-to-translate-the-results-from-lm-to-an-equation
+https://stats.stackexchange.com/questions/5135/interpretation-of-rs-lm-output 
+https://www.r-bloggers.com/r-python-and-sas-getting-started-with-linear-regression/
+	
+types of regression in R
+robust regression
+non linear regression in r
+support vector regression
+support vector regression in R
+support vector regression pdf
+tree based regression
+http://dni-institute.in/blogs/svm-for-regression-using-r/
+http://www.kdnuggets.com/2017/03/building-regression-models-support-vector-regression.html
+https://www.quora.com/What-are-C-and-gamma-with-regards-to-a-support-vector-machine
+
+general linear regression in r
+linear regression with multiple x in R
+linear regression with quadratic terms in R
+ridge regression   https://en.wikipedia.org/wiki/Tikhonov_regularization
+lasso and ridge regression in R
+how to select features using lasso
+https://en.wikipedia.org/wiki/Quantile_regression 
+robust regression techniques
+regression with machine learning
+maximum posteriori estimation linear regression
+https://www.cs.utah.edu/~piyush/teaching/20-9-print.pdf
+http://www.cs.cmu.edu/~aarti/Class/10701_Spring14/slides/linear_regression.pdf 
+
+heteroscedasticity & qq plot,  normal probability plot in R
+how to correct heteroscedasticity
+heteroscedasticity and linear regression
+https://stats.stackexchange.com/questions/63930/heteroskedasticity-and-residuals-normality
+http://blog.minitab.com/blog/statistics-and-quality-data-analysis/dont-be-a-victim-of-statistical-hippopotomonstrosesquipedaliophobia 
+https://stats.stackexchange.com/questions/101274/how-to-interpret-a-qq-plot
+https://www.r-bloggers.com/how-to-detect-heteroscedasticity-and-rectify-it/
+
+box cox transform
+https://stats.stackexchange.com/questions/35711/box-cox-like-transformation-for-independent-variables/35717#35717
+
+Outliers
+handling outliers in prediction
+https://stats.stackexchange.com/questions/175/how-should-outliers-be-dealt-with-in-linear-regression-analysis
+https://stats.stackexchange.com/questions/221052/how-can-i-identify-and-remove-outliers-in-r/221060 
+http://rstudio-pubs-static.s3.amazonaws.com/199706_a7a86264b9b04e1387fd99e91139a619.html 
+how to remove outliers before regression line plot
+how to take care of outliers when using linear regression
+modeling method robust to outlier
+
+how to check goodness of fit of model
+goodness of fit test in r
+https://www.researchgate.net/post/How_to_assess_goodness_of_fit_for_a_non-linear_model
+http://www.theanalysisfactor.com/assessing-the-fit-of-regression-models/ 
+https://www.quora.com/What-are-methods-to-make-a-predictive-model-more-robust-to-outliers 
+
+residual calculated using original or transformed variable
+residual formula
+residual calculated using original or transformed variable
+https://www.r-bloggers.com/how-to-detect-heteroscedasticity-and-rectify-it/
+http://condor.depaul.edu/sjost/it223/documents/regress.htm 
+https://www.r-bloggers.com/basic-assumptions-to-be-taken-care-of-when-building-a-predictive-model/
+https://www.r-bloggers.com/basic-assumptions-to-be-taken-care-of-when-building-a-predictive-model-2/
+https://www.r-bloggers.com/model-validation-interpreting-residual-plots/ 
+https://stats.stackexchange.com/questions/51982/analysing-transformed-data 
+https://stats.stackexchange.com/questions/34920/what-kinds-of-variables-should-we-use-the-normality-test-for 
+https://stats.stackexchange.com/questions/12262/what-if-residuals-are-normally-distributed-but-y-is-not 
+https://stats.stackexchange.com/questions/131166/which-residuals-to-analyse-when-dependent-variable-is-transformed
+
+bias and variance calculation
+http://scott.fortmann-roe.com/docs/BiasVariance.html
+
+#############################################################
+GOOGLE: exploratory analysis
+how to find influential variables exploratory analysis
+how to find significant variables exploratory analysis
+https://discuss.analyticsvidhya.com/t/robust-way-to-find-significant-variables-to-build-a-model-in-r/5456/3 
+https://www.r-bloggers.com/variable-importance-plot-and-variable-selection/ 
+https://www.r-bloggers.com/trees-with-the-rpart-package/ 
+https://stats.stackexchange.com/questions/6478/how-to-measure-rank-variable-importance-when-using-cart-specifically-using 
+feature selection in regression
+http://machinelearningmastery.com/an-introduction-to-feature-selection/ 
+https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/ 
+http://machinelearningmastery.com/feature-selection-with-the-caret-r-package/
+https://stats.stackexchange.com/questions/87130/linear-regression-for-feature-selection 
+https://stats.stackexchange.com/questions/149446/do-we-still-need-to-do-feature-selection-while-using-regularization-algorithms 
+https://www.analyticsvidhya.com/blog/2016/12/introduction-to-feature-selection-methods-with-an-example-or-how-to-select-the-right-variables/ 
+https://stackoverflow.com/questions/45935917/feature-selection-and-prediction-accuracy-in-regression-forest-in-r/45937397?noredirect=1#comment78921726_45937397 
+
+random forest in R
+random forest and regression
+regression forest in R
+http://dni-institute.in/blogs/random-forest-using-r-step-by-step-tutorial/ 
+http://blog.yhat.com/posts/comparing-random-forests-in-python-and-r.html 
+how to identify significant variables using random forest in R
+https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/ 
+https://stats.stackexchange.com/questions/153663/how-to-get-the-most-important-variables-in-random-forests-in-r 
+http://alandgraf.blogspot.in/2012/07/random-forest-variable-importance.html 
+increase node purity random forest importance R
+https://stats.stackexchange.com/questions/162465/in-a-random-forest-is-larger-incmse-better-or-worse
+regression forest and feature selection
+https://stats.stackexchange.com/questions/164048/can-a-random-forest-be-used-for-feature-selection-in-multiple-linear-regression 
+https://stats.stackexchange.com/questions/68692/feature-selection-with-random-forests 
+https://stats.stackexchange.com/questions/233875/feature-selection-for-random-forest-using-rfcv-in-r-package?rq=1 
+how to check multicollinearity in regression forest
+http://dni-institute.in/blogs/multiple-regression-assumption-multi-collinearity-and-auto-correlation/ 
+regression tree in R  ; regression forest in R
+how to run k fold cross validation in random forest in R
+andrew ng random forest
+
+regression forest validation
+regression forest prediction in R
+
+how to run decision tree in R
+http://www.rdatamining.com/examples/decision-tree 
+http://www.learnbymarketing.com/481/decision-tree-flavors-gini-info-gain/ 
+dni-institute.in/blogs/decision-tree-using-rpart-in-r/
+how to find X variables that influence Y 
+ 
+analytics vidhya decision tree gini
+https://www.rdocumentation.org/packages/DescTools/versions/0.99.19/topics/Gini 
+gini impurity in R (gini score, index, coefficient, impurity – what is the difference?)
+Information gain in decision trees
+Classification & regression trees
+http://www.di.fc.ul.pt/~jpn/r/tree/tree.html 
+Kullback–Leibler divergence & mutual information
+http://www.msandri.it/docs/Sandri_Zuccolotto_2.pdf
+
+machine learning algorithms for regression
+how to calculate oob error in R
+how to calculate oob error in random forest regression R
+https://stats.stackexchange.com/questions/68740/computing-out-of-bag-error-in-random-forest?rq=1
+https://stats.stackexchange.com/questions/77290/does-party-package-in-r-provide-out-of-bag-estimates-of-error-for-random-forest?rq=1 
+https://stats.stackexchange.com/questions/2350/why-does-the-random-forest-oob-estimate-of-error-improve-when-the-number-of-feat?rq=1 
+https://stats.stackexchange.com/questions/210651/out-of-bag-prediction-error-estimate-from-random-forest-regression-i-e-not-cl 
+
+how to find data partition of important variable from random forest
+how to find data partition from random forest
+plot a single tree from a random forest
+https://stats.stackexchange.com/questions/2344/best-way-to-present-a-random-forest-in-a-publication?rq=1 
+https://stats.stackexchange.com/questions/21152/obtaining-knowledge-from-a-random-forest
+https://stats.stackexchange.com/questions/41443/how-to-actually-plot-a-sample-tree-from-randomforestgettree 
+random forest keep.inbag
+
+how to determine number of trees to use in random forest
+http://rstudio-pubs-static.s3.amazonaws.com/270685_36e5948a90904326824652b0df0decea.html 
+https://stats.stackexchange.com/questions/36165/does-the-optimal-number-of-trees-in-a-random-forest-depend-on-the-number-of-pred 
+
+how to create training and test data in R
+https://stackoverflow.com/questions/36068963/r-how-to-split-a-data-frame-into-training-validation-and-test-sets
+https://stackoverflow.com/questions/17200114/how-to-split-data-into-training-testing-sets-using-sample-function-in-r-program 
+how to run k fold cross validation in random forest in R
+https://www.r-bloggers.com/k-fold-cross-validation-random-forest-vs-gbm/ 
+
+what is mtry in randomforest
+mtry option in random forest
+https://machinelearningmastery.com/tune-machine-learning-algorithms-in-r/
+
+exploratory data analysis in R
+clustering in r studio
+package for clustering in R
+variables used in k means clustering
+Analyticsvidhya: perform clustering analysis
+Dunn's index
+
+Clustering through gradient descent
+Markov clustering
+Euclidean distance vs cosine similarity
+Use of entropy calculation to decide which clustering method or distance criteria (Euclidean vs cosine similarity) performs better
+Dimensionality reduction through auto-encoder
+
+principal component analysis R
+https://www.r-bloggers.com/principal-component-analysis-in-r/ 
+https://www.r-bloggers.com/computing-and-visualizing-pca-in-r/
+https://tgmstat.wordpress.com/2013/11/21/introduction-to-principal-component-analysis-pca/ 
+https://tgmstat.wordpress.com/2013/11/07/unsupervised-data-pre-processing-for-predictive-modeling/
+how to handle columns with zero values in PCA
+https://stats.stackexchange.com/questions/16331/doing-principal-component-analysis-or-factor-analysis-on-binary-data
+https://stats.stackexchange.com/questions/190852/what-is-effect-on-pca-of-having-too-many-zeros-in-the-data 
+normalizing data in r
+
+https://www.stat.berkeley.edu/classes/s133/factors.html    (factors in R)
+
+###############################################################################
+ Time series data can be used for forecasting only if they have predictive power - see correlation & auto-correlation.
+1.  forecasting by R.J. hyndman (book)
+2.  machine learning on time series data  (http://www.ulb.ac.be/di/map/gbonte/ftp/time_ser.pdf   http://machinelearningmastery.com/time-series-forecasting-supervised-learning/ )
+3.  j p box & time series (book)
+4.  brockwell davis & time series (book)
+5.  holt winters forecasting
+6.  time series stl decomposition
+7.  ewma (exponentially weighted moving average)
+8.  Statistical Process control  ;  statistical quality control
+9. sax pattern mining  http://www.cs.ucr.edu/~eamonn/SAX.htm
+10.  http://dl.acm.org/citation.cfm?id=2768536  "bugs in the freezer"
+journal websites: ieee,  acma
+
+https://www.otexts.org/fpp/1/7    (time series)
+https://onlinecourses.science.psu.edu/stat510/node/64 
+http://robjhyndman.com/hyndsight/ 
+Error in stl :    series is not periodic or has less than two periods
+http://stackoverflow.com/questions/12623027/how-to-analyse-irregular-time-series-in-r
+http://machinelearningmastery.com/time-series-forecasting-supervised-learning/
+https://www.quora.com/Data-Science-Can-machine-learning-be-used-for-time-series-analysis
+https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/
+https://stats.stackexchange.com/questions/108319/how-to-compare-difference-between-two-time-series/108323
+http://www.danmirman.org/gca
+http://blog.supplyframe.com/2014/03/05/how-to-identify-patterns-in-time-series-data-part-i-discrete-fourier-transform/ 
+https://cs.stackexchange.com/questions/57830/machine-learning-identify-patterns-in-time-series-data 
+time series similarity measures
+time series similarity matrix
+how to find similarity in time series data using SAX
+how to find similarity in time series data
+ho wto find patterns in time series data
+https://www.kaggle.com/ludobenistant/time-series-analysis/notebook
+
+https://stackoverflow.com/questions/11752727/pattern-recognition-in-time-series
+pattern recognition in time series (https://pdfs.semanticscholar.org/2f5a/4b8b158117928e9eee7ac6ce7da291ec9bd2.pdf )
+switching autoregressive HMM
+
+how to build average profile from several time series
+how to check similarity in sub sections of a time series
+find similar subsections within time series
+Finding recurrent patterns in time series using SAX  (https://jmotif.github.io/sax-vsm_site/morea/patterns/motifs.html 
+(https://jmotif.github.io/sax-vsm_site/    https://github.com/jMotif/jmotif-R    https://github.com/jmotif/sax-vsm_classic )
+
+find motifs in time series data
+new methods for mining sequential and time series data
+find pattern in bounded time series
+how to use ARIMA in r
+stat arima pennstate  https://onlinecourses.science.psu.edu/stat510/ 
+
+how to deal with outliers in time series data ?
+
+detect periodicity of time series – use periodogram
+time series autocorrelation and partial autocorrelation
+https://stats.stackexchange.com/questions/77248/what-is-autocorrelation-function
+https://stats.stackexchange.com/questions/18284/what-to-read-from-the-autocorrelation-function-of-a-time-series 
+http://machinelearningmastery.com/gentle-introduction-autocorrelation-partial-autocorrelation/ 
+auto correlation time series
+http://www.itl.nist.gov/div898/handbook/eda/section3/autocopl.htm
+http://www.itl.nist.gov/div898/handbook/pmc/section4/pmc4.htm
+http://www.itl.nist.gov/div898/handbook/pmc/section4/pmc446.htm
+
+algorithms for forecasting
+arima forecasting in r
+moving average for rolling standard deviation
+time series discretization
+shape invariance, search shape invariance
+time series forecasting tutorial  , time series forecasting 
+https://www.datascience.com/blog/introduction-to-forecasting-with-arima-in-r-learn-data-science-tutorials 
+https://www.bistasolutions.com/resources/blogs/5-statistical-methods-for-forecasting-quantitative-time-series/
+
+
+rwf R time series
+SES R time series
+
+time series plots
+plot using tseries
+moving average
+arima
+time series analysis
+how to separate data by date in R
+how to analyse time series data on  power consumption
+
+date time plots
+how to plot data from csv file in r with date and time on x-axis and value on y axis
+standard date & time formats in R
+how to run a for loop over different ranges of indices in R
+http://stackoverflow.com/questions/41950206/splitting-data-in-r-by-date-to-generate-plots-for-each-day/41950810#41950810
+calculate time interval from a single timestamp column in R and bind it to the data frame
+https://cran.r-project.org/web/packages/lubridate/vignettes/lubridate.html
+https://cran.r-project.org/web/packages/sqldf/sqldf.pdf
+http://stackoverflow.com/questions/42550781/calculate-time-duration-between-events
+
+###################################################################
+Statistical significance & hypothesis testing
+https://stats.stackexchange.com/questions/73646/how-do-i-test-that-two-continuous-variables-are-independent 
+hypothesis testing of independent between two variables
+non parametric location test in R
+http://sphweb.bumc.bu.edu/otlt/mph-modules/bs/bs704_nonparametric/bs704_nonparametric_print.html
+non-parametric test for comparing shape of distribution
+www.mit.edu/~6.s085/notes/lecture5.pdf 
+http://www.mas.ncl.ac.uk/~njnsm/medfac/docs/skewness.pdf
+(Mann Whitney wilcoxin rank sum test, krushkal-wallis test)
+rank sum test
+Kruskal Wallis
+how to perform mann whitney test in R
+kruskal wallis with ties in R
+non-parametric test for distributions with different variance
+https://www.ncbi.nlm.nih.gov/pubmed/20056388
+Brunner and Munzel's test
+
+test of significance
+hypothesis testing
+t-statistic
+perform two tailed t test in R
+https://www.youtube.com/watch?v=yD6aU0fY2lo  (paired t-test in R)
+paired t-test
+https://heuristically.wordpress.com/2011/09/28/paired-sample-t-test-in-r/
+paired vs unpaired t test
+non-parametric test of significance
+hypothesis testing on means of two populations
+https://onlinecourses.science.psu.edu/stat500/node/51
+http://statistics.berkeley.edu/computing/r-t-tests
+perform paired t test in R
+https://www.r-bloggers.com/one-sample-z-test/
+https://www.healthknowledge.org.uk/public-health-textbook/research-methods/1b-statistical-methods/parametric-nonparametric-tests
+http://sphweb.bumc.bu.edu/otlt/mph-modules/bs/bs704_nonparametric/bs704_nonparametric_print.html
+hypothesis testing school of public health boston university
+http://sphweb.bumc.bu.edu/otlt/mph-modules/ep/ep713_randomerror/EP713_RandomError5.html
+how to test if distribution is normal Shapiro
+http://www.psychwiki.com/wiki/How_do_I_determine_whether_my_data_are_normal%3F
+https://heuristically.wordpress.com/2011/09/28/paired-sample-t-test-in-r/
+Kolmogorov-Smirnov test in R
+
+A nonparametric two-sample comparison for skewed data with unequal variances (PMID: 20056388)
+On comparing two skewed distributions with unequal variances. (PMID: 21050715)
+
+http://blog.minitab.com/blog/adventures-in-statistics-2/understanding-hypothesis-tests:-why-we-need-to-use-hypothesis-tests-in-statistics
+http://blog.minitab.com/blog/adventures-in-statistics-2/understanding-hypothesis-tests:-significance-levels-alpha-and-p-values-in-statistics 
+http://blog.minitab.com/blog/adventures-in-statistics-2/understanding-hypothesis-tests:-confidence-intervals-and-confidence-levels
+
+#############################################################
+GOOGLE: linear programming & optimisation
+linear programming in r
+https://www.youtube.com/watch?v=4U3B5lr-MqM&index=1&list=PLE1A690CCA8279F89
+https://www.youtube.com/watch?v=qxls3cYg8to 
+optimization techniques
+
+characteristic function formulation optimization stack overflow
+indicator function formulation optimization stack overflow
+indicator function linear programming stack overflow
+https://math.stackexchange.com/questions/2220355/involving-indicator-function-as-a-constraint-in-a-lp-problem 
+steepest descent, conjugate gradient
+genetic algo
+https://www.analyticsvidhya.com/blog/2017/07/introduction-to-genetic-algorithm/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29
+
+linear optimization
+job scheduling optimization
+job scheduling optimisation shared resource
+genetic algorithm vs linear programming
+job schedule from linear optimization   (how to output schedule from job scheduling optimisation)
+dual programming
+http://web.mit.edu/15.053/www/AMP-Chapter-04.pdf 
+
+pulp python wiki
+https://www.youtube.com/watch?v=QxZM8qARos4
+http://cs229.stanford.edu/syllabus.html      http://cs229.stanford.edu/notes/cs229-notes3.pdf
+genetic algorithm mutation
+https://www.tutorialspoint.com/genetic_algorithms/genetic_algorithms_crossover.htm 
+https://www.tutorialspoint.com/genetic_algorithms/genetic_algorithms_mutation.htm
+genetic algorithm python
+application of genetic algorithm
+
+differential evolution for automatic clustering
+
+#####################################################################
+Data visualization:
+Choosing the right data visualization
+Trellis plot, bump chart, fish-bone diagram
+data visualization in R
+how to visualize line plots for multiple factors in a clear way
+draw sankey diagram in python
+https://medium.com/@EvanSinar/7-data-visualization-types-you-should-be-using-more-and-how-to-start-4015b5d4adf2
+http://www.datapine.com/blog/how-to-choose-the-right-data-visualization-types/
+http://www.r-graph-gallery.com/48-grouped-barplot-with-ggplot2/
+https://python-graph-gallery.com/
+https://www.informationisbeautifulawards.com/showcase/2244-data-sketches-in-twelve-installments 
+https://www.informationisbeautifulawards.com/news/238-stories-of-the-shortlist 
+http://www.datasketch.es/ 
+
+https://districtdatalabs.silvrback.com/time-maps-visualizing-discrete-events-across-many-timescales 
+https://www.youtube.com/watch?v=aKCXj1DyEhM   (data visualization in powerpoint with python)
+https://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/tableau-learning-path/ 
+https://www.analyticsvidhya.com/blog/2017/05/beginners-guide-to-data-exploration-using-elastic-search-and-kibana/ 
+
+http://shiny.chemgrid.org/boxplotr/ (NATURE BLOG LINK)
+http://exploringdatablog.blogspot.in/2011/03/boxplots-beyond-iv-beanplots.html (BEANPLOT)
+beeswarm plot
+
+######################################################################
+scatter plots:
+scatter plot of 2 variables in R
+www.statmethods.net/graphs/scatterplot.html
+https://www.r-bloggers.com/what-a-nice-looking-scatterplot/
+https://sites.google.com/site/manabusakamoto/home/r-tutorials/r-tutorial-3
+how to draw a line at y=0 through a scatterplot
+how to colour by multiple groups within data points in plot in r
+http://www.sthda.com/english/wiki/ggplot2-scatter-plots-quick-start-guide-r-software-and-data-visualization
+histogram & freedman-diaconis rule
+
+https://www.rdocumentation.org/packages/corrplot/versions/0.2-0/topics/corrplot
+corrplot R input 
+how to check correlation across different variable pairs in a dataframe in R
+normalizing data in r
+https://www.r-bloggers.com/effect-of-normalization-of-data 
+
+plot multiple variables
+http://stackoverflow.com/questions/4877357/how-to-plot-all-the-columns-of-a-data-frame-in-r
+how to plot multiple line graphs in r
+http://www.sixhat.net/plotting-multiple-data-series-in-r.html
+http://www.sixhat.net/how-to-plot-multpile-data-series-with-ggplot.html
+plot.ts
+how to plot multi-panel in r
+how to plot multi-panel in ggplot in r
+how to alter margin in multiple panel plot in r
+http://stackoverflow.com/questions/15131926/plot-multiples-time-series-in-r-with-legend
+http://www.sthda.com/english/wiki/ggplot2-easy-way-to-mix-multiple-graphs-on-the-same-page-r-software-and-data-visualization
+
+https://www.r-bloggers.com/side-by-side-box-plots-with-patterns-from-data-sets-stacked-by-reshape2-and-melt-in-r/
+http://stackoverflow.com/questions/14604439/plot-multiple-boxplot-in-one-graph
+http://www.sthda.com/english/wiki/wiki.php?title=ggplot2-violin-plot-quick-start-guide-r-software-and-data-visualization
+http://www.sthda.com/english/wiki/ggplot2-violin-plot-quick-start-guide-r-software-and-data-visualization
+multiple colors in violin plot R
+color a matrix in R
+
+3D plots
+https://www.r-exercises.com/2016/04/06/3d-plotting-exercises/
+r-exercises 3d plotting
+plot3D, rgl
+
+####################################################################
+GOOGLE: data imputation
+how to assign values for missing time points in a dataframe in r
+how to check for missing data points in R
+how to check if there are NA values in a column in R
+how to check index of NA values in a column in R
+how to deal with NA values in ggplot
+ggplot order in the same order dataframe
+tapply FUN options
+how to take numeric value of a factor in R
+https://stackoverflow.com/questions/3418128/how-to-convert-a-factor-to-an-integer-numeric-without-a-loss-of-information 
+how to print row with min value in 1 column in a data frame in R
+https://nsaunders.wordpress.com/2010/08/20/a-brief-introduction-to-apply-in-r/
+http://stackoverflow.com/questions/23395366/mean-by-factor-by-level
+http://stackoverflow.com/questions/3858461/compute-means-of-a-group-by-factor
+http://stackoverflow.com/questions/1660124/how-to-sum-a-variable-by-group
+http://stats.stackexchange.com/questions/50623/r-calculating-mean-and-standard-error-of-mean-for-factors-with-lm-vs-direct
+	
+find unique pairs from 2 columns in a data frame in R
+how to remove characters partly from factor in R
+how to remove characters from a string in R
+
+https://stackoverflow.com/questions/3171426/compare-two-data-frames-to-find-the-rows-in-data-frame-1-that-are-not-present-in 
+
+#####################################################################
+https://stackoverflow.com/questions/5794414/using-multiple-criteria-in-subset-function-and-logical-operators 
+https://stat.ethz.ch/R-manual/R-devel/library/base/html/row.names.html  (rename rows)
+median values in ggplot boxplot not tallying with those calculated using median in R
+http://stackoverflow.com/questions/25007408/ggplot2-error-in-evalexpr-envir-enclos-object-not-found
+how to select the min y value for several x values in data frame
+how to remove  both rows with repeats in a dataframe
+how to remove rows with repeats in a dataframe
+cut a dataframe into equally spaced factor levels  (to bin data, by values of a variable as factor)
+how to calculate sumulative sum row wise for each value of a factor in a dataframe in R
+################################################################
+R tutorials:
+http://www.listendata.com/p/r-programming-tutorials.html  (CSG)
+http://rstatistics.net/r-tutorial-exercise-for-beginners/ 
+https://www.r-bloggers.com/one-page-r-a-survival-guide-to-data-science-with-r/ 
+https://togaware.com/onepager/ 
+https://cran.r-project.org/doc/manuals/R-intro.html
+http://www.r-tutor.com/
+https://www.tutorialspoint.com/r/
+https://www.datacamp.com/community/tutorials/functions-in-r-a-tutorial#gs.AdmfJdg 
+write a subroutine in R
+how to write a function in R
+https://www.datacamp.com/community/tutorials/functions-in-r-a-tutorial#gs.AREQkNk 
+
+https://www.tutorialspoint.com/python/
+https://campus.datacamp.com/courses/introduction-to-python-machine-learning-with-analytics-vidhya-hackathons/introduction-to-python-for-data-analysis?ex=4 
+
+#####################################################################################
+Python:
+https://pandas.pydata.org/pandas-docs/stable/10min.html  
+https://stackoverflow.com/questions/17098654/how-to-store-a-dataframe-using-pandas 
+https://stackoverflow.com/questions/19851005/rename-pandas-dataframe-index
+how to label index of a dataframe in python
+
+how to divide data into bins and apply factor in python
+https://chrisalbon.com/python/pandas_binning_data.html   (binning & factorisation)
+agg in pandas
+how to aggregate data by timestamp in python
+equivalent of tapply in python
+https://chrisalbon.com/python/pandas_group_data_by_time.html 
+https://pandas.pydata.org/pandas-docs/stable/generated/pandas.core.groupby.DataFrameGroupBy.agg.html 
+
+how to plot a dataframe in python
+how to plot bars in matplotlib
+rotate axis ticks on barplot in python
+https://stackoverflow.com/questions/17812978/how-to-plot-two-columns-of-a-pandas-data-frame-using-points
+how to plot time series data from a dataframe in python
+how to plot time series data in python
+https://machinelearningmastery.com/time-series-data-visualization-with-python/
+https://stackoverflow.com/questions/19079143/how-to-plot-time-series-in-python
+
+read index as datetime in python
+plot time series data from dataframe as bar plot in python
+https://stackoverflow.com/questions/2265357/parse-date-string-and-change-format 
+how to change datetime to date format in python 2.7
+
+how to select row corresponding to minimum value in a column in python dataframe
+how to save data to same file from for loop in python
+https://stackoverflow.com/questions/1684194/saving-output-of-a-for-loop-to-file 
+
+
+how to show variance explained by principal components in python
+scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html
+https://7264-843222-gh.circle-artifacts.com/0/home/ubuntu/scikit-learn/doc/_build/html/stable/auto_examples/preprocessing/plot_scaling_importance.html 
+
+how to use random forest in python
+https://www.dataquest.io/blog/python-vs-r/ 
+how to use regression forest in python
+http://www.blopig.com/blog/2017/07/using-random-forests-in-python-with-scikit-learn/ 
+http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html 
+http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html#examples-using-sklearn-ensemble-randomforestregressor 
+http://scikit-learn.org/stable/modules/ensemble.html#forest 
+how to find feature importance in python
+how to calculate feature importance for regression forest in python	
+http://scikit-learn.org/stable/auto_examples/ensemble/plot_forest_importances.html 
+normalization effect on feature importance
+normalization effect on decision tree
+
+how to check correlation among features in python
+https://stackoverflow.com/questions/29294983/how-to-calculate-correlation-between-all-columns-and-remove-highly-correlated-on
+https://stats.stackexchange.com/questions/50537/should-one-remove-highly-correlated-variables-before-doing-pca
+StandardScaler().fit(X_train)
+https://7264-843222-gh.circle-artifacts.com/0/home/ubuntu/scikit-learn/doc/_build/html/stable/auto_examples/preprocessing/plot_scaling_importance.html
+https://7264-843222-gh.circle-artifacts.com/0/home/ubuntu/scikit-learn/doc/_build/html/stable/modules/generated/sklearn.decomposition.PCA.html#sklearn.decomposition.PCA
+
+
+how to print oob score in python random forest
+https://stats.stackexchange.com/questions/70704/interpreting-out-of-bag-error-estimate-for-randomforestregressor 
+http://scikit-learn.org/stable/auto_examples/ensemble/plot_ensemble_oob.html
+http://scikit-learn.org/stable/modules/ensemble.html 
+print(f' {rf.oob_score_:>5.3}')
+print(f'Out-of-bag R-2 score estimate: {rf.oob_score_:>5.3}')
+
+how to check summary of regression forest run in python
+how to check summary of regression forest run in python similar to r summary
+https://www.dataquest.io/blog/python-vs-r/
+
+
+python grid search
+http://scikit-learn.org/stable/modules/grid_search.html
+http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html
+http://scikit-learn.org/stable/auto_examples/model_selection/plot_grid_search_digits.html
+how to create training and test set in python
+
+
+
+
+ 
+###################################################################
+GOOGLE:
+energy analytics use cases
+energy analytics case study
+analytics battery
+
+ibm energy analytics
+https://practicalanalytics.co/2015/05/25/big-data-analytics-use-cases/
+data analytics in electrical engineering data,  data analytics with electrical data
+machine learning on electrical energy data
+http://cs109-energy.github.io/
+how to analyse time series data on  power consumption
+https://www.slideshare.net/DavidWallom/generating-insight-from-big-data-in-energy-and-the-environment
+https://www.slideshare.net/promptcloud/big-data-in-big-energy-sector-59971490
+https://www.slideshare.net/hbosker/smart-analytics-for-the-utility-sector
+https://www.slideshare.net/eetpl/energy-data-analytics 
+https://connect.bosch.com/blogs/a2971dc2-9933-4e26-9e36-9ec9fd868975?lang=en_us 
+
+papers:
+http://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=energy 
+power consumption characteristic of a compressor
+what are operational modes of a compressor
+load monitoring industrial load
+operational modes AND load AND power AND machine learning
+machine learning and industrial load monitoring
+hvac nilm  fridge
+https://www.researchgate.net/publication/281643176_Non_Intrusive_Load_Monitoring_Systems_Metrics_and_Use_Cases 
+nilm disaggregating energy supply
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3571813/
+HVAC airconditioning
+http://www.consumerenergycenter.org/residential/heating_cooling/heating_cooling.html 
+predictive maintenance industrial energy
+http://ieeexplore.ieee.org/abstract/document/5754581/?part=1 
+https://www.google.com/patents/US6785592
+https://www.google.com/patents/US6732055
+
+
+google: 
+detect anomalies from power signature
+what constitutes an anomaly in power consumption
+anomalous pattern power data
+anomalous pattern energy data
+anomaly in energy consumption pattern
+Symbolic Aggregate approximation and real time
+Symbolic Aggregate approximation and online
+Symbolic Aggregate approximation and online monitoring
+compressor power characteristic at part load
+does scada predict anomalies
+scada predictive maintenance
+industrial load analysis
+industrial energy management
+difference between sanctioned load and contract demand
+how to detect motor fault from energy consumption
+online approach for energy efficiency monitoring
+machine fault monitoring from electrical data
+http://alumni.media.mit.edu/~deva/page0/
+
+condition monitoring
+condition monitoring from energy
+paper: Model-based methodology using modified sneak circuit analysis for power electronic converter fault diagnosis
+
+https://windeurope.org/summit2016/conference/submit-an-abstract/pdf/626738292593.pdf (Automatic Anomaly Detection in Offshore Wind SCADA Data) http://ieeexplore.ieee.org/document/7035504/ (Wind turbine anomaly detection using normal behavior models based on SCADA data)  
+http://ieeexplore.ieee.org/document/6000699/ (WEC condition monitoring based on SCADA data analysis)
+http://www.cv-tec.de/wp-content/uploads/160525_Anomaly_Detection__public.pdf
+http://www.pentaho.com/blog/2016/08/11/predictive-maintenance-anomaly-detection-spark
+anodot anomaly detection  (inspiration for the anomaly detection platform)
+
+
+demand side response
+https://scholar.google.co.in/scholar?q=demand+side+response&hl=en&as_sdt=0&as_vis=1&oi=scholart&sa=X&ved=0ahUKEwjb2LH83f7VAhXHsI8KHb-iBvgQgQMIIzAA
+how to implement demand side response
+demand side response in industry
+time of use tariff
+
+
+DATA SOURCES:
+KAGGLE  https://www.kaggle.com/datasets 
+UC Irvine
+https://data.gov.in/ 
+https://data.gov.in/sectors 
+energy geoplatform for open data initiative
+https://bioenergykdf.net/ 
+https://www.kaggle.com/c/grupo-bimbo-inventory-demand/data 
+https://energy.gov/downloads/green-button-sample-data-pge 
+
+microsoft azure energy data
+https://gallery.cortanaintelligence.com/browse?s=energy 
+https://gallery.cortanaintelligence.com/Experiment/Predictive-Maintenance-Modelling-Guide-Experiment-1 
+electrical engineers forum
+
+SAMPLE DATASETS:
+https://www.kaggle.com/p111110/greend-energy-dataset (household energy consumption, Italy & Austria)
+https://www.kaggle.com/txtrouble/wind-farms (off-shore industrial wind-turbine locations, USA)
+https://www.kaggle.com/adriferher/electric-power-consumption-data-set (electric power consumption dataset)
+https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption (Individual household electric power consumption Data Set)
+https://www.kaggle.com/nathanto/seds-1960-2014F (state energy system data)
+https://www.kaggle.com/louissg/renewable-energy-statistics (renewable energy, UK)
+https://archive.ics.uci.edu/ml/datasets/Energy+efficiency  (Energy efficiency Data Set)
+https://archive.ics.uci.edu/ml/datasets/Combined+Cycle+Power+Plant (Combined Cycle Power Plant Data Set)
+http://archive.ics.uci.edu/ml/datasets/Appliances+energy+prediction# 
+http://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption# 
+https://archive.ics.uci.edu/ml/datasets/Tamilnadu+Electricity+Board+Hourly+Readings (Tamilnadu Electricity Board Hourly Readings Data Set)
+https://archive.ics.uci.edu/ml/datasets/ElectricityLoadDiagrams20112014 (Electricity Load Diagrams 2011 2014 Data Set)
+https://archive.ics.uci.edu/ml/datasets/ser+Knowledge+Modeling+Data+%28Students'+Knowledge+Levels+on+DC+Electrical+Machines%29 (Students' Knowledge Levels on DC Electrical Machines)
+
+https://www.kaggle.com/ludobenistant/predictive-maintenance 
+
+https://www.kaggle.com/ludobenistant/time-serie-analysis
+https://www.kaggle.com/heuristicsoft/dataset-for-various-clustering-algorithm
+https://www.kaggle.com/heuristicsoft/dataset-for-hmm-clustering
+https://www.kaggle.com/ludobenistant/prioritization-matrix
+
+
+GOOGLE links on voltage & current domain:
+three phase circuits pdf
+total load current in a three phase system
+phase quantities in unbalanced three phase system
+3 phase power
+https://www.youtube.com/watch?v=Rv1un0fqLWc  (introduction to 3-phase systems)
+https://www.youtube.com/watch?v=MHwM1C1zUz4 
+resultant voltage in 3 phase system
+http://practicalphysics.org/explaining-rms-voltage-and-current.html
+https://www.youtube.com/watch?v=-4fbUPeQPaQ
+https://www.youtube.com/watch?v=Rv1un0fqLWc  (intro to 3 phase systems)
+https://www.youtube.com/watch?v=MHwM1C1zUz4  (lec 30: 3 phase system, nptel)
+http://hyperphysics.phy-astr.gsu.edu/hbase/magnetic/motorac.html
+is there a relation between back emf and reactive power
+back emf and reactive power
+why current lags voltage in inductance
+why reactive power occurs	
+http://www.animations.physics.unsw.edu.au/jw/AC.html
+quantify losses due to electric heating in motor
+quantify losses due to low power factor
+quantify losses due to phase imbalance
+Electric load forecasting – Tao Hong - OText
+how to calculate heat produced due to current imbalance
+problem with unbalanced electric load
+what happens if phase currents in 3 phase systems are different
+4 rule phase imbalance
+http://ecmweb.com/content/basics-voltage-imbalance 
+http://www.achrnews.com/articles/93649-three-phase-motor-voltage-unbalance 
+http://www.pumpsandsystems.com/motors/august-2014-three-phase-voltage-variation-unbalance-last-two-parts 
+electrical ground shift
+yokogawa ground shift
+symmetrical components
+scada systems
+
+SCADA and anomaly detection
+https://www.youtube.com/watch?v=tIU_wDVoEVE (scada tutorial)
+https://www.youtube.com/watch?v=bfxr5DikdP0 (back to basics: scada)
+
+
+simulate compressor data
+matlab simulink air compressor
+what happens if compressor operates above rated power
+what is anomalous behaviour of air compressors
+anomalous behaviour of compressors
+https://books.google.co.in/books?id=eYPvDAAAQBAJ&pg=PR26&lpg=PR26&dq=anomalous+behaviour+of+compressors&source=bl&ots=WLxwYpoHdr&sig=w9xLAAAAtXkgdRav1dZdgXf8H0I&hl=en&sa=X&ved=0ahUKEwiR9IXL1LLSAhUEi7wKHctnCB0Q6AEIOTAE#v=onepage&q=chapter%207&f=false 
+compressor operation data
+air compressor operation data
+http://www.airbestpractices.com/technology/instrumentation/6-reasons-log-your-compressed-air-system
+http://www.quincycompressor.com/how-to-make-your-air-compressor-more-efficient/ 
+types of air compressors
+http://www.engineeringtoolbox.com/air-compressor-types-d_441.html
+http://www.brighthubengineering.com/hvac/64884-different-types-of-air-compressors/#imgn_1
+
+
+energy cost as percentage of total operating cost in industry
+case study cost savings industrial energy management analytics
+how much savings from industrial energy management
+cost of using more energy in industry
+industry savings from energy management
+ 
+##############################################################
+GOOGLE:
+computational biology applications
+application of data analytics in healthcare
+https://www.datapine.com/kpi-examples-and-templates/healthcare 
+http://www.datapine.com/blog/big-data-examples-in-healthcare/ 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4341817/  (Big data analytics in healthcare: promise and potential)
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4242091/  (Applications of Business Analytics in Healthcare)
+https://www.ncbi.nlm.nih.gov/pubmed/20865540/ (Using Web and social media for influenza surveillance)
+https://www.google.org/flutrends/about/#US
+microsoft malaria prediction network
+microsoft dengue outbreak prediction
+non-invasive prediction diabetes
+non-invasive prediction anaemia
+detection of infection from human sera
+application of genetic algorithm
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4678452/ (The Applications of Genetic Algorithms in Medicine)
+http://www.sciencedirect.com/science/article/pii/S0001706X13002131 (Using global maps to predict the risk of dengue in Europe)
+	
+
+http://advances.sciencemag.org/content/3/6/e1700768.full  (statistical thinking for 21st century scientists)
+articles in nature (statistics for biologists, machine learning & applications in genetics & genomics)
+unsolved problems in bioinformatics
+unsolved problems in biology – the current state of thinking (paper by SB Dev)
+https://www.broadinstitute.org/scientific-community/science/mia/models-inference-algorithms
+
+http://www.kdnuggets.com/2017/06/dspp-protein-database-machine-learning-ai.html
+http://biorxiv.org/content/biorxiv/early/2017/06/01/144840.full.pdf 
+onlinelibrary.wiley.com/doi/10.15252/msb.20156651/full (deep learning for computational biology)
+
+protein crystal and machine learning
+
+https://github.com/beamandrew/medical-data/blob/master/README.md 
+
+http://www.icr.ac.uk/blogs/science-talk-the-icr-blog/page-details/five-reasons-we-re-excited-by-how-structural-biology-is-advancing-cancer-research?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bt7ARMy%2BBSki3VWtNB15AnQ%3D%3D
+
+http://www.biovoicenews.com/dbt-seeks-interest-for-young-innovative-biotechnologist-award-2017/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bt7ARMy%2BBSki3VWtNB15AnQ%3D%3D
+
