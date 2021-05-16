@@ -1,0 +1,6 @@
+# Azure
+
+https://docs.microsoft.com/en-us/learn/certifications/courses/dp-100t01
+
+https://docs.microsoft.com/en-us/learn/browse/?roles=administrator%2Cai-engineer%2Cdata-engineer%2Cdata-scientist%2Cdeveloper%2Cfunctional-consultant%2Csecurity-engineer%2Csolution-architect&resource_type=learning%20path
+
