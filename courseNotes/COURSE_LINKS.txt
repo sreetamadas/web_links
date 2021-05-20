@@ -3,3 +3,90 @@ https://xpro.mit.edu/catalog/
 
 https://onlinecourses.nptel.ac.in/noc20_cs88/preview  "Deep Learning for Computer Vision"
 
+
+##################################################################################
+
+1. Pattern Recognition and Image processing,  IISc - Bangalore 
+2. Extensive Vision AI Program(EVA5), The School of AI (ongoing)
+
+Udemy: 11 hours of course on Deep Learning, and Computer Vision A-ZTM: Open CV,SSD & GANs
+
+Analytics Vidhya: Natural Language Processing using Python
+Extensive Vision AI Program(EVA5) from The School of AI
+Natural Language Processing using Transformers from School of AI (END Course) - (Ongoing)
+
+INSOFE: PGP in Big Data Analytics and Optimization (6 Months)
+IIM Bangalore, Executive Programme on Big Data Analytics
+
+Coursera : Deep learning specialization
+AWS Cloud Practitioner, AWS Cloud Architect Associate (ongoing)
+Udemy-AWS Machine Learning Specialty (Done)
+Udemy-Deep Learning : Advanced Computer Vision-(Done)
+
+Machine Learning -IIT Kharagpur, Deep Learning -IIT Madras, Intel AI Program , Extensive Vision AI Program (The School of AI) -ongoing
+IISc Bangalore - Pattern Recognition and Image Processing, IISc Bangalore - Deep Reinforcement Learning, Udemy - MBA course online,
+Presentation Skills for Leaders, Augmented Reality, Android Development
+
+Coursera: GCP Fundamentals; Running Product Design Sprints (ongoing)
+
+Coursera :
+High Performance Collaboration: Leadership, Teamwork, and Negotiation
+Leadership Through Marketing
+Leadership Through Social Influence
+Leadership Communication for Maximum Impact: Storytelling
+
+
+1. Fundamentals of Accelerated Computing with CUDA Python NVIDIA Course
+2. Data Augmentation and Segmentation with Generative Networks for Medical Imaging NVIDIA Course
+3. Coarse to Fine Contextual Memory for Medical Imaging NVIDIA Course
+
+1. Computer Vision & Image Analysis by Microsoft 
+2. Udemy : Deep Learning & Computer Vision A-Z 
+
+
+1.Full stack deep learning - PMP course in Spring 2020.
+
+
+Azure certified ML proffessional (DP200 )
+Azure Cognitive Services (AI 100 )
+
+
+Coursera:
+Natural Language Processing with Probabilistic Models
+Natural Language Processing with Classification and Vector Spaces
+Natural Language Processing with Sequence Models
+Natural Language Processing with Attention Models 
+
+Udemy: Natural Language Processing with Deep Learning in Python 
+
+Coursera:
+Applied Data Science with Python : Specialization
+Advanced machine learning and signal processing
+
+Udemy :
+Apache Spark with Scala - Hands On with Big Data
+Natural Language Processing with Python
+
+AWS Certified Solution Architect; Wiley Certified Big Data Specialist; IBM Certified Data Scientist
+Microsoft (Edx) : Architecting Distributed Cloud Applications; Linux (Edx) : Introduction to Linux  (For Edge and Server Class Systems)
+AWS Training & Certification : Deploying on AWS (DevOps) ; Udemy Course : Enterprise Architect & TOGAF 
+
+1. Udemy - Deep Learning A-Z : Hands-On Artificial Neural Networks
+
+
+Apache Spark Scala Certified, 
+Data bricks Certified Training -  1. ETL Part 1: Data Extraction 
+                                                   2. Introduction to Unified Data Analytics with Databricks
+                                                   3. Getting Started with Apache Spark SQL
+                                                   4. Data Engineering with Databricks
+
+AWS Certified Developer Associate 
+Udemy - Advanced Hive 
+Google Certified Data Engineer 
+
+
+
+
+
+
+
