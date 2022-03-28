@@ -1,0 +1,8 @@
+# LIME & SHAP
+https://towardsdatascience.com/lime-vs-shap-which-is-better-for-explaining-machine-learning-models-d68d8290bb16
+
+
+
+# model explainability in CNNs
+https://towardsdatascience.com/convolutional-neural-network-feature-map-and-filter-visualization-f75012a5a49c
+https://towardsdatascience.com/explainable-deep-neural-networks-2f40b89d4d6f  (topology based)
