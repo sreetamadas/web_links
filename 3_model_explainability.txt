@@ -6,3 +6,5 @@ https://towardsdatascience.com/lime-vs-shap-which-is-better-for-explaining-machi
 # model explainability in CNNs
 https://towardsdatascience.com/convolutional-neural-network-feature-map-and-filter-visualization-f75012a5a49c
 https://towardsdatascience.com/explainable-deep-neural-networks-2f40b89d4d6f  (topology based)
+
+also see https://github.com/sreetamadas/sample_Python_code/blob/master/CV/image_classification/REF_model_explainability.txt
