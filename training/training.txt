@@ -27,3 +27,13 @@ Azure Data fundamentals (Azure Data fundamentals DP900)
 Exam AI-100: Designing and Implementing an Azure AI Solution - Learn | Microsoft Docs
 Exam DP-200: Implementing an Azure Data Solution - Learn | Microsoft Docs
 
+
+
+
+====================================
+Questions:
+1. how to get python code when using drag/ drop designer or autoML?
+2. for designer, there is option to deploy & set up endpoints for inferencing easily from the jobs list. How to accomplish this for custom model training?
+3. how to register models & data for custom training?
+
+
