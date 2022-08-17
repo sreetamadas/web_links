@@ -1,0 +1,29 @@
+# AZURE
+Azure AI fundamentals (Azure AI fundamentals AI900 )
+https://docs.microsoft.com/en-us/learn/paths/get-started-with-artificial-intelligence-on-azure/?source=learn
+https://docs.microsoft.com/en-us/learn/paths/create-no-code-predictive-models-azure-machine-learning/
+https://docs.microsoft.com/en-us/learn/paths/explore-computer-vision-microsoft-azure/
+https://docs.microsoft.com/en-us/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/
+https://docs.microsoft.com/en-us/learn/paths/explore-natural-language-processing/
+
+
+Azure fundamentals  (Azure fundamentals AZ900 )
+
+
+
+
+Microsoft data scientist DP100
+Microsoft AI Engineer AI102
+
+
+
+Azure Data fundamentals (Azure Data fundamentals DP900)
+
+
+
+
+
+=======================
+Exam AI-100: Designing and Implementing an Azure AI Solution - Learn | Microsoft Docs
+Exam DP-200: Implementing an Azure Data Solution - Learn | Microsoft Docs
+
