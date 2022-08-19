@@ -5,6 +5,7 @@ https://docs.microsoft.com/en-us/learn/paths/create-no-code-predictive-models-az
 https://docs.microsoft.com/en-us/learn/paths/explore-computer-vision-microsoft-azure/
 https://docs.microsoft.com/en-us/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/
 https://docs.microsoft.com/en-us/learn/paths/explore-natural-language-processing/
+https://github.com/MicrosoftLearning/AI-900-AIFundamentals
 
 
 Azure fundamentals  (Azure fundamentals AZ900 )
