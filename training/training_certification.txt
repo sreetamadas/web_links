@@ -1,20 +1,27 @@
 # AZURE
+
+Azure fundamentals  (Azure fundamentals AZ900 )
+
+
+
 Azure AI fundamentals (Azure AI fundamentals AI900 )
 https://docs.microsoft.com/en-us/learn/paths/get-started-with-artificial-intelligence-on-azure/?source=learn
 https://docs.microsoft.com/en-us/learn/paths/create-no-code-predictive-models-azure-machine-learning/
 https://docs.microsoft.com/en-us/learn/paths/explore-computer-vision-microsoft-azure/
 https://docs.microsoft.com/en-us/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/
 https://docs.microsoft.com/en-us/learn/paths/explore-natural-language-processing/
-https://github.com/MicrosoftLearning/AI-900-AIFundamentals
-
-
-Azure fundamentals  (Azure fundamentals AZ900 )
-
+https://github.com/MicrosoftLearning/AI-900-AIFundamentals   (sample codes for the above services)
 
 
 
 Microsoft data scientist DP100
 Microsoft AI Engineer AI102
+
+# Azure ML labs
+https://microsoftlearning.github.io/mslearn-dp100/
+https://github.com/MicrosoftDocs/mslearn-aml-labs
+https://github.com/MicrosoftDocs/mslearn-aml-labs/tree/master/labdocs
+https://docs.microsoft.com/en-us/training/paths/build-ai-solutions-with-azure-ml-service/      (DP 100)
 
 
 
@@ -36,5 +43,21 @@ Questions:
 1. how to get python code when using drag/ drop designer or autoML?
 2. for designer, there is option to deploy & set up endpoints (make edits to the input data format to remove y col, test, consume, clean-up) for inferencing easily from the jobs list. How to accomplish this for custom model training?
 3. how to register models & data for custom training?
+
+======================================
+
+###   MLOps  ###
+https://github.com/Azure/mlops-v2
+https://azure.microsoft.com/en-us/services/machine-learning/mlops/#resources
+https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/ai-machine-learning-mlops
+https://docs.microsoft.com/en-us/azure/machine-learning/concept-model-management-and-deployment
+
+https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/machine-learning-at-scale-with-databricks-and-kubernetes/ba-p/3056539
+https://azure.microsoft.com/mediahandler/files/resourcefiles/mlops-infographic/MLOps%20Infographic.pdf
+https://docs.microsoft.com/en-us/azure/architecture/example-scenario/mlops/mlops-maturity-model
+https://research.gigaom.com/report/enterprise-readiness-of-cloud-mlops-a-gigaom-benchmark-report/
+https://www.linkedin.com/posts/damienbenveniste_machinelearning-datascientists-computerprogramming-activity-6922586810921488384-5ta1/
+
+
 
 
