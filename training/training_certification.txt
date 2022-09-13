@@ -31,6 +31,21 @@ Azure Data fundamentals (Azure Data fundamentals DP900)
 
 
 
+###   MLOps  ###
+https://github.com/Azure/mlops-v2
+https://azure.microsoft.com/en-us/services/machine-learning/mlops/#resources
+https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/ai-machine-learning-mlops
+https://docs.microsoft.com/en-us/azure/machine-learning/concept-model-management-and-deployment
+
+https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/machine-learning-at-scale-with-databricks-and-kubernetes/ba-p/3056539
+https://azure.microsoft.com/mediahandler/files/resourcefiles/mlops-infographic/MLOps%20Infographic.pdf
+https://docs.microsoft.com/en-us/azure/architecture/example-scenario/mlops/mlops-maturity-model
+https://research.gigaom.com/report/enterprise-readiness-of-cloud-mlops-a-gigaom-benchmark-report/
+https://www.linkedin.com/posts/damienbenveniste_machinelearning-datascientists-computerprogramming-activity-6922586810921488384-5ta1/
+https://github.com/niall-turbitt/e2e-mlops
+https://github.com/david-tempelmann/e2e-mlops
+
+
 =======================
 Exam AI-100: Designing and Implementing an Azure AI Solution - Learn | Microsoft Docs
 Exam DP-200: Implementing an Azure Data Solution - Learn | Microsoft Docs
@@ -45,19 +60,5 @@ Questions:
 3. how to register models & data for custom training?
 
 ======================================
-
-###   MLOps  ###
-https://github.com/Azure/mlops-v2
-https://azure.microsoft.com/en-us/services/machine-learning/mlops/#resources
-https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/ai-machine-learning-mlops
-https://docs.microsoft.com/en-us/azure/machine-learning/concept-model-management-and-deployment
-
-https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/machine-learning-at-scale-with-databricks-and-kubernetes/ba-p/3056539
-https://azure.microsoft.com/mediahandler/files/resourcefiles/mlops-infographic/MLOps%20Infographic.pdf
-https://docs.microsoft.com/en-us/azure/architecture/example-scenario/mlops/mlops-maturity-model
-https://research.gigaom.com/report/enterprise-readiness-of-cloud-mlops-a-gigaom-benchmark-report/
-https://www.linkedin.com/posts/damienbenveniste_machinelearning-datascientists-computerprogramming-activity-6922586810921488384-5ta1/
-
-
 
 
